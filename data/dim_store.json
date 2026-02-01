@@ -1,0 +1,92 @@
+[
+  {
+    "store_id": "ST1",
+    "store_name": "Store_1",
+    "store_type": "Owned",
+    "branch_id": "BR4",
+    "manager_name": "Store_Manager_1",
+    "phone": "9175187360",
+    "area_sqft": 1904
+  },
+  {
+    "store_id": "ST2",
+    "store_name": "Store_2",
+    "store_type": "Owned",
+    "branch_id": "BR1",
+    "manager_name": "Store_Manager_2",
+    "phone": "9496578135",
+    "area_sqft": 812
+  },
+  {
+    "store_id": "ST3",
+    "store_name": "Store_3",
+    "store_type": "Owned",
+    "branch_id": "BR1",
+    "manager_name": "Store_Manager_3",
+    "phone": "9166855118",
+    "area_sqft": 979
+  },
+  {
+    "store_id": "ST4",
+    "store_name": "Store_4",
+    "store_type": "Owned",
+    "branch_id": "BR5",
+    "manager_name": "Store_Manager_4",
+    "phone": "9647049433",
+    "area_sqft": 1180
+  },
+  {
+    "store_id": "ST5",
+    "store_name": "Store_5",
+    "store_type": "Franchise",
+    "branch_id": "BR3",
+    "manager_name": "Store_Manager_5",
+    "phone": "9488954891",
+    "area_sqft": 1751
+  },
+  {
+    "store_id": "ST6",
+    "store_name": "Store_6",
+    "store_type": "Franchise",
+    "branch_id": "BR2",
+    "manager_name": "Store_Manager_6",
+    "phone": "9449889400",
+    "area_sqft": 1411
+  },
+  {
+    "store_id": "ST7",
+    "store_name": "Store_7",
+    "store_type": "Owned",
+    "branch_id": "BR4",
+    "manager_name": "Store_Manager_7",
+    "phone": "9247249356",
+    "area_sqft": 639
+  },
+  {
+    "store_id": "ST8",
+    "store_name": "Store_8",
+    "store_type": "Owned",
+    "branch_id": "BR2",
+    "manager_name": "Store_Manager_8",
+    "phone": "9850208313",
+    "area_sqft": 1874
+  },
+  {
+    "store_id": "ST9",
+    "store_name": "Store_9",
+    "store_type": "Owned",
+    "branch_id": "BR4",
+    "manager_name": "Store_Manager_9",
+    "phone": "9394144173",
+    "area_sqft": 1396
+  },
+  {
+    "store_id": "ST10",
+    "store_name": "Store_10",
+    "store_type": "Franchise",
+    "branch_id": "BR1",
+    "manager_name": "Store_Manager_10",
+    "phone": "9519149135",
+    "area_sqft": 1151
+  }
+]

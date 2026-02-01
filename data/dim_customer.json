@@ -1,0 +1,1802 @@
+[
+  {
+    "customer_id": "C1",
+    "customer_name": "Customer_1",
+    "phone": "9810986468",
+    "city": "Hyderabad",
+    "customer_tier": "New",
+    "loyalty_points": 644,
+    "registration_date": "2025-12-01"
+  },
+  {
+    "customer_id": "C2",
+    "customer_name": "Customer_2",
+    "phone": "9622813657",
+    "city": "Chennai",
+    "customer_tier": "New",
+    "loyalty_points": 831,
+    "registration_date": "2026-01-02"
+  },
+  {
+    "customer_id": "C3",
+    "customer_name": "Customer_3",
+    "phone": "9133749544",
+    "city": "Bangalore",
+    "customer_tier": "New",
+    "loyalty_points": 620,
+    "registration_date": "2025-03-27"
+  },
+  {
+    "customer_id": "C4",
+    "customer_name": "Customer_4",
+    "phone": "9825871825",
+    "city": "Hyderabad",
+    "customer_tier": "New",
+    "loyalty_points": 1335,
+    "registration_date": "2025-10-23"
+  },
+  {
+    "customer_id": "C5",
+    "customer_name": "Customer_5",
+    "phone": "9712904844",
+    "city": "Bangalore",
+    "customer_tier": "Gold",
+    "loyalty_points": 926,
+    "registration_date": "2025-08-24"
+  },
+  {
+    "customer_id": "C6",
+    "customer_name": "Customer_6",
+    "phone": "9787950386",
+    "city": "Chennai",
+    "customer_tier": "New",
+    "loyalty_points": 4139,
+    "registration_date": "2025-10-01"
+  },
+  {
+    "customer_id": "C7",
+    "customer_name": "Customer_7",
+    "phone": "9890936493",
+    "city": "Hyderabad",
+    "customer_tier": "Silver",
+    "loyalty_points": 2264,
+    "registration_date": "2025-02-11"
+  },
+  {
+    "customer_id": "C8",
+    "customer_name": "Customer_8",
+    "phone": "9905146977",
+    "city": "Bangalore",
+    "customer_tier": "Silver",
+    "loyalty_points": 2145,
+    "registration_date": "2025-11-10"
+  },
+  {
+    "customer_id": "C9",
+    "customer_name": "Customer_9",
+    "phone": "9497288384",
+    "city": "Chennai",
+    "customer_tier": "Silver",
+    "loyalty_points": 4607,
+    "registration_date": "2025-07-19"
+  },
+  {
+    "customer_id": "C10",
+    "customer_name": "Customer_10",
+    "phone": "9121150448",
+    "city": "Hyderabad",
+    "customer_tier": "Gold",
+    "loyalty_points": 4141,
+    "registration_date": "2025-11-04"
+  },
+  {
+    "customer_id": "C11",
+    "customer_name": "Customer_11",
+    "phone": "9723370638",
+    "city": "Delhi",
+    "customer_tier": "Gold",
+    "loyalty_points": 4025,
+    "registration_date": "2025-03-23"
+  },
+  {
+    "customer_id": "C12",
+    "customer_name": "Customer_12",
+    "phone": "9552877353",
+    "city": "Hyderabad",
+    "customer_tier": "New",
+    "loyalty_points": 593,
+    "registration_date": "2025-12-05"
+  },
+  {
+    "customer_id": "C13",
+    "customer_name": "Customer_13",
+    "phone": "9699132103",
+    "city": "Hyderabad",
+    "customer_tier": "Silver",
+    "loyalty_points": 75,
+    "registration_date": "2025-07-07"
+  },
+  {
+    "customer_id": "C14",
+    "customer_name": "Customer_14",
+    "phone": "9297661354",
+    "city": "Bangalore",
+    "customer_tier": "New",
+    "loyalty_points": 2820,
+    "registration_date": "2025-12-07"
+  },
+  {
+    "customer_id": "C15",
+    "customer_name": "Customer_15",
+    "phone": "9261408716",
+    "city": "Chennai",
+    "customer_tier": "New",
+    "loyalty_points": 790,
+    "registration_date": "2025-02-05"
+  },
+  {
+    "customer_id": "C16",
+    "customer_name": "Customer_16",
+    "phone": "9727695436",
+    "city": "Chennai",
+    "customer_tier": "Gold",
+    "loyalty_points": 1947,
+    "registration_date": "2025-07-07"
+  },
+  {
+    "customer_id": "C17",
+    "customer_name": "Customer_17",
+    "phone": "9542674124",
+    "city": "Delhi",
+    "customer_tier": "Gold",
+    "loyalty_points": 4793,
+    "registration_date": "2025-09-01"
+  },
+  {
+    "customer_id": "C18",
+    "customer_name": "Customer_18",
+    "phone": "9535043217",
+    "city": "Bangalore",
+    "customer_tier": "Gold",
+    "loyalty_points": 722,
+    "registration_date": "2025-11-15"
+  },
+  {
+    "customer_id": "C19",
+    "customer_name": "Customer_19",
+    "phone": "9889117082",
+    "city": "Chennai",
+    "customer_tier": "Silver",
+    "loyalty_points": 3673,
+    "registration_date": "2025-07-14"
+  },
+  {
+    "customer_id": "C20",
+    "customer_name": "Customer_20",
+    "phone": "9806074359",
+    "city": "Chennai",
+    "customer_tier": "Gold",
+    "loyalty_points": 4496,
+    "registration_date": "2025-08-30"
+  },
+  {
+    "customer_id": "C21",
+    "customer_name": "Customer_21",
+    "phone": "9958836302",
+    "city": "Chennai",
+    "customer_tier": "Silver",
+    "loyalty_points": 4510,
+    "registration_date": "2025-08-06"
+  },
+  {
+    "customer_id": "C22",
+    "customer_name": "Customer_22",
+    "phone": "9825313433",
+    "city": "Delhi",
+    "customer_tier": "Silver",
+    "loyalty_points": 906,
+    "registration_date": "2025-12-26"
+  },
+  {
+    "customer_id": "C23",
+    "customer_name": "Customer_23",
+    "phone": "9869211616",
+    "city": "Delhi",
+    "customer_tier": "New",
+    "loyalty_points": 4792,
+    "registration_date": "2025-03-16"
+  },
+  {
+    "customer_id": "C24",
+    "customer_name": "Customer_24",
+    "phone": "9498848706",
+    "city": "Chennai",
+    "customer_tier": "Silver",
+    "loyalty_points": 1333,
+    "registration_date": "2025-02-15"
+  },
+  {
+    "customer_id": "C25",
+    "customer_name": "Customer_25",
+    "phone": "9857629778",
+    "city": "Delhi",
+    "customer_tier": "Gold",
+    "loyalty_points": 3566,
+    "registration_date": "2025-08-22"
+  },
+  {
+    "customer_id": "C26",
+    "customer_name": "Customer_26",
+    "phone": "9217728100",
+    "city": "Chennai",
+    "customer_tier": "Gold",
+    "loyalty_points": 3865,
+    "registration_date": "2025-02-18"
+  },
+  {
+    "customer_id": "C27",
+    "customer_name": "Customer_27",
+    "phone": "9846897485",
+    "city": "Chennai",
+    "customer_tier": "Silver",
+    "loyalty_points": 3293,
+    "registration_date": "2025-12-06"
+  },
+  {
+    "customer_id": "C28",
+    "customer_name": "Customer_28",
+    "phone": "9965349668",
+    "city": "Chennai",
+    "customer_tier": "Gold",
+    "loyalty_points": 332,
+    "registration_date": "2025-11-01"
+  },
+  {
+    "customer_id": "C29",
+    "customer_name": "Customer_29",
+    "phone": "9638910486",
+    "city": "Delhi",
+    "customer_tier": "Gold",
+    "loyalty_points": 3465,
+    "registration_date": "2025-09-17"
+  },
+  {
+    "customer_id": "C30",
+    "customer_name": "Customer_30",
+    "phone": "9695052519",
+    "city": "Bangalore",
+    "customer_tier": "Silver",
+    "loyalty_points": 3924,
+    "registration_date": "2025-09-08"
+  },
+  {
+    "customer_id": "C31",
+    "customer_name": "Customer_31",
+    "phone": "9186798012",
+    "city": "Bangalore",
+    "customer_tier": "Silver",
+    "loyalty_points": 1167,
+    "registration_date": "2025-06-17"
+  },
+  {
+    "customer_id": "C32",
+    "customer_name": "Customer_32",
+    "phone": "9781823268",
+    "city": "Delhi",
+    "customer_tier": "New",
+    "loyalty_points": 3136,
+    "registration_date": "2025-10-12"
+  },
+  {
+    "customer_id": "C33",
+    "customer_name": "Customer_33",
+    "phone": "9389368181",
+    "city": "Hyderabad",
+    "customer_tier": "New",
+    "loyalty_points": 4891,
+    "registration_date": "2025-02-05"
+  },
+  {
+    "customer_id": "C34",
+    "customer_name": "Customer_34",
+    "phone": "9429810628",
+    "city": "Chennai",
+    "customer_tier": "Silver",
+    "loyalty_points": 2370,
+    "registration_date": "2025-03-11"
+  },
+  {
+    "customer_id": "C35",
+    "customer_name": "Customer_35",
+    "phone": "9832213041",
+    "city": "Chennai",
+    "customer_tier": "New",
+    "loyalty_points": 4965,
+    "registration_date": "2025-07-06"
+  },
+  {
+    "customer_id": "C36",
+    "customer_name": "Customer_36",
+    "phone": "9316163013",
+    "city": "Hyderabad",
+    "customer_tier": "Silver",
+    "loyalty_points": 888,
+    "registration_date": "2025-07-11"
+  },
+  {
+    "customer_id": "C37",
+    "customer_name": "Customer_37",
+    "phone": "9312614894",
+    "city": "Chennai",
+    "customer_tier": "New",
+    "loyalty_points": 2134,
+    "registration_date": "2025-03-26"
+  },
+  {
+    "customer_id": "C38",
+    "customer_name": "Customer_38",
+    "phone": "9342187549",
+    "city": "Chennai",
+    "customer_tier": "Gold",
+    "loyalty_points": 2807,
+    "registration_date": "2025-12-25"
+  },
+  {
+    "customer_id": "C39",
+    "customer_name": "Customer_39",
+    "phone": "9702873894",
+    "city": "Hyderabad",
+    "customer_tier": "New",
+    "loyalty_points": 3249,
+    "registration_date": "2025-06-23"
+  },
+  {
+    "customer_id": "C40",
+    "customer_name": "Customer_40",
+    "phone": "9948284669",
+    "city": "Chennai",
+    "customer_tier": "Silver",
+    "loyalty_points": 589,
+    "registration_date": "2025-02-10"
+  },
+  {
+    "customer_id": "C41",
+    "customer_name": "Customer_41",
+    "phone": "9459037565",
+    "city": "Hyderabad",
+    "customer_tier": "Gold",
+    "loyalty_points": 2476,
+    "registration_date": "2025-02-09"
+  },
+  {
+    "customer_id": "C42",
+    "customer_name": "Customer_42",
+    "phone": "9659524468",
+    "city": "Bangalore",
+    "customer_tier": "Silver",
+    "loyalty_points": 2523,
+    "registration_date": "2025-06-10"
+  },
+  {
+    "customer_id": "C43",
+    "customer_name": "Customer_43",
+    "phone": "9397750732",
+    "city": "Bangalore",
+    "customer_tier": "Silver",
+    "loyalty_points": 1663,
+    "registration_date": "2025-03-28"
+  },
+  {
+    "customer_id": "C44",
+    "customer_name": "Customer_44",
+    "phone": "9543491703",
+    "city": "Hyderabad",
+    "customer_tier": "Silver",
+    "loyalty_points": 2196,
+    "registration_date": "2025-11-14"
+  },
+  {
+    "customer_id": "C45",
+    "customer_name": "Customer_45",
+    "phone": "9410252173",
+    "city": "Hyderabad",
+    "customer_tier": "New",
+    "loyalty_points": 1897,
+    "registration_date": "2025-05-07"
+  },
+  {
+    "customer_id": "C46",
+    "customer_name": "Customer_46",
+    "phone": "9436078484",
+    "city": "Chennai",
+    "customer_tier": "Gold",
+    "loyalty_points": 1604,
+    "registration_date": "2025-04-26"
+  },
+  {
+    "customer_id": "C47",
+    "customer_name": "Customer_47",
+    "phone": "9547206954",
+    "city": "Hyderabad",
+    "customer_tier": "New",
+    "loyalty_points": 2993,
+    "registration_date": "2025-02-21"
+  },
+  {
+    "customer_id": "C48",
+    "customer_name": "Customer_48",
+    "phone": "9169593325",
+    "city": "Bangalore",
+    "customer_tier": "Gold",
+    "loyalty_points": 3633,
+    "registration_date": "2025-05-24"
+  },
+  {
+    "customer_id": "C49",
+    "customer_name": "Customer_49",
+    "phone": "9745066582",
+    "city": "Chennai",
+    "customer_tier": "Gold",
+    "loyalty_points": 600,
+    "registration_date": "2025-06-24"
+  },
+  {
+    "customer_id": "C50",
+    "customer_name": "Customer_50",
+    "phone": "9159205483",
+    "city": "Hyderabad",
+    "customer_tier": "New",
+    "loyalty_points": 4212,
+    "registration_date": "2025-08-02"
+  },
+  {
+    "customer_id": "C51",
+    "customer_name": "Customer_51",
+    "phone": "9945742519",
+    "city": "Delhi",
+    "customer_tier": "Silver",
+    "loyalty_points": 4314,
+    "registration_date": "2025-06-02"
+  },
+  {
+    "customer_id": "C52",
+    "customer_name": "Customer_52",
+    "phone": "9110656906",
+    "city": "Hyderabad",
+    "customer_tier": "New",
+    "loyalty_points": 3540,
+    "registration_date": "2025-05-07"
+  },
+  {
+    "customer_id": "C53",
+    "customer_name": "Customer_53",
+    "phone": "9465304772",
+    "city": "Bangalore",
+    "customer_tier": "New",
+    "loyalty_points": 4328,
+    "registration_date": "2025-07-19"
+  },
+  {
+    "customer_id": "C54",
+    "customer_name": "Customer_54",
+    "phone": "9270365235",
+    "city": "Chennai",
+    "customer_tier": "New",
+    "loyalty_points": 3554,
+    "registration_date": "2025-04-10"
+  },
+  {
+    "customer_id": "C55",
+    "customer_name": "Customer_55",
+    "phone": "9335581560",
+    "city": "Hyderabad",
+    "customer_tier": "New",
+    "loyalty_points": 1478,
+    "registration_date": "2025-02-19"
+  },
+  {
+    "customer_id": "C56",
+    "customer_name": "Customer_56",
+    "phone": "9679023551",
+    "city": "Delhi",
+    "customer_tier": "Gold",
+    "loyalty_points": 330,
+    "registration_date": "2025-09-26"
+  },
+  {
+    "customer_id": "C57",
+    "customer_name": "Customer_57",
+    "phone": "9892202096",
+    "city": "Delhi",
+    "customer_tier": "Gold",
+    "loyalty_points": 4262,
+    "registration_date": "2025-02-23"
+  },
+  {
+    "customer_id": "C58",
+    "customer_name": "Customer_58",
+    "phone": "9611172920",
+    "city": "Hyderabad",
+    "customer_tier": "New",
+    "loyalty_points": 2543,
+    "registration_date": "2025-07-23"
+  },
+  {
+    "customer_id": "C59",
+    "customer_name": "Customer_59",
+    "phone": "9602902037",
+    "city": "Chennai",
+    "customer_tier": "Silver",
+    "loyalty_points": 3963,
+    "registration_date": "2025-09-17"
+  },
+  {
+    "customer_id": "C60",
+    "customer_name": "Customer_60",
+    "phone": "9672373666",
+    "city": "Bangalore",
+    "customer_tier": "Gold",
+    "loyalty_points": 1166,
+    "registration_date": "2025-08-13"
+  },
+  {
+    "customer_id": "C61",
+    "customer_name": "Customer_61",
+    "phone": "9809890719",
+    "city": "Delhi",
+    "customer_tier": "Gold",
+    "loyalty_points": 3277,
+    "registration_date": "2025-08-28"
+  },
+  {
+    "customer_id": "C62",
+    "customer_name": "Customer_62",
+    "phone": "9294472311",
+    "city": "Bangalore",
+    "customer_tier": "Gold",
+    "loyalty_points": 1386,
+    "registration_date": "2025-02-25"
+  },
+  {
+    "customer_id": "C63",
+    "customer_name": "Customer_63",
+    "phone": "9256858724",
+    "city": "Chennai",
+    "customer_tier": "Gold",
+    "loyalty_points": 3565,
+    "registration_date": "2025-05-08"
+  },
+  {
+    "customer_id": "C64",
+    "customer_name": "Customer_64",
+    "phone": "9526429898",
+    "city": "Chennai",
+    "customer_tier": "Silver",
+    "loyalty_points": 11,
+    "registration_date": "2025-04-29"
+  },
+  {
+    "customer_id": "C65",
+    "customer_name": "Customer_65",
+    "phone": "9925660643",
+    "city": "Bangalore",
+    "customer_tier": "New",
+    "loyalty_points": 36,
+    "registration_date": "2025-06-28"
+  },
+  {
+    "customer_id": "C66",
+    "customer_name": "Customer_66",
+    "phone": "9736782396",
+    "city": "Chennai",
+    "customer_tier": "Gold",
+    "loyalty_points": 784,
+    "registration_date": "2025-11-22"
+  },
+  {
+    "customer_id": "C67",
+    "customer_name": "Customer_67",
+    "phone": "9397224738",
+    "city": "Delhi",
+    "customer_tier": "Silver",
+    "loyalty_points": 672,
+    "registration_date": "2025-03-26"
+  },
+  {
+    "customer_id": "C68",
+    "customer_name": "Customer_68",
+    "phone": "9538305807",
+    "city": "Hyderabad",
+    "customer_tier": "Silver",
+    "loyalty_points": 4347,
+    "registration_date": "2025-12-25"
+  },
+  {
+    "customer_id": "C69",
+    "customer_name": "Customer_69",
+    "phone": "9138850585",
+    "city": "Delhi",
+    "customer_tier": "New",
+    "loyalty_points": 4584,
+    "registration_date": "2025-04-25"
+  },
+  {
+    "customer_id": "C70",
+    "customer_name": "Customer_70",
+    "phone": "9997240083",
+    "city": "Bangalore",
+    "customer_tier": "Gold",
+    "loyalty_points": 514,
+    "registration_date": "2025-12-04"
+  },
+  {
+    "customer_id": "C71",
+    "customer_name": "Customer_71",
+    "phone": "9244946872",
+    "city": "Hyderabad",
+    "customer_tier": "Gold",
+    "loyalty_points": 3366,
+    "registration_date": "2025-12-26"
+  },
+  {
+    "customer_id": "C72",
+    "customer_name": "Customer_72",
+    "phone": "9854775115",
+    "city": "Hyderabad",
+    "customer_tier": "Silver",
+    "loyalty_points": 1329,
+    "registration_date": "2025-07-24"
+  },
+  {
+    "customer_id": "C73",
+    "customer_name": "Customer_73",
+    "phone": "9344722203",
+    "city": "Hyderabad",
+    "customer_tier": "Gold",
+    "loyalty_points": 1458,
+    "registration_date": "2025-02-05"
+  },
+  {
+    "customer_id": "C74",
+    "customer_name": "Customer_74",
+    "phone": "9992179404",
+    "city": "Delhi",
+    "customer_tier": "New",
+    "loyalty_points": 4402,
+    "registration_date": "2025-09-24"
+  },
+  {
+    "customer_id": "C75",
+    "customer_name": "Customer_75",
+    "phone": "9750599864",
+    "city": "Hyderabad",
+    "customer_tier": "Silver",
+    "loyalty_points": 1185,
+    "registration_date": "2025-11-14"
+  },
+  {
+    "customer_id": "C76",
+    "customer_name": "Customer_76",
+    "phone": "9392527434",
+    "city": "Delhi",
+    "customer_tier": "New",
+    "loyalty_points": 2262,
+    "registration_date": "2025-04-04"
+  },
+  {
+    "customer_id": "C77",
+    "customer_name": "Customer_77",
+    "phone": "9867521572",
+    "city": "Delhi",
+    "customer_tier": "Silver",
+    "loyalty_points": 2549,
+    "registration_date": "2025-05-22"
+  },
+  {
+    "customer_id": "C78",
+    "customer_name": "Customer_78",
+    "phone": "9665305571",
+    "city": "Delhi",
+    "customer_tier": "New",
+    "loyalty_points": 2962,
+    "registration_date": "2025-10-31"
+  },
+  {
+    "customer_id": "C79",
+    "customer_name": "Customer_79",
+    "phone": "9404005109",
+    "city": "Hyderabad",
+    "customer_tier": "New",
+    "loyalty_points": 1174,
+    "registration_date": "2025-04-28"
+  },
+  {
+    "customer_id": "C80",
+    "customer_name": "Customer_80",
+    "phone": "9774181870",
+    "city": "Delhi",
+    "customer_tier": "Silver",
+    "loyalty_points": 1750,
+    "registration_date": "2025-08-08"
+  },
+  {
+    "customer_id": "C81",
+    "customer_name": "Customer_81",
+    "phone": "9134040181",
+    "city": "Bangalore",
+    "customer_tier": "New",
+    "loyalty_points": 802,
+    "registration_date": "2025-05-22"
+  },
+  {
+    "customer_id": "C82",
+    "customer_name": "Customer_82",
+    "phone": "9588569628",
+    "city": "Hyderabad",
+    "customer_tier": "Gold",
+    "loyalty_points": 579,
+    "registration_date": "2025-07-22"
+  },
+  {
+    "customer_id": "C83",
+    "customer_name": "Customer_83",
+    "phone": "9522947649",
+    "city": "Delhi",
+    "customer_tier": "Gold",
+    "loyalty_points": 3920,
+    "registration_date": "2025-03-26"
+  },
+  {
+    "customer_id": "C84",
+    "customer_name": "Customer_84",
+    "phone": "9151745494",
+    "city": "Chennai",
+    "customer_tier": "Gold",
+    "loyalty_points": 4010,
+    "registration_date": "2025-08-08"
+  },
+  {
+    "customer_id": "C85",
+    "customer_name": "Customer_85",
+    "phone": "9460791326",
+    "city": "Chennai",
+    "customer_tier": "Gold",
+    "loyalty_points": 686,
+    "registration_date": "2025-10-18"
+  },
+  {
+    "customer_id": "C86",
+    "customer_name": "Customer_86",
+    "phone": "9584285736",
+    "city": "Delhi",
+    "customer_tier": "Gold",
+    "loyalty_points": 1318,
+    "registration_date": "2025-11-11"
+  },
+  {
+    "customer_id": "C87",
+    "customer_name": "Customer_87",
+    "phone": "9626198730",
+    "city": "Delhi",
+    "customer_tier": "New",
+    "loyalty_points": 4535,
+    "registration_date": "2025-03-23"
+  },
+  {
+    "customer_id": "C88",
+    "customer_name": "Customer_88",
+    "phone": "9508033968",
+    "city": "Delhi",
+    "customer_tier": "New",
+    "loyalty_points": 117,
+    "registration_date": "2025-10-09"
+  },
+  {
+    "customer_id": "C89",
+    "customer_name": "Customer_89",
+    "phone": "9940948482",
+    "city": "Chennai",
+    "customer_tier": "Gold",
+    "loyalty_points": 2167,
+    "registration_date": "2025-11-11"
+  },
+  {
+    "customer_id": "C90",
+    "customer_name": "Customer_90",
+    "phone": "9650135975",
+    "city": "Bangalore",
+    "customer_tier": "New",
+    "loyalty_points": 2312,
+    "registration_date": "2025-10-10"
+  },
+  {
+    "customer_id": "C91",
+    "customer_name": "Customer_91",
+    "phone": "9358787550",
+    "city": "Chennai",
+    "customer_tier": "Silver",
+    "loyalty_points": 4799,
+    "registration_date": "2025-11-04"
+  },
+  {
+    "customer_id": "C92",
+    "customer_name": "Customer_92",
+    "phone": "9730127217",
+    "city": "Chennai",
+    "customer_tier": "New",
+    "loyalty_points": 1652,
+    "registration_date": "2025-08-07"
+  },
+  {
+    "customer_id": "C93",
+    "customer_name": "Customer_93",
+    "phone": "9731687931",
+    "city": "Bangalore",
+    "customer_tier": "Silver",
+    "loyalty_points": 41,
+    "registration_date": "2025-10-12"
+  },
+  {
+    "customer_id": "C94",
+    "customer_name": "Customer_94",
+    "phone": "9331235554",
+    "city": "Bangalore",
+    "customer_tier": "Silver",
+    "loyalty_points": 730,
+    "registration_date": "2025-09-22"
+  },
+  {
+    "customer_id": "C95",
+    "customer_name": "Customer_95",
+    "phone": "9167235284",
+    "city": "Chennai",
+    "customer_tier": "Silver",
+    "loyalty_points": 3023,
+    "registration_date": "2025-10-31"
+  },
+  {
+    "customer_id": "C96",
+    "customer_name": "Customer_96",
+    "phone": "9435673376",
+    "city": "Bangalore",
+    "customer_tier": "Silver",
+    "loyalty_points": 239,
+    "registration_date": "2025-05-02"
+  },
+  {
+    "customer_id": "C97",
+    "customer_name": "Customer_97",
+    "phone": "9718705418",
+    "city": "Delhi",
+    "customer_tier": "New",
+    "loyalty_points": 473,
+    "registration_date": "2025-05-07"
+  },
+  {
+    "customer_id": "C98",
+    "customer_name": "Customer_98",
+    "phone": "9190301627",
+    "city": "Hyderabad",
+    "customer_tier": "Gold",
+    "loyalty_points": 981,
+    "registration_date": "2025-03-27"
+  },
+  {
+    "customer_id": "C99",
+    "customer_name": "Customer_99",
+    "phone": "9668494751",
+    "city": "Chennai",
+    "customer_tier": "Gold",
+    "loyalty_points": 3219,
+    "registration_date": "2025-10-11"
+  },
+  {
+    "customer_id": "C100",
+    "customer_name": "Customer_100",
+    "phone": "9688860736",
+    "city": "Chennai",
+    "customer_tier": "Silver",
+    "loyalty_points": 837,
+    "registration_date": "2025-07-27"
+  },
+  {
+    "customer_id": "C101",
+    "customer_name": "Customer_101",
+    "phone": "9637011010",
+    "city": "Hyderabad",
+    "customer_tier": "New",
+    "loyalty_points": 1631,
+    "registration_date": "2025-10-21"
+  },
+  {
+    "customer_id": "C102",
+    "customer_name": "Customer_102",
+    "phone": "9852037616",
+    "city": "Hyderabad",
+    "customer_tier": "Gold",
+    "loyalty_points": 3024,
+    "registration_date": "2025-07-21"
+  },
+  {
+    "customer_id": "C103",
+    "customer_name": "Customer_103",
+    "phone": "9798274659",
+    "city": "Chennai",
+    "customer_tier": "New",
+    "loyalty_points": 1795,
+    "registration_date": "2025-04-25"
+  },
+  {
+    "customer_id": "C104",
+    "customer_name": "Customer_104",
+    "phone": "9815120764",
+    "city": "Delhi",
+    "customer_tier": "New",
+    "loyalty_points": 2365,
+    "registration_date": "2025-08-26"
+  },
+  {
+    "customer_id": "C105",
+    "customer_name": "Customer_105",
+    "phone": "9246242099",
+    "city": "Hyderabad",
+    "customer_tier": "Gold",
+    "loyalty_points": 3038,
+    "registration_date": "2025-11-08"
+  },
+  {
+    "customer_id": "C106",
+    "customer_name": "Customer_106",
+    "phone": "9647692777",
+    "city": "Hyderabad",
+    "customer_tier": "New",
+    "loyalty_points": 1648,
+    "registration_date": "2025-09-04"
+  },
+  {
+    "customer_id": "C107",
+    "customer_name": "Customer_107",
+    "phone": "9657663629",
+    "city": "Bangalore",
+    "customer_tier": "Silver",
+    "loyalty_points": 2001,
+    "registration_date": "2025-06-20"
+  },
+  {
+    "customer_id": "C108",
+    "customer_name": "Customer_108",
+    "phone": "9381880098",
+    "city": "Delhi",
+    "customer_tier": "Gold",
+    "loyalty_points": 2372,
+    "registration_date": "2025-02-06"
+  },
+  {
+    "customer_id": "C109",
+    "customer_name": "Customer_109",
+    "phone": "9691174793",
+    "city": "Delhi",
+    "customer_tier": "Gold",
+    "loyalty_points": 1883,
+    "registration_date": "2025-07-12"
+  },
+  {
+    "customer_id": "C110",
+    "customer_name": "Customer_110",
+    "phone": "9168567505",
+    "city": "Chennai",
+    "customer_tier": "New",
+    "loyalty_points": 3346,
+    "registration_date": "2025-07-10"
+  },
+  {
+    "customer_id": "C111",
+    "customer_name": "Customer_111",
+    "phone": "9628755344",
+    "city": "Delhi",
+    "customer_tier": "Silver",
+    "loyalty_points": 725,
+    "registration_date": "2025-11-02"
+  },
+  {
+    "customer_id": "C112",
+    "customer_name": "Customer_112",
+    "phone": "9859485221",
+    "city": "Delhi",
+    "customer_tier": "Silver",
+    "loyalty_points": 4125,
+    "registration_date": "2025-02-17"
+  },
+  {
+    "customer_id": "C113",
+    "customer_name": "Customer_113",
+    "phone": "9583917644",
+    "city": "Chennai",
+    "customer_tier": "New",
+    "loyalty_points": 2170,
+    "registration_date": "2025-07-09"
+  },
+  {
+    "customer_id": "C114",
+    "customer_name": "Customer_114",
+    "phone": "9238493969",
+    "city": "Delhi",
+    "customer_tier": "Gold",
+    "loyalty_points": 3676,
+    "registration_date": "2025-08-31"
+  },
+  {
+    "customer_id": "C115",
+    "customer_name": "Customer_115",
+    "phone": "9850330424",
+    "city": "Chennai",
+    "customer_tier": "Silver",
+    "loyalty_points": 596,
+    "registration_date": "2025-09-07"
+  },
+  {
+    "customer_id": "C116",
+    "customer_name": "Customer_116",
+    "phone": "9388926134",
+    "city": "Hyderabad",
+    "customer_tier": "Silver",
+    "loyalty_points": 3001,
+    "registration_date": "2025-08-13"
+  },
+  {
+    "customer_id": "C117",
+    "customer_name": "Customer_117",
+    "phone": "9672845447",
+    "city": "Bangalore",
+    "customer_tier": "Gold",
+    "loyalty_points": 3437,
+    "registration_date": "2025-03-10"
+  },
+  {
+    "customer_id": "C118",
+    "customer_name": "Customer_118",
+    "phone": "9517349868",
+    "city": "Hyderabad",
+    "customer_tier": "Silver",
+    "loyalty_points": 217,
+    "registration_date": "2025-09-04"
+  },
+  {
+    "customer_id": "C119",
+    "customer_name": "Customer_119",
+    "phone": "9553741837",
+    "city": "Hyderabad",
+    "customer_tier": "Gold",
+    "loyalty_points": 3832,
+    "registration_date": "2025-05-26"
+  },
+  {
+    "customer_id": "C120",
+    "customer_name": "Customer_120",
+    "phone": "9412410308",
+    "city": "Hyderabad",
+    "customer_tier": "Gold",
+    "loyalty_points": 2035,
+    "registration_date": "2025-02-25"
+  },
+  {
+    "customer_id": "C121",
+    "customer_name": "Customer_121",
+    "phone": "9692214538",
+    "city": "Delhi",
+    "customer_tier": "New",
+    "loyalty_points": 2528,
+    "registration_date": "2025-12-25"
+  },
+  {
+    "customer_id": "C122",
+    "customer_name": "Customer_122",
+    "phone": "9459144387",
+    "city": "Delhi",
+    "customer_tier": "Gold",
+    "loyalty_points": 540,
+    "registration_date": "2025-10-30"
+  },
+  {
+    "customer_id": "C123",
+    "customer_name": "Customer_123",
+    "phone": "9756411627",
+    "city": "Chennai",
+    "customer_tier": "Gold",
+    "loyalty_points": 648,
+    "registration_date": "2025-08-11"
+  },
+  {
+    "customer_id": "C124",
+    "customer_name": "Customer_124",
+    "phone": "9893254702",
+    "city": "Bangalore",
+    "customer_tier": "New",
+    "loyalty_points": 3194,
+    "registration_date": "2025-10-19"
+  },
+  {
+    "customer_id": "C125",
+    "customer_name": "Customer_125",
+    "phone": "9681994293",
+    "city": "Bangalore",
+    "customer_tier": "New",
+    "loyalty_points": 3147,
+    "registration_date": "2025-12-19"
+  },
+  {
+    "customer_id": "C126",
+    "customer_name": "Customer_126",
+    "phone": "9446739652",
+    "city": "Bangalore",
+    "customer_tier": "Gold",
+    "loyalty_points": 2915,
+    "registration_date": "2025-10-20"
+  },
+  {
+    "customer_id": "C127",
+    "customer_name": "Customer_127",
+    "phone": "9878094497",
+    "city": "Delhi",
+    "customer_tier": "Gold",
+    "loyalty_points": 3211,
+    "registration_date": "2025-02-19"
+  },
+  {
+    "customer_id": "C128",
+    "customer_name": "Customer_128",
+    "phone": "9775488038",
+    "city": "Bangalore",
+    "customer_tier": "Gold",
+    "loyalty_points": 2830,
+    "registration_date": "2025-11-14"
+  },
+  {
+    "customer_id": "C129",
+    "customer_name": "Customer_129",
+    "phone": "9118630525",
+    "city": "Bangalore",
+    "customer_tier": "New",
+    "loyalty_points": 108,
+    "registration_date": "2025-09-11"
+  },
+  {
+    "customer_id": "C130",
+    "customer_name": "Customer_130",
+    "phone": "9594830766",
+    "city": "Delhi",
+    "customer_tier": "New",
+    "loyalty_points": 2773,
+    "registration_date": "2025-09-14"
+  },
+  {
+    "customer_id": "C131",
+    "customer_name": "Customer_131",
+    "phone": "9144118272",
+    "city": "Hyderabad",
+    "customer_tier": "New",
+    "loyalty_points": 4829,
+    "registration_date": "2025-12-29"
+  },
+  {
+    "customer_id": "C132",
+    "customer_name": "Customer_132",
+    "phone": "9292169318",
+    "city": "Bangalore",
+    "customer_tier": "Silver",
+    "loyalty_points": 1160,
+    "registration_date": "2025-08-13"
+  },
+  {
+    "customer_id": "C133",
+    "customer_name": "Customer_133",
+    "phone": "9330163576",
+    "city": "Bangalore",
+    "customer_tier": "New",
+    "loyalty_points": 4171,
+    "registration_date": "2025-11-24"
+  },
+  {
+    "customer_id": "C134",
+    "customer_name": "Customer_134",
+    "phone": "9511692598",
+    "city": "Bangalore",
+    "customer_tier": "Silver",
+    "loyalty_points": 764,
+    "registration_date": "2025-12-06"
+  },
+  {
+    "customer_id": "C135",
+    "customer_name": "Customer_135",
+    "phone": "9792519498",
+    "city": "Chennai",
+    "customer_tier": "New",
+    "loyalty_points": 4580,
+    "registration_date": "2025-09-05"
+  },
+  {
+    "customer_id": "C136",
+    "customer_name": "Customer_136",
+    "phone": "9513830274",
+    "city": "Chennai",
+    "customer_tier": "Gold",
+    "loyalty_points": 864,
+    "registration_date": "2025-06-16"
+  },
+  {
+    "customer_id": "C137",
+    "customer_name": "Customer_137",
+    "phone": "9569080849",
+    "city": "Bangalore",
+    "customer_tier": "New",
+    "loyalty_points": 302,
+    "registration_date": "2025-11-30"
+  },
+  {
+    "customer_id": "C138",
+    "customer_name": "Customer_138",
+    "phone": "9310962321",
+    "city": "Chennai",
+    "customer_tier": "Silver",
+    "loyalty_points": 3413,
+    "registration_date": "2025-12-25"
+  },
+  {
+    "customer_id": "C139",
+    "customer_name": "Customer_139",
+    "phone": "9475201439",
+    "city": "Hyderabad",
+    "customer_tier": "Gold",
+    "loyalty_points": 4101,
+    "registration_date": "2025-05-26"
+  },
+  {
+    "customer_id": "C140",
+    "customer_name": "Customer_140",
+    "phone": "9581174542",
+    "city": "Delhi",
+    "customer_tier": "Silver",
+    "loyalty_points": 1991,
+    "registration_date": "2025-10-18"
+  },
+  {
+    "customer_id": "C141",
+    "customer_name": "Customer_141",
+    "phone": "9300815662",
+    "city": "Delhi",
+    "customer_tier": "Silver",
+    "loyalty_points": 2180,
+    "registration_date": "2025-03-12"
+  },
+  {
+    "customer_id": "C142",
+    "customer_name": "Customer_142",
+    "phone": "9115055820",
+    "city": "Bangalore",
+    "customer_tier": "New",
+    "loyalty_points": 2308,
+    "registration_date": "2025-08-17"
+  },
+  {
+    "customer_id": "C143",
+    "customer_name": "Customer_143",
+    "phone": "9132559598",
+    "city": "Hyderabad",
+    "customer_tier": "Silver",
+    "loyalty_points": 2614,
+    "registration_date": "2025-06-06"
+  },
+  {
+    "customer_id": "C144",
+    "customer_name": "Customer_144",
+    "phone": "9529096504",
+    "city": "Delhi",
+    "customer_tier": "Gold",
+    "loyalty_points": 2749,
+    "registration_date": "2025-07-19"
+  },
+  {
+    "customer_id": "C145",
+    "customer_name": "Customer_145",
+    "phone": "9655729764",
+    "city": "Delhi",
+    "customer_tier": "Gold",
+    "loyalty_points": 4990,
+    "registration_date": "2025-10-21"
+  },
+  {
+    "customer_id": "C146",
+    "customer_name": "Customer_146",
+    "phone": "9132443399",
+    "city": "Bangalore",
+    "customer_tier": "New",
+    "loyalty_points": 90,
+    "registration_date": "2025-08-23"
+  },
+  {
+    "customer_id": "C147",
+    "customer_name": "Customer_147",
+    "phone": "9419819759",
+    "city": "Bangalore",
+    "customer_tier": "New",
+    "loyalty_points": 747,
+    "registration_date": "2025-02-07"
+  },
+  {
+    "customer_id": "C148",
+    "customer_name": "Customer_148",
+    "phone": "9670053900",
+    "city": "Hyderabad",
+    "customer_tier": "New",
+    "loyalty_points": 968,
+    "registration_date": "2025-10-12"
+  },
+  {
+    "customer_id": "C149",
+    "customer_name": "Customer_149",
+    "phone": "9865602558",
+    "city": "Delhi",
+    "customer_tier": "Silver",
+    "loyalty_points": 4034,
+    "registration_date": "2025-08-23"
+  },
+  {
+    "customer_id": "C150",
+    "customer_name": "Customer_150",
+    "phone": "9266852140",
+    "city": "Bangalore",
+    "customer_tier": "Gold",
+    "loyalty_points": 1125,
+    "registration_date": "2025-05-13"
+  },
+  {
+    "customer_id": "C151",
+    "customer_name": "Customer_151",
+    "phone": "9156827540",
+    "city": "Chennai",
+    "customer_tier": "Silver",
+    "loyalty_points": 3299,
+    "registration_date": "2025-08-06"
+  },
+  {
+    "customer_id": "C152",
+    "customer_name": "Customer_152",
+    "phone": "9836388194",
+    "city": "Delhi",
+    "customer_tier": "Gold",
+    "loyalty_points": 3307,
+    "registration_date": "2025-05-19"
+  },
+  {
+    "customer_id": "C153",
+    "customer_name": "Customer_153",
+    "phone": "9745608147",
+    "city": "Delhi",
+    "customer_tier": "Gold",
+    "loyalty_points": 2618,
+    "registration_date": "2025-09-17"
+  },
+  {
+    "customer_id": "C154",
+    "customer_name": "Customer_154",
+    "phone": "9459991540",
+    "city": "Hyderabad",
+    "customer_tier": "Silver",
+    "loyalty_points": 4000,
+    "registration_date": "2025-08-31"
+  },
+  {
+    "customer_id": "C155",
+    "customer_name": "Customer_155",
+    "phone": "9701151957",
+    "city": "Hyderabad",
+    "customer_tier": "Silver",
+    "loyalty_points": 3640,
+    "registration_date": "2026-01-01"
+  },
+  {
+    "customer_id": "C156",
+    "customer_name": "Customer_156",
+    "phone": "9649199916",
+    "city": "Chennai",
+    "customer_tier": "New",
+    "loyalty_points": 4985,
+    "registration_date": "2025-06-18"
+  },
+  {
+    "customer_id": "C157",
+    "customer_name": "Customer_157",
+    "phone": "9374759435",
+    "city": "Chennai",
+    "customer_tier": "New",
+    "loyalty_points": 305,
+    "registration_date": "2025-09-29"
+  },
+  {
+    "customer_id": "C158",
+    "customer_name": "Customer_158",
+    "phone": "9992836492",
+    "city": "Chennai",
+    "customer_tier": "Gold",
+    "loyalty_points": 2022,
+    "registration_date": "2025-11-22"
+  },
+  {
+    "customer_id": "C159",
+    "customer_name": "Customer_159",
+    "phone": "9720586525",
+    "city": "Delhi",
+    "customer_tier": "Gold",
+    "loyalty_points": 4112,
+    "registration_date": "2025-03-28"
+  },
+  {
+    "customer_id": "C160",
+    "customer_name": "Customer_160",
+    "phone": "9845831836",
+    "city": "Delhi",
+    "customer_tier": "Gold",
+    "loyalty_points": 462,
+    "registration_date": "2025-07-06"
+  },
+  {
+    "customer_id": "C161",
+    "customer_name": "Customer_161",
+    "phone": "9440202541",
+    "city": "Hyderabad",
+    "customer_tier": "New",
+    "loyalty_points": 2624,
+    "registration_date": "2025-03-14"
+  },
+  {
+    "customer_id": "C162",
+    "customer_name": "Customer_162",
+    "phone": "9759977908",
+    "city": "Bangalore",
+    "customer_tier": "Silver",
+    "loyalty_points": 1684,
+    "registration_date": "2025-03-13"
+  },
+  {
+    "customer_id": "C163",
+    "customer_name": "Customer_163",
+    "phone": "9240583979",
+    "city": "Chennai",
+    "customer_tier": "Silver",
+    "loyalty_points": 3698,
+    "registration_date": "2025-08-19"
+  },
+  {
+    "customer_id": "C164",
+    "customer_name": "Customer_164",
+    "phone": "9146235829",
+    "city": "Delhi",
+    "customer_tier": "Gold",
+    "loyalty_points": 4961,
+    "registration_date": "2025-04-25"
+  },
+  {
+    "customer_id": "C165",
+    "customer_name": "Customer_165",
+    "phone": "9992303645",
+    "city": "Hyderabad",
+    "customer_tier": "Silver",
+    "loyalty_points": 2133,
+    "registration_date": "2025-10-25"
+  },
+  {
+    "customer_id": "C166",
+    "customer_name": "Customer_166",
+    "phone": "9119398511",
+    "city": "Hyderabad",
+    "customer_tier": "Silver",
+    "loyalty_points": 3075,
+    "registration_date": "2025-08-22"
+  },
+  {
+    "customer_id": "C167",
+    "customer_name": "Customer_167",
+    "phone": "9196311726",
+    "city": "Chennai",
+    "customer_tier": "Gold",
+    "loyalty_points": 1504,
+    "registration_date": "2025-09-03"
+  },
+  {
+    "customer_id": "C168",
+    "customer_name": "Customer_168",
+    "phone": "9956150599",
+    "city": "Bangalore",
+    "customer_tier": "Silver",
+    "loyalty_points": 2857,
+    "registration_date": "2025-03-05"
+  },
+  {
+    "customer_id": "C169",
+    "customer_name": "Customer_169",
+    "phone": "9463431873",
+    "city": "Bangalore",
+    "customer_tier": "Silver",
+    "loyalty_points": 3582,
+    "registration_date": "2025-07-19"
+  },
+  {
+    "customer_id": "C170",
+    "customer_name": "Customer_170",
+    "phone": "9933091308",
+    "city": "Hyderabad",
+    "customer_tier": "Silver",
+    "loyalty_points": 4050,
+    "registration_date": "2025-04-21"
+  },
+  {
+    "customer_id": "C171",
+    "customer_name": "Customer_171",
+    "phone": "9670600996",
+    "city": "Chennai",
+    "customer_tier": "Gold",
+    "loyalty_points": 4200,
+    "registration_date": "2025-11-18"
+  },
+  {
+    "customer_id": "C172",
+    "customer_name": "Customer_172",
+    "phone": "9244035240",
+    "city": "Bangalore",
+    "customer_tier": "Silver",
+    "loyalty_points": 3236,
+    "registration_date": "2025-11-28"
+  },
+  {
+    "customer_id": "C173",
+    "customer_name": "Customer_173",
+    "phone": "9752533010",
+    "city": "Chennai",
+    "customer_tier": "Silver",
+    "loyalty_points": 1740,
+    "registration_date": "2025-05-24"
+  },
+  {
+    "customer_id": "C174",
+    "customer_name": "Customer_174",
+    "phone": "9730140232",
+    "city": "Bangalore",
+    "customer_tier": "New",
+    "loyalty_points": 2155,
+    "registration_date": "2025-02-06"
+  },
+  {
+    "customer_id": "C175",
+    "customer_name": "Customer_175",
+    "phone": "9681499108",
+    "city": "Hyderabad",
+    "customer_tier": "New",
+    "loyalty_points": 3410,
+    "registration_date": "2025-03-14"
+  },
+  {
+    "customer_id": "C176",
+    "customer_name": "Customer_176",
+    "phone": "9888556035",
+    "city": "Bangalore",
+    "customer_tier": "Gold",
+    "loyalty_points": 4613,
+    "registration_date": "2025-10-18"
+  },
+  {
+    "customer_id": "C177",
+    "customer_name": "Customer_177",
+    "phone": "9815051751",
+    "city": "Delhi",
+    "customer_tier": "Silver",
+    "loyalty_points": 1789,
+    "registration_date": "2025-08-01"
+  },
+  {
+    "customer_id": "C178",
+    "customer_name": "Customer_178",
+    "phone": "9498689008",
+    "city": "Delhi",
+    "customer_tier": "New",
+    "loyalty_points": 3030,
+    "registration_date": "2025-02-28"
+  },
+  {
+    "customer_id": "C179",
+    "customer_name": "Customer_179",
+    "phone": "9436861714",
+    "city": "Delhi",
+    "customer_tier": "New",
+    "loyalty_points": 4975,
+    "registration_date": "2025-10-20"
+  },
+  {
+    "customer_id": "C180",
+    "customer_name": "Customer_180",
+    "phone": "9647814182",
+    "city": "Bangalore",
+    "customer_tier": "Silver",
+    "loyalty_points": 2787,
+    "registration_date": "2025-11-08"
+  },
+  {
+    "customer_id": "C181",
+    "customer_name": "Customer_181",
+    "phone": "9957693918",
+    "city": "Hyderabad",
+    "customer_tier": "New",
+    "loyalty_points": 4308,
+    "registration_date": "2025-10-02"
+  },
+  {
+    "customer_id": "C182",
+    "customer_name": "Customer_182",
+    "phone": "9207095096",
+    "city": "Hyderabad",
+    "customer_tier": "Silver",
+    "loyalty_points": 1601,
+    "registration_date": "2025-11-13"
+  },
+  {
+    "customer_id": "C183",
+    "customer_name": "Customer_183",
+    "phone": "9310364142",
+    "city": "Chennai",
+    "customer_tier": "Gold",
+    "loyalty_points": 830,
+    "registration_date": "2025-12-30"
+  },
+  {
+    "customer_id": "C184",
+    "customer_name": "Customer_184",
+    "phone": "9349633683",
+    "city": "Hyderabad",
+    "customer_tier": "Gold",
+    "loyalty_points": 3874,
+    "registration_date": "2025-12-27"
+  },
+  {
+    "customer_id": "C185",
+    "customer_name": "Customer_185",
+    "phone": "9465916966",
+    "city": "Bangalore",
+    "customer_tier": "Silver",
+    "loyalty_points": 3114,
+    "registration_date": "2025-11-27"
+  },
+  {
+    "customer_id": "C186",
+    "customer_name": "Customer_186",
+    "phone": "9567070700",
+    "city": "Bangalore",
+    "customer_tier": "Silver",
+    "loyalty_points": 1167,
+    "registration_date": "2025-03-24"
+  },
+  {
+    "customer_id": "C187",
+    "customer_name": "Customer_187",
+    "phone": "9795005201",
+    "city": "Bangalore",
+    "customer_tier": "Gold",
+    "loyalty_points": 4902,
+    "registration_date": "2025-02-18"
+  },
+  {
+    "customer_id": "C188",
+    "customer_name": "Customer_188",
+    "phone": "9958099347",
+    "city": "Hyderabad",
+    "customer_tier": "Gold",
+    "loyalty_points": 1308,
+    "registration_date": "2025-02-20"
+  },
+  {
+    "customer_id": "C189",
+    "customer_name": "Customer_189",
+    "phone": "9631938424",
+    "city": "Bangalore",
+    "customer_tier": "Gold",
+    "loyalty_points": 873,
+    "registration_date": "2025-02-04"
+  },
+  {
+    "customer_id": "C190",
+    "customer_name": "Customer_190",
+    "phone": "9447353926",
+    "city": "Hyderabad",
+    "customer_tier": "New",
+    "loyalty_points": 2067,
+    "registration_date": "2025-04-30"
+  },
+  {
+    "customer_id": "C191",
+    "customer_name": "Customer_191",
+    "phone": "9510737664",
+    "city": "Bangalore",
+    "customer_tier": "New",
+    "loyalty_points": 4005,
+    "registration_date": "2025-05-05"
+  },
+  {
+    "customer_id": "C192",
+    "customer_name": "Customer_192",
+    "phone": "9648588697",
+    "city": "Hyderabad",
+    "customer_tier": "Silver",
+    "loyalty_points": 3710,
+    "registration_date": "2025-12-30"
+  },
+  {
+    "customer_id": "C193",
+    "customer_name": "Customer_193",
+    "phone": "9900551871",
+    "city": "Hyderabad",
+    "customer_tier": "Silver",
+    "loyalty_points": 2502,
+    "registration_date": "2025-04-03"
+  },
+  {
+    "customer_id": "C194",
+    "customer_name": "Customer_194",
+    "phone": "9293130039",
+    "city": "Hyderabad",
+    "customer_tier": "New",
+    "loyalty_points": 2416,
+    "registration_date": "2025-02-17"
+  },
+  {
+    "customer_id": "C195",
+    "customer_name": "Customer_195",
+    "phone": "9709853486",
+    "city": "Bangalore",
+    "customer_tier": "New",
+    "loyalty_points": 4124,
+    "registration_date": "2025-12-05"
+  },
+  {
+    "customer_id": "C196",
+    "customer_name": "Customer_196",
+    "phone": "9418189447",
+    "city": "Delhi",
+    "customer_tier": "Silver",
+    "loyalty_points": 2864,
+    "registration_date": "2025-12-03"
+  },
+  {
+    "customer_id": "C197",
+    "customer_name": "Customer_197",
+    "phone": "9760665365",
+    "city": "Chennai",
+    "customer_tier": "New",
+    "loyalty_points": 3129,
+    "registration_date": "2025-06-07"
+  },
+  {
+    "customer_id": "C198",
+    "customer_name": "Customer_198",
+    "phone": "9967022860",
+    "city": "Chennai",
+    "customer_tier": "New",
+    "loyalty_points": 3207,
+    "registration_date": "2025-08-24"
+  },
+  {
+    "customer_id": "C199",
+    "customer_name": "Customer_199",
+    "phone": "9140231769",
+    "city": "Bangalore",
+    "customer_tier": "Gold",
+    "loyalty_points": 2417,
+    "registration_date": "2025-03-10"
+  },
+  {
+    "customer_id": "C200",
+    "customer_name": "Customer_200",
+    "phone": "9582736635",
+    "city": "Bangalore",
+    "customer_tier": "Gold",
+    "loyalty_points": 1589,
+    "registration_date": "2025-12-25"
+  }
+]

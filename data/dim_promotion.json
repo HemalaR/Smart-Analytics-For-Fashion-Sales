@@ -1,0 +1,162 @@
+[
+  {
+    "promotion_id": "PR1",
+    "promotion_name": "Promo_1",
+    "discount_percentage": 0.15,
+    "start_date": "2025-12-03",
+    "end_date": "2026-03-09",
+    "min_purchase_amount": 2168
+  },
+  {
+    "promotion_id": "PR2",
+    "promotion_name": "Promo_2",
+    "discount_percentage": 0.1,
+    "start_date": "2026-01-05",
+    "end_date": "2026-03-21",
+    "min_purchase_amount": 1556
+  },
+  {
+    "promotion_id": "PR3",
+    "promotion_name": "Promo_3",
+    "discount_percentage": 0.2,
+    "start_date": "2026-01-05",
+    "end_date": "2026-02-21",
+    "min_purchase_amount": 1425
+  },
+  {
+    "promotion_id": "PR4",
+    "promotion_name": "Promo_4",
+    "discount_percentage": 0.25,
+    "start_date": "2026-01-15",
+    "end_date": "2026-02-13",
+    "min_purchase_amount": 4416
+  },
+  {
+    "promotion_id": "PR5",
+    "promotion_name": "Promo_5",
+    "discount_percentage": 0.3,
+    "start_date": "2026-01-13",
+    "end_date": "2026-02-13",
+    "min_purchase_amount": 4690
+  },
+  {
+    "promotion_id": "PR6",
+    "promotion_name": "Promo_6",
+    "discount_percentage": 0.3,
+    "start_date": "2025-12-12",
+    "end_date": "2026-03-03",
+    "min_purchase_amount": 2530
+  },
+  {
+    "promotion_id": "PR7",
+    "promotion_name": "Promo_7",
+    "discount_percentage": 0.1,
+    "start_date": "2025-12-28",
+    "end_date": "2026-02-26",
+    "min_purchase_amount": 1673
+  },
+  {
+    "promotion_id": "PR8",
+    "promotion_name": "Promo_8",
+    "discount_percentage": 0.1,
+    "start_date": "2026-01-16",
+    "end_date": "2026-03-19",
+    "min_purchase_amount": 1284
+  },
+  {
+    "promotion_id": "PR9",
+    "promotion_name": "Promo_9",
+    "discount_percentage": 0.25,
+    "start_date": "2026-01-15",
+    "end_date": "2026-03-22",
+    "min_purchase_amount": 4008
+  },
+  {
+    "promotion_id": "PR10",
+    "promotion_name": "Promo_10",
+    "discount_percentage": 0.15,
+    "start_date": "2026-01-05",
+    "end_date": "2026-03-08",
+    "min_purchase_amount": 2342
+  },
+  {
+    "promotion_id": "PR11",
+    "promotion_name": "Promo_11",
+    "discount_percentage": 0.2,
+    "start_date": "2025-12-28",
+    "end_date": "2026-03-25",
+    "min_purchase_amount": 4104
+  },
+  {
+    "promotion_id": "PR12",
+    "promotion_name": "Promo_12",
+    "discount_percentage": 0.25,
+    "start_date": "2026-01-21",
+    "end_date": "2026-02-19",
+    "min_purchase_amount": 2501
+  },
+  {
+    "promotion_id": "PR13",
+    "promotion_name": "Promo_13",
+    "discount_percentage": 0.2,
+    "start_date": "2026-01-05",
+    "end_date": "2026-03-23",
+    "min_purchase_amount": 3936
+  },
+  {
+    "promotion_id": "PR14",
+    "promotion_name": "Promo_14",
+    "discount_percentage": 0.1,
+    "start_date": "2025-12-03",
+    "end_date": "2026-03-16",
+    "min_purchase_amount": 2684
+  },
+  {
+    "promotion_id": "PR15",
+    "promotion_name": "Promo_15",
+    "discount_percentage": 0.25,
+    "start_date": "2025-12-29",
+    "end_date": "2026-02-16",
+    "min_purchase_amount": 2873
+  },
+  {
+    "promotion_id": "PR16",
+    "promotion_name": "Promo_16",
+    "discount_percentage": 0.15,
+    "start_date": "2025-12-04",
+    "end_date": "2026-02-15",
+    "min_purchase_amount": 2072
+  },
+  {
+    "promotion_id": "PR17",
+    "promotion_name": "Promo_17",
+    "discount_percentage": 0.25,
+    "start_date": "2025-12-14",
+    "end_date": "2026-02-15",
+    "min_purchase_amount": 1442
+  },
+  {
+    "promotion_id": "PR18",
+    "promotion_name": "Promo_18",
+    "discount_percentage": 0.1,
+    "start_date": "2026-01-13",
+    "end_date": "2026-02-27",
+    "min_purchase_amount": 1450
+  },
+  {
+    "promotion_id": "PR19",
+    "promotion_name": "Promo_19",
+    "discount_percentage": 0.15,
+    "start_date": "2025-12-10",
+    "end_date": "2026-02-28",
+    "min_purchase_amount": 1372
+  },
+  {
+    "promotion_id": "PR20",
+    "promotion_name": "Promo_20",
+    "discount_percentage": 0.15,
+    "start_date": "2025-12-13",
+    "end_date": "2026-02-21",
+    "min_purchase_amount": 1058
+  }
+]

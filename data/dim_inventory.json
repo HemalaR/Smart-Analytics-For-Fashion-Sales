@@ -1,0 +1,1602 @@
+[
+  {
+    "inventory_id": "INV1",
+    "product_id": "P42",
+    "store_id": "ST5",
+    "stock_level": 80,
+    "reorder_level": 17,
+    "last_updated": "2026-01-11"
+  },
+  {
+    "inventory_id": "INV2",
+    "product_id": "P1",
+    "store_id": "ST2",
+    "stock_level": 43,
+    "reorder_level": 19,
+    "last_updated": "2026-01-13"
+  },
+  {
+    "inventory_id": "INV3",
+    "product_id": "P4",
+    "store_id": "ST10",
+    "stock_level": 81,
+    "reorder_level": 31,
+    "last_updated": "2026-01-30"
+  },
+  {
+    "inventory_id": "INV4",
+    "product_id": "P20",
+    "store_id": "ST4",
+    "stock_level": 65,
+    "reorder_level": 38,
+    "last_updated": "2026-01-31"
+  },
+  {
+    "inventory_id": "INV5",
+    "product_id": "P18",
+    "store_id": "ST3",
+    "stock_level": 93,
+    "reorder_level": 39,
+    "last_updated": "2026-01-19"
+  },
+  {
+    "inventory_id": "INV6",
+    "product_id": "P30",
+    "store_id": "ST1",
+    "stock_level": 78,
+    "reorder_level": 49,
+    "last_updated": "2026-01-02"
+  },
+  {
+    "inventory_id": "INV7",
+    "product_id": "P41",
+    "store_id": "ST7",
+    "stock_level": 97,
+    "reorder_level": 11,
+    "last_updated": "2026-01-21"
+  },
+  {
+    "inventory_id": "INV8",
+    "product_id": "P26",
+    "store_id": "ST9",
+    "stock_level": 90,
+    "reorder_level": 24,
+    "last_updated": "2026-01-14"
+  },
+  {
+    "inventory_id": "INV9",
+    "product_id": "P37",
+    "store_id": "ST7",
+    "stock_level": 96,
+    "reorder_level": 10,
+    "last_updated": "2026-01-15"
+  },
+  {
+    "inventory_id": "INV10",
+    "product_id": "P16",
+    "store_id": "ST6",
+    "stock_level": 18,
+    "reorder_level": 20,
+    "last_updated": "2026-01-25"
+  },
+  {
+    "inventory_id": "INV11",
+    "product_id": "P8",
+    "store_id": "ST5",
+    "stock_level": 59,
+    "reorder_level": 40,
+    "last_updated": "2026-01-02"
+  },
+  {
+    "inventory_id": "INV12",
+    "product_id": "P8",
+    "store_id": "ST7",
+    "stock_level": 56,
+    "reorder_level": 38,
+    "last_updated": "2026-01-23"
+  },
+  {
+    "inventory_id": "INV13",
+    "product_id": "P48",
+    "store_id": "ST5",
+    "stock_level": 59,
+    "reorder_level": 45,
+    "last_updated": "2026-01-10"
+  },
+  {
+    "inventory_id": "INV14",
+    "product_id": "P29",
+    "store_id": "ST7",
+    "stock_level": 71,
+    "reorder_level": 19,
+    "last_updated": "2026-01-20"
+  },
+  {
+    "inventory_id": "INV15",
+    "product_id": "P2",
+    "store_id": "ST2",
+    "stock_level": 61,
+    "reorder_level": 24,
+    "last_updated": "2026-01-12"
+  },
+  {
+    "inventory_id": "INV16",
+    "product_id": "P18",
+    "store_id": "ST6",
+    "stock_level": 14,
+    "reorder_level": 10,
+    "last_updated": "2026-01-04"
+  },
+  {
+    "inventory_id": "INV17",
+    "product_id": "P19",
+    "store_id": "ST8",
+    "stock_level": 96,
+    "reorder_level": 43,
+    "last_updated": "2026-01-15"
+  },
+  {
+    "inventory_id": "INV18",
+    "product_id": "P7",
+    "store_id": "ST1",
+    "stock_level": 42,
+    "reorder_level": 31,
+    "last_updated": "2026-01-14"
+  },
+  {
+    "inventory_id": "INV19",
+    "product_id": "P40",
+    "store_id": "ST5",
+    "stock_level": 56,
+    "reorder_level": 28,
+    "last_updated": "2026-01-06"
+  },
+  {
+    "inventory_id": "INV20",
+    "product_id": "P44",
+    "store_id": "ST7",
+    "stock_level": 79,
+    "reorder_level": 41,
+    "last_updated": "2026-01-07"
+  },
+  {
+    "inventory_id": "INV21",
+    "product_id": "P22",
+    "store_id": "ST3",
+    "stock_level": 46,
+    "reorder_level": 41,
+    "last_updated": "2026-01-13"
+  },
+  {
+    "inventory_id": "INV22",
+    "product_id": "P16",
+    "store_id": "ST4",
+    "stock_level": 56,
+    "reorder_level": 49,
+    "last_updated": "2026-01-29"
+  },
+  {
+    "inventory_id": "INV23",
+    "product_id": "P24",
+    "store_id": "ST2",
+    "stock_level": 22,
+    "reorder_level": 13,
+    "last_updated": "2026-01-07"
+  },
+  {
+    "inventory_id": "INV24",
+    "product_id": "P39",
+    "store_id": "ST1",
+    "stock_level": 10,
+    "reorder_level": 43,
+    "last_updated": "2026-01-31"
+  },
+  {
+    "inventory_id": "INV25",
+    "product_id": "P26",
+    "store_id": "ST10",
+    "stock_level": 38,
+    "reorder_level": 50,
+    "last_updated": "2026-01-20"
+  },
+  {
+    "inventory_id": "INV26",
+    "product_id": "P42",
+    "store_id": "ST8",
+    "stock_level": 73,
+    "reorder_level": 35,
+    "last_updated": "2026-01-21"
+  },
+  {
+    "inventory_id": "INV27",
+    "product_id": "P23",
+    "store_id": "ST1",
+    "stock_level": 41,
+    "reorder_level": 30,
+    "last_updated": "2026-01-27"
+  },
+  {
+    "inventory_id": "INV28",
+    "product_id": "P16",
+    "store_id": "ST5",
+    "stock_level": 11,
+    "reorder_level": 26,
+    "last_updated": "2026-01-24"
+  },
+  {
+    "inventory_id": "INV29",
+    "product_id": "P33",
+    "store_id": "ST7",
+    "stock_level": 9,
+    "reorder_level": 19,
+    "last_updated": "2026-01-14"
+  },
+  {
+    "inventory_id": "INV30",
+    "product_id": "P7",
+    "store_id": "ST5",
+    "stock_level": 16,
+    "reorder_level": 35,
+    "last_updated": "2026-01-24"
+  },
+  {
+    "inventory_id": "INV31",
+    "product_id": "P49",
+    "store_id": "ST6",
+    "stock_level": 6,
+    "reorder_level": 32,
+    "last_updated": "2026-01-25"
+  },
+  {
+    "inventory_id": "INV32",
+    "product_id": "P8",
+    "store_id": "ST7",
+    "stock_level": 34,
+    "reorder_level": 32,
+    "last_updated": "2026-01-26"
+  },
+  {
+    "inventory_id": "INV33",
+    "product_id": "P20",
+    "store_id": "ST4",
+    "stock_level": 78,
+    "reorder_level": 30,
+    "last_updated": "2026-01-22"
+  },
+  {
+    "inventory_id": "INV34",
+    "product_id": "P26",
+    "store_id": "ST10",
+    "stock_level": 59,
+    "reorder_level": 46,
+    "last_updated": "2026-01-08"
+  },
+  {
+    "inventory_id": "INV35",
+    "product_id": "P33",
+    "store_id": "ST2",
+    "stock_level": 29,
+    "reorder_level": 29,
+    "last_updated": "2026-01-03"
+  },
+  {
+    "inventory_id": "INV36",
+    "product_id": "P19",
+    "store_id": "ST2",
+    "stock_level": 28,
+    "reorder_level": 42,
+    "last_updated": "2026-01-14"
+  },
+  {
+    "inventory_id": "INV37",
+    "product_id": "P21",
+    "store_id": "ST9",
+    "stock_level": 47,
+    "reorder_level": 28,
+    "last_updated": "2026-01-29"
+  },
+  {
+    "inventory_id": "INV38",
+    "product_id": "P21",
+    "store_id": "ST5",
+    "stock_level": 66,
+    "reorder_level": 38,
+    "last_updated": "2026-01-11"
+  },
+  {
+    "inventory_id": "INV39",
+    "product_id": "P8",
+    "store_id": "ST4",
+    "stock_level": 6,
+    "reorder_level": 23,
+    "last_updated": "2026-01-03"
+  },
+  {
+    "inventory_id": "INV40",
+    "product_id": "P7",
+    "store_id": "ST4",
+    "stock_level": 5,
+    "reorder_level": 30,
+    "last_updated": "2026-01-11"
+  },
+  {
+    "inventory_id": "INV41",
+    "product_id": "P29",
+    "store_id": "ST4",
+    "stock_level": 86,
+    "reorder_level": 18,
+    "last_updated": "2026-01-26"
+  },
+  {
+    "inventory_id": "INV42",
+    "product_id": "P8",
+    "store_id": "ST5",
+    "stock_level": 11,
+    "reorder_level": 25,
+    "last_updated": "2026-01-31"
+  },
+  {
+    "inventory_id": "INV43",
+    "product_id": "P49",
+    "store_id": "ST10",
+    "stock_level": 83,
+    "reorder_level": 50,
+    "last_updated": "2026-01-16"
+  },
+  {
+    "inventory_id": "INV44",
+    "product_id": "P29",
+    "store_id": "ST10",
+    "stock_level": 96,
+    "reorder_level": 38,
+    "last_updated": "2026-01-09"
+  },
+  {
+    "inventory_id": "INV45",
+    "product_id": "P40",
+    "store_id": "ST2",
+    "stock_level": 48,
+    "reorder_level": 14,
+    "last_updated": "2026-01-10"
+  },
+  {
+    "inventory_id": "INV46",
+    "product_id": "P35",
+    "store_id": "ST3",
+    "stock_level": 43,
+    "reorder_level": 49,
+    "last_updated": "2026-01-20"
+  },
+  {
+    "inventory_id": "INV47",
+    "product_id": "P41",
+    "store_id": "ST6",
+    "stock_level": 72,
+    "reorder_level": 37,
+    "last_updated": "2026-01-18"
+  },
+  {
+    "inventory_id": "INV48",
+    "product_id": "P4",
+    "store_id": "ST3",
+    "stock_level": 67,
+    "reorder_level": 10,
+    "last_updated": "2026-01-26"
+  },
+  {
+    "inventory_id": "INV49",
+    "product_id": "P2",
+    "store_id": "ST2",
+    "stock_level": 68,
+    "reorder_level": 12,
+    "last_updated": "2026-01-04"
+  },
+  {
+    "inventory_id": "INV50",
+    "product_id": "P24",
+    "store_id": "ST2",
+    "stock_level": 100,
+    "reorder_level": 34,
+    "last_updated": "2026-01-07"
+  },
+  {
+    "inventory_id": "INV51",
+    "product_id": "P45",
+    "store_id": "ST9",
+    "stock_level": 69,
+    "reorder_level": 47,
+    "last_updated": "2026-01-09"
+  },
+  {
+    "inventory_id": "INV52",
+    "product_id": "P48",
+    "store_id": "ST10",
+    "stock_level": 46,
+    "reorder_level": 32,
+    "last_updated": "2026-01-09"
+  },
+  {
+    "inventory_id": "INV53",
+    "product_id": "P22",
+    "store_id": "ST5",
+    "stock_level": 50,
+    "reorder_level": 18,
+    "last_updated": "2026-01-12"
+  },
+  {
+    "inventory_id": "INV54",
+    "product_id": "P44",
+    "store_id": "ST6",
+    "stock_level": 39,
+    "reorder_level": 23,
+    "last_updated": "2026-01-14"
+  },
+  {
+    "inventory_id": "INV55",
+    "product_id": "P21",
+    "store_id": "ST6",
+    "stock_level": 66,
+    "reorder_level": 22,
+    "last_updated": "2026-01-10"
+  },
+  {
+    "inventory_id": "INV56",
+    "product_id": "P10",
+    "store_id": "ST5",
+    "stock_level": 53,
+    "reorder_level": 16,
+    "last_updated": "2026-01-06"
+  },
+  {
+    "inventory_id": "INV57",
+    "product_id": "P3",
+    "store_id": "ST1",
+    "stock_level": 62,
+    "reorder_level": 34,
+    "last_updated": "2026-01-25"
+  },
+  {
+    "inventory_id": "INV58",
+    "product_id": "P36",
+    "store_id": "ST5",
+    "stock_level": 61,
+    "reorder_level": 33,
+    "last_updated": "2026-01-05"
+  },
+  {
+    "inventory_id": "INV59",
+    "product_id": "P21",
+    "store_id": "ST10",
+    "stock_level": 96,
+    "reorder_level": 16,
+    "last_updated": "2026-01-26"
+  },
+  {
+    "inventory_id": "INV60",
+    "product_id": "P7",
+    "store_id": "ST6",
+    "stock_level": 21,
+    "reorder_level": 12,
+    "last_updated": "2026-01-05"
+  },
+  {
+    "inventory_id": "INV61",
+    "product_id": "P18",
+    "store_id": "ST5",
+    "stock_level": 91,
+    "reorder_level": 47,
+    "last_updated": "2026-01-09"
+  },
+  {
+    "inventory_id": "INV62",
+    "product_id": "P45",
+    "store_id": "ST6",
+    "stock_level": 54,
+    "reorder_level": 49,
+    "last_updated": "2026-01-15"
+  },
+  {
+    "inventory_id": "INV63",
+    "product_id": "P3",
+    "store_id": "ST6",
+    "stock_level": 74,
+    "reorder_level": 33,
+    "last_updated": "2026-01-10"
+  },
+  {
+    "inventory_id": "INV64",
+    "product_id": "P7",
+    "store_id": "ST1",
+    "stock_level": 92,
+    "reorder_level": 28,
+    "last_updated": "2026-01-10"
+  },
+  {
+    "inventory_id": "INV65",
+    "product_id": "P8",
+    "store_id": "ST4",
+    "stock_level": 92,
+    "reorder_level": 19,
+    "last_updated": "2026-01-12"
+  },
+  {
+    "inventory_id": "INV66",
+    "product_id": "P47",
+    "store_id": "ST3",
+    "stock_level": 30,
+    "reorder_level": 43,
+    "last_updated": "2026-01-04"
+  },
+  {
+    "inventory_id": "INV67",
+    "product_id": "P10",
+    "store_id": "ST2",
+    "stock_level": 18,
+    "reorder_level": 11,
+    "last_updated": "2026-01-11"
+  },
+  {
+    "inventory_id": "INV68",
+    "product_id": "P47",
+    "store_id": "ST4",
+    "stock_level": 74,
+    "reorder_level": 15,
+    "last_updated": "2026-01-22"
+  },
+  {
+    "inventory_id": "INV69",
+    "product_id": "P49",
+    "store_id": "ST10",
+    "stock_level": 89,
+    "reorder_level": 16,
+    "last_updated": "2026-01-30"
+  },
+  {
+    "inventory_id": "INV70",
+    "product_id": "P1",
+    "store_id": "ST10",
+    "stock_level": 62,
+    "reorder_level": 46,
+    "last_updated": "2026-01-16"
+  },
+  {
+    "inventory_id": "INV71",
+    "product_id": "P49",
+    "store_id": "ST3",
+    "stock_level": 67,
+    "reorder_level": 49,
+    "last_updated": "2026-01-03"
+  },
+  {
+    "inventory_id": "INV72",
+    "product_id": "P46",
+    "store_id": "ST4",
+    "stock_level": 93,
+    "reorder_level": 37,
+    "last_updated": "2026-01-07"
+  },
+  {
+    "inventory_id": "INV73",
+    "product_id": "P10",
+    "store_id": "ST3",
+    "stock_level": 58,
+    "reorder_level": 32,
+    "last_updated": "2026-01-14"
+  },
+  {
+    "inventory_id": "INV74",
+    "product_id": "P2",
+    "store_id": "ST2",
+    "stock_level": 39,
+    "reorder_level": 31,
+    "last_updated": "2026-01-22"
+  },
+  {
+    "inventory_id": "INV75",
+    "product_id": "P32",
+    "store_id": "ST2",
+    "stock_level": 73,
+    "reorder_level": 41,
+    "last_updated": "2026-01-31"
+  },
+  {
+    "inventory_id": "INV76",
+    "product_id": "P12",
+    "store_id": "ST4",
+    "stock_level": 48,
+    "reorder_level": 40,
+    "last_updated": "2026-01-16"
+  },
+  {
+    "inventory_id": "INV77",
+    "product_id": "P9",
+    "store_id": "ST8",
+    "stock_level": 73,
+    "reorder_level": 15,
+    "last_updated": "2026-01-11"
+  },
+  {
+    "inventory_id": "INV78",
+    "product_id": "P24",
+    "store_id": "ST1",
+    "stock_level": 43,
+    "reorder_level": 38,
+    "last_updated": "2026-01-12"
+  },
+  {
+    "inventory_id": "INV79",
+    "product_id": "P9",
+    "store_id": "ST9",
+    "stock_level": 81,
+    "reorder_level": 31,
+    "last_updated": "2026-01-20"
+  },
+  {
+    "inventory_id": "INV80",
+    "product_id": "P42",
+    "store_id": "ST2",
+    "stock_level": 68,
+    "reorder_level": 18,
+    "last_updated": "2026-01-19"
+  },
+  {
+    "inventory_id": "INV81",
+    "product_id": "P17",
+    "store_id": "ST2",
+    "stock_level": 76,
+    "reorder_level": 42,
+    "last_updated": "2026-01-04"
+  },
+  {
+    "inventory_id": "INV82",
+    "product_id": "P2",
+    "store_id": "ST9",
+    "stock_level": 25,
+    "reorder_level": 28,
+    "last_updated": "2026-01-18"
+  },
+  {
+    "inventory_id": "INV83",
+    "product_id": "P15",
+    "store_id": "ST9",
+    "stock_level": 18,
+    "reorder_level": 33,
+    "last_updated": "2026-01-09"
+  },
+  {
+    "inventory_id": "INV84",
+    "product_id": "P3",
+    "store_id": "ST3",
+    "stock_level": 54,
+    "reorder_level": 45,
+    "last_updated": "2026-01-31"
+  },
+  {
+    "inventory_id": "INV85",
+    "product_id": "P24",
+    "store_id": "ST4",
+    "stock_level": 70,
+    "reorder_level": 24,
+    "last_updated": "2026-01-03"
+  },
+  {
+    "inventory_id": "INV86",
+    "product_id": "P27",
+    "store_id": "ST1",
+    "stock_level": 30,
+    "reorder_level": 21,
+    "last_updated": "2026-01-07"
+  },
+  {
+    "inventory_id": "INV87",
+    "product_id": "P3",
+    "store_id": "ST7",
+    "stock_level": 88,
+    "reorder_level": 15,
+    "last_updated": "2026-01-15"
+  },
+  {
+    "inventory_id": "INV88",
+    "product_id": "P32",
+    "store_id": "ST4",
+    "stock_level": 86,
+    "reorder_level": 28,
+    "last_updated": "2026-01-06"
+  },
+  {
+    "inventory_id": "INV89",
+    "product_id": "P19",
+    "store_id": "ST2",
+    "stock_level": 25,
+    "reorder_level": 31,
+    "last_updated": "2026-01-28"
+  },
+  {
+    "inventory_id": "INV90",
+    "product_id": "P4",
+    "store_id": "ST7",
+    "stock_level": 43,
+    "reorder_level": 21,
+    "last_updated": "2026-01-05"
+  },
+  {
+    "inventory_id": "INV91",
+    "product_id": "P22",
+    "store_id": "ST5",
+    "stock_level": 57,
+    "reorder_level": 50,
+    "last_updated": "2026-01-23"
+  },
+  {
+    "inventory_id": "INV92",
+    "product_id": "P22",
+    "store_id": "ST3",
+    "stock_level": 60,
+    "reorder_level": 49,
+    "last_updated": "2026-01-28"
+  },
+  {
+    "inventory_id": "INV93",
+    "product_id": "P16",
+    "store_id": "ST9",
+    "stock_level": 45,
+    "reorder_level": 20,
+    "last_updated": "2026-01-25"
+  },
+  {
+    "inventory_id": "INV94",
+    "product_id": "P13",
+    "store_id": "ST8",
+    "stock_level": 72,
+    "reorder_level": 25,
+    "last_updated": "2026-01-27"
+  },
+  {
+    "inventory_id": "INV95",
+    "product_id": "P29",
+    "store_id": "ST2",
+    "stock_level": 59,
+    "reorder_level": 12,
+    "last_updated": "2026-01-02"
+  },
+  {
+    "inventory_id": "INV96",
+    "product_id": "P20",
+    "store_id": "ST6",
+    "stock_level": 26,
+    "reorder_level": 50,
+    "last_updated": "2026-01-14"
+  },
+  {
+    "inventory_id": "INV97",
+    "product_id": "P17",
+    "store_id": "ST7",
+    "stock_level": 97,
+    "reorder_level": 18,
+    "last_updated": "2026-01-21"
+  },
+  {
+    "inventory_id": "INV98",
+    "product_id": "P41",
+    "store_id": "ST5",
+    "stock_level": 60,
+    "reorder_level": 37,
+    "last_updated": "2026-01-07"
+  },
+  {
+    "inventory_id": "INV99",
+    "product_id": "P14",
+    "store_id": "ST4",
+    "stock_level": 95,
+    "reorder_level": 26,
+    "last_updated": "2026-01-05"
+  },
+  {
+    "inventory_id": "INV100",
+    "product_id": "P12",
+    "store_id": "ST2",
+    "stock_level": 22,
+    "reorder_level": 11,
+    "last_updated": "2026-01-12"
+  },
+  {
+    "inventory_id": "INV101",
+    "product_id": "P38",
+    "store_id": "ST2",
+    "stock_level": 100,
+    "reorder_level": 23,
+    "last_updated": "2026-01-10"
+  },
+  {
+    "inventory_id": "INV102",
+    "product_id": "P42",
+    "store_id": "ST10",
+    "stock_level": 49,
+    "reorder_level": 18,
+    "last_updated": "2026-01-27"
+  },
+  {
+    "inventory_id": "INV103",
+    "product_id": "P7",
+    "store_id": "ST5",
+    "stock_level": 20,
+    "reorder_level": 45,
+    "last_updated": "2026-01-25"
+  },
+  {
+    "inventory_id": "INV104",
+    "product_id": "P21",
+    "store_id": "ST8",
+    "stock_level": 80,
+    "reorder_level": 49,
+    "last_updated": "2026-01-28"
+  },
+  {
+    "inventory_id": "INV105",
+    "product_id": "P4",
+    "store_id": "ST4",
+    "stock_level": 40,
+    "reorder_level": 43,
+    "last_updated": "2026-01-17"
+  },
+  {
+    "inventory_id": "INV106",
+    "product_id": "P36",
+    "store_id": "ST5",
+    "stock_level": 45,
+    "reorder_level": 36,
+    "last_updated": "2026-01-20"
+  },
+  {
+    "inventory_id": "INV107",
+    "product_id": "P25",
+    "store_id": "ST10",
+    "stock_level": 4,
+    "reorder_level": 37,
+    "last_updated": "2026-01-09"
+  },
+  {
+    "inventory_id": "INV108",
+    "product_id": "P9",
+    "store_id": "ST10",
+    "stock_level": 100,
+    "reorder_level": 13,
+    "last_updated": "2026-01-08"
+  },
+  {
+    "inventory_id": "INV109",
+    "product_id": "P28",
+    "store_id": "ST7",
+    "stock_level": 38,
+    "reorder_level": 21,
+    "last_updated": "2026-01-07"
+  },
+  {
+    "inventory_id": "INV110",
+    "product_id": "P31",
+    "store_id": "ST5",
+    "stock_level": 83,
+    "reorder_level": 49,
+    "last_updated": "2026-01-18"
+  },
+  {
+    "inventory_id": "INV111",
+    "product_id": "P37",
+    "store_id": "ST4",
+    "stock_level": 1,
+    "reorder_level": 41,
+    "last_updated": "2026-01-31"
+  },
+  {
+    "inventory_id": "INV112",
+    "product_id": "P34",
+    "store_id": "ST2",
+    "stock_level": 2,
+    "reorder_level": 24,
+    "last_updated": "2026-01-19"
+  },
+  {
+    "inventory_id": "INV113",
+    "product_id": "P16",
+    "store_id": "ST3",
+    "stock_level": 19,
+    "reorder_level": 21,
+    "last_updated": "2026-01-06"
+  },
+  {
+    "inventory_id": "INV114",
+    "product_id": "P1",
+    "store_id": "ST7",
+    "stock_level": 94,
+    "reorder_level": 12,
+    "last_updated": "2026-01-21"
+  },
+  {
+    "inventory_id": "INV115",
+    "product_id": "P47",
+    "store_id": "ST5",
+    "stock_level": 87,
+    "reorder_level": 37,
+    "last_updated": "2026-01-03"
+  },
+  {
+    "inventory_id": "INV116",
+    "product_id": "P28",
+    "store_id": "ST2",
+    "stock_level": 70,
+    "reorder_level": 18,
+    "last_updated": "2026-01-25"
+  },
+  {
+    "inventory_id": "INV117",
+    "product_id": "P10",
+    "store_id": "ST5",
+    "stock_level": 7,
+    "reorder_level": 43,
+    "last_updated": "2026-01-26"
+  },
+  {
+    "inventory_id": "INV118",
+    "product_id": "P46",
+    "store_id": "ST2",
+    "stock_level": 18,
+    "reorder_level": 40,
+    "last_updated": "2026-01-15"
+  },
+  {
+    "inventory_id": "INV119",
+    "product_id": "P2",
+    "store_id": "ST10",
+    "stock_level": 26,
+    "reorder_level": 48,
+    "last_updated": "2026-01-02"
+  },
+  {
+    "inventory_id": "INV120",
+    "product_id": "P6",
+    "store_id": "ST10",
+    "stock_level": 63,
+    "reorder_level": 30,
+    "last_updated": "2026-01-27"
+  },
+  {
+    "inventory_id": "INV121",
+    "product_id": "P40",
+    "store_id": "ST3",
+    "stock_level": 44,
+    "reorder_level": 24,
+    "last_updated": "2026-01-03"
+  },
+  {
+    "inventory_id": "INV122",
+    "product_id": "P13",
+    "store_id": "ST5",
+    "stock_level": 74,
+    "reorder_level": 35,
+    "last_updated": "2026-01-02"
+  },
+  {
+    "inventory_id": "INV123",
+    "product_id": "P45",
+    "store_id": "ST4",
+    "stock_level": 61,
+    "reorder_level": 45,
+    "last_updated": "2026-01-11"
+  },
+  {
+    "inventory_id": "INV124",
+    "product_id": "P6",
+    "store_id": "ST5",
+    "stock_level": 42,
+    "reorder_level": 11,
+    "last_updated": "2026-01-08"
+  },
+  {
+    "inventory_id": "INV125",
+    "product_id": "P10",
+    "store_id": "ST5",
+    "stock_level": 17,
+    "reorder_level": 11,
+    "last_updated": "2026-01-16"
+  },
+  {
+    "inventory_id": "INV126",
+    "product_id": "P12",
+    "store_id": "ST6",
+    "stock_level": 18,
+    "reorder_level": 18,
+    "last_updated": "2026-01-19"
+  },
+  {
+    "inventory_id": "INV127",
+    "product_id": "P27",
+    "store_id": "ST8",
+    "stock_level": 24,
+    "reorder_level": 13,
+    "last_updated": "2026-01-27"
+  },
+  {
+    "inventory_id": "INV128",
+    "product_id": "P48",
+    "store_id": "ST4",
+    "stock_level": 12,
+    "reorder_level": 13,
+    "last_updated": "2026-01-26"
+  },
+  {
+    "inventory_id": "INV129",
+    "product_id": "P38",
+    "store_id": "ST8",
+    "stock_level": 26,
+    "reorder_level": 38,
+    "last_updated": "2026-01-22"
+  },
+  {
+    "inventory_id": "INV130",
+    "product_id": "P22",
+    "store_id": "ST7",
+    "stock_level": 22,
+    "reorder_level": 37,
+    "last_updated": "2026-01-14"
+  },
+  {
+    "inventory_id": "INV131",
+    "product_id": "P16",
+    "store_id": "ST7",
+    "stock_level": 60,
+    "reorder_level": 10,
+    "last_updated": "2026-01-20"
+  },
+  {
+    "inventory_id": "INV132",
+    "product_id": "P9",
+    "store_id": "ST7",
+    "stock_level": 34,
+    "reorder_level": 19,
+    "last_updated": "2026-01-21"
+  },
+  {
+    "inventory_id": "INV133",
+    "product_id": "P11",
+    "store_id": "ST3",
+    "stock_level": 37,
+    "reorder_level": 32,
+    "last_updated": "2026-01-29"
+  },
+  {
+    "inventory_id": "INV134",
+    "product_id": "P48",
+    "store_id": "ST5",
+    "stock_level": 32,
+    "reorder_level": 15,
+    "last_updated": "2026-01-09"
+  },
+  {
+    "inventory_id": "INV135",
+    "product_id": "P18",
+    "store_id": "ST6",
+    "stock_level": 56,
+    "reorder_level": 34,
+    "last_updated": "2026-01-06"
+  },
+  {
+    "inventory_id": "INV136",
+    "product_id": "P30",
+    "store_id": "ST2",
+    "stock_level": 64,
+    "reorder_level": 31,
+    "last_updated": "2026-01-18"
+  },
+  {
+    "inventory_id": "INV137",
+    "product_id": "P44",
+    "store_id": "ST5",
+    "stock_level": 3,
+    "reorder_level": 24,
+    "last_updated": "2026-01-05"
+  },
+  {
+    "inventory_id": "INV138",
+    "product_id": "P22",
+    "store_id": "ST1",
+    "stock_level": 2,
+    "reorder_level": 10,
+    "last_updated": "2026-01-31"
+  },
+  {
+    "inventory_id": "INV139",
+    "product_id": "P8",
+    "store_id": "ST8",
+    "stock_level": 17,
+    "reorder_level": 37,
+    "last_updated": "2026-01-15"
+  },
+  {
+    "inventory_id": "INV140",
+    "product_id": "P5",
+    "store_id": "ST10",
+    "stock_level": 97,
+    "reorder_level": 42,
+    "last_updated": "2026-01-10"
+  },
+  {
+    "inventory_id": "INV141",
+    "product_id": "P8",
+    "store_id": "ST10",
+    "stock_level": 41,
+    "reorder_level": 21,
+    "last_updated": "2026-01-22"
+  },
+  {
+    "inventory_id": "INV142",
+    "product_id": "P48",
+    "store_id": "ST6",
+    "stock_level": 9,
+    "reorder_level": 45,
+    "last_updated": "2026-01-22"
+  },
+  {
+    "inventory_id": "INV143",
+    "product_id": "P36",
+    "store_id": "ST10",
+    "stock_level": 70,
+    "reorder_level": 32,
+    "last_updated": "2026-01-28"
+  },
+  {
+    "inventory_id": "INV144",
+    "product_id": "P37",
+    "store_id": "ST4",
+    "stock_level": 21,
+    "reorder_level": 47,
+    "last_updated": "2026-01-23"
+  },
+  {
+    "inventory_id": "INV145",
+    "product_id": "P47",
+    "store_id": "ST3",
+    "stock_level": 68,
+    "reorder_level": 30,
+    "last_updated": "2026-01-03"
+  },
+  {
+    "inventory_id": "INV146",
+    "product_id": "P50",
+    "store_id": "ST5",
+    "stock_level": 68,
+    "reorder_level": 34,
+    "last_updated": "2026-01-11"
+  },
+  {
+    "inventory_id": "INV147",
+    "product_id": "P15",
+    "store_id": "ST6",
+    "stock_level": 54,
+    "reorder_level": 38,
+    "last_updated": "2026-01-14"
+  },
+  {
+    "inventory_id": "INV148",
+    "product_id": "P1",
+    "store_id": "ST4",
+    "stock_level": 12,
+    "reorder_level": 22,
+    "last_updated": "2026-01-07"
+  },
+  {
+    "inventory_id": "INV149",
+    "product_id": "P47",
+    "store_id": "ST10",
+    "stock_level": 59,
+    "reorder_level": 44,
+    "last_updated": "2026-01-25"
+  },
+  {
+    "inventory_id": "INV150",
+    "product_id": "P44",
+    "store_id": "ST3",
+    "stock_level": 57,
+    "reorder_level": 22,
+    "last_updated": "2026-01-17"
+  },
+  {
+    "inventory_id": "INV151",
+    "product_id": "P46",
+    "store_id": "ST3",
+    "stock_level": 51,
+    "reorder_level": 40,
+    "last_updated": "2026-01-04"
+  },
+  {
+    "inventory_id": "INV152",
+    "product_id": "P3",
+    "store_id": "ST4",
+    "stock_level": 14,
+    "reorder_level": 40,
+    "last_updated": "2026-01-06"
+  },
+  {
+    "inventory_id": "INV153",
+    "product_id": "P18",
+    "store_id": "ST2",
+    "stock_level": 15,
+    "reorder_level": 27,
+    "last_updated": "2026-01-25"
+  },
+  {
+    "inventory_id": "INV154",
+    "product_id": "P45",
+    "store_id": "ST6",
+    "stock_level": 67,
+    "reorder_level": 47,
+    "last_updated": "2026-01-05"
+  },
+  {
+    "inventory_id": "INV155",
+    "product_id": "P15",
+    "store_id": "ST3",
+    "stock_level": 20,
+    "reorder_level": 28,
+    "last_updated": "2026-01-05"
+  },
+  {
+    "inventory_id": "INV156",
+    "product_id": "P48",
+    "store_id": "ST10",
+    "stock_level": 32,
+    "reorder_level": 21,
+    "last_updated": "2026-01-25"
+  },
+  {
+    "inventory_id": "INV157",
+    "product_id": "P29",
+    "store_id": "ST2",
+    "stock_level": 86,
+    "reorder_level": 33,
+    "last_updated": "2026-01-03"
+  },
+  {
+    "inventory_id": "INV158",
+    "product_id": "P14",
+    "store_id": "ST2",
+    "stock_level": 62,
+    "reorder_level": 42,
+    "last_updated": "2026-01-03"
+  },
+  {
+    "inventory_id": "INV159",
+    "product_id": "P46",
+    "store_id": "ST4",
+    "stock_level": 43,
+    "reorder_level": 18,
+    "last_updated": "2026-01-05"
+  },
+  {
+    "inventory_id": "INV160",
+    "product_id": "P19",
+    "store_id": "ST1",
+    "stock_level": 18,
+    "reorder_level": 18,
+    "last_updated": "2026-01-23"
+  },
+  {
+    "inventory_id": "INV161",
+    "product_id": "P13",
+    "store_id": "ST10",
+    "stock_level": 61,
+    "reorder_level": 10,
+    "last_updated": "2026-01-28"
+  },
+  {
+    "inventory_id": "INV162",
+    "product_id": "P33",
+    "store_id": "ST7",
+    "stock_level": 43,
+    "reorder_level": 31,
+    "last_updated": "2026-01-14"
+  },
+  {
+    "inventory_id": "INV163",
+    "product_id": "P41",
+    "store_id": "ST1",
+    "stock_level": 49,
+    "reorder_level": 36,
+    "last_updated": "2026-01-25"
+  },
+  {
+    "inventory_id": "INV164",
+    "product_id": "P33",
+    "store_id": "ST9",
+    "stock_level": 62,
+    "reorder_level": 15,
+    "last_updated": "2026-01-26"
+  },
+  {
+    "inventory_id": "INV165",
+    "product_id": "P37",
+    "store_id": "ST7",
+    "stock_level": 45,
+    "reorder_level": 29,
+    "last_updated": "2026-01-30"
+  },
+  {
+    "inventory_id": "INV166",
+    "product_id": "P4",
+    "store_id": "ST2",
+    "stock_level": 33,
+    "reorder_level": 50,
+    "last_updated": "2026-01-22"
+  },
+  {
+    "inventory_id": "INV167",
+    "product_id": "P43",
+    "store_id": "ST2",
+    "stock_level": 6,
+    "reorder_level": 42,
+    "last_updated": "2026-01-17"
+  },
+  {
+    "inventory_id": "INV168",
+    "product_id": "P10",
+    "store_id": "ST10",
+    "stock_level": 88,
+    "reorder_level": 44,
+    "last_updated": "2026-01-16"
+  },
+  {
+    "inventory_id": "INV169",
+    "product_id": "P36",
+    "store_id": "ST1",
+    "stock_level": 78,
+    "reorder_level": 24,
+    "last_updated": "2026-01-14"
+  },
+  {
+    "inventory_id": "INV170",
+    "product_id": "P36",
+    "store_id": "ST7",
+    "stock_level": 39,
+    "reorder_level": 41,
+    "last_updated": "2026-01-16"
+  },
+  {
+    "inventory_id": "INV171",
+    "product_id": "P21",
+    "store_id": "ST7",
+    "stock_level": 29,
+    "reorder_level": 19,
+    "last_updated": "2026-01-28"
+  },
+  {
+    "inventory_id": "INV172",
+    "product_id": "P45",
+    "store_id": "ST2",
+    "stock_level": 32,
+    "reorder_level": 29,
+    "last_updated": "2026-01-19"
+  },
+  {
+    "inventory_id": "INV173",
+    "product_id": "P20",
+    "store_id": "ST3",
+    "stock_level": 71,
+    "reorder_level": 10,
+    "last_updated": "2026-01-02"
+  },
+  {
+    "inventory_id": "INV174",
+    "product_id": "P27",
+    "store_id": "ST4",
+    "stock_level": 19,
+    "reorder_level": 41,
+    "last_updated": "2026-01-02"
+  },
+  {
+    "inventory_id": "INV175",
+    "product_id": "P26",
+    "store_id": "ST1",
+    "stock_level": 74,
+    "reorder_level": 41,
+    "last_updated": "2026-01-29"
+  },
+  {
+    "inventory_id": "INV176",
+    "product_id": "P6",
+    "store_id": "ST2",
+    "stock_level": 10,
+    "reorder_level": 46,
+    "last_updated": "2026-01-10"
+  },
+  {
+    "inventory_id": "INV177",
+    "product_id": "P3",
+    "store_id": "ST10",
+    "stock_level": 42,
+    "reorder_level": 28,
+    "last_updated": "2026-01-25"
+  },
+  {
+    "inventory_id": "INV178",
+    "product_id": "P12",
+    "store_id": "ST5",
+    "stock_level": 71,
+    "reorder_level": 23,
+    "last_updated": "2026-01-02"
+  },
+  {
+    "inventory_id": "INV179",
+    "product_id": "P1",
+    "store_id": "ST9",
+    "stock_level": 14,
+    "reorder_level": 16,
+    "last_updated": "2026-01-09"
+  },
+  {
+    "inventory_id": "INV180",
+    "product_id": "P24",
+    "store_id": "ST9",
+    "stock_level": 56,
+    "reorder_level": 32,
+    "last_updated": "2026-01-25"
+  },
+  {
+    "inventory_id": "INV181",
+    "product_id": "P5",
+    "store_id": "ST10",
+    "stock_level": 17,
+    "reorder_level": 42,
+    "last_updated": "2026-01-29"
+  },
+  {
+    "inventory_id": "INV182",
+    "product_id": "P5",
+    "store_id": "ST4",
+    "stock_level": 60,
+    "reorder_level": 41,
+    "last_updated": "2026-01-30"
+  },
+  {
+    "inventory_id": "INV183",
+    "product_id": "P15",
+    "store_id": "ST6",
+    "stock_level": 60,
+    "reorder_level": 36,
+    "last_updated": "2026-01-31"
+  },
+  {
+    "inventory_id": "INV184",
+    "product_id": "P26",
+    "store_id": "ST5",
+    "stock_level": 23,
+    "reorder_level": 38,
+    "last_updated": "2026-01-14"
+  },
+  {
+    "inventory_id": "INV185",
+    "product_id": "P1",
+    "store_id": "ST3",
+    "stock_level": 67,
+    "reorder_level": 22,
+    "last_updated": "2026-01-15"
+  },
+  {
+    "inventory_id": "INV186",
+    "product_id": "P42",
+    "store_id": "ST10",
+    "stock_level": 83,
+    "reorder_level": 36,
+    "last_updated": "2026-01-10"
+  },
+  {
+    "inventory_id": "INV187",
+    "product_id": "P15",
+    "store_id": "ST1",
+    "stock_level": 25,
+    "reorder_level": 39,
+    "last_updated": "2026-01-27"
+  },
+  {
+    "inventory_id": "INV188",
+    "product_id": "P43",
+    "store_id": "ST4",
+    "stock_level": 72,
+    "reorder_level": 42,
+    "last_updated": "2026-01-03"
+  },
+  {
+    "inventory_id": "INV189",
+    "product_id": "P17",
+    "store_id": "ST5",
+    "stock_level": 37,
+    "reorder_level": 42,
+    "last_updated": "2026-01-16"
+  },
+  {
+    "inventory_id": "INV190",
+    "product_id": "P3",
+    "store_id": "ST3",
+    "stock_level": 36,
+    "reorder_level": 25,
+    "last_updated": "2026-01-28"
+  },
+  {
+    "inventory_id": "INV191",
+    "product_id": "P10",
+    "store_id": "ST4",
+    "stock_level": 49,
+    "reorder_level": 41,
+    "last_updated": "2026-01-23"
+  },
+  {
+    "inventory_id": "INV192",
+    "product_id": "P47",
+    "store_id": "ST2",
+    "stock_level": 44,
+    "reorder_level": 21,
+    "last_updated": "2026-01-28"
+  },
+  {
+    "inventory_id": "INV193",
+    "product_id": "P40",
+    "store_id": "ST8",
+    "stock_level": 12,
+    "reorder_level": 35,
+    "last_updated": "2026-01-02"
+  },
+  {
+    "inventory_id": "INV194",
+    "product_id": "P9",
+    "store_id": "ST8",
+    "stock_level": 86,
+    "reorder_level": 27,
+    "last_updated": "2026-01-15"
+  },
+  {
+    "inventory_id": "INV195",
+    "product_id": "P19",
+    "store_id": "ST2",
+    "stock_level": 17,
+    "reorder_level": 18,
+    "last_updated": "2026-01-26"
+  },
+  {
+    "inventory_id": "INV196",
+    "product_id": "P47",
+    "store_id": "ST8",
+    "stock_level": 13,
+    "reorder_level": 23,
+    "last_updated": "2026-01-14"
+  },
+  {
+    "inventory_id": "INV197",
+    "product_id": "P26",
+    "store_id": "ST8",
+    "stock_level": 37,
+    "reorder_level": 22,
+    "last_updated": "2026-01-20"
+  },
+  {
+    "inventory_id": "INV198",
+    "product_id": "P33",
+    "store_id": "ST4",
+    "stock_level": 43,
+    "reorder_level": 37,
+    "last_updated": "2026-01-06"
+  },
+  {
+    "inventory_id": "INV199",
+    "product_id": "P4",
+    "store_id": "ST4",
+    "stock_level": 83,
+    "reorder_level": 40,
+    "last_updated": "2026-01-24"
+  },
+  {
+    "inventory_id": "INV200",
+    "product_id": "P30",
+    "store_id": "ST4",
+    "stock_level": 48,
+    "reorder_level": 48,
+    "last_updated": "2026-01-05"
+  }
+]

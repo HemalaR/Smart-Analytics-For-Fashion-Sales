@@ -1,0 +1,42 @@
+[
+  {
+    "branch_id": "BR1",
+    "branch_name": "Branch_1",
+    "branch_city": "Bangalore",
+    "branch_manager": "Manager_1",
+    "opening_date": "2023-07-23",
+    "status": "Inactive"
+  },
+  {
+    "branch_id": "BR2",
+    "branch_name": "Branch_2",
+    "branch_city": "Chennai",
+    "branch_manager": "Manager_2",
+    "opening_date": "2021-07-08",
+    "status": "Active"
+  },
+  {
+    "branch_id": "BR3",
+    "branch_name": "Branch_3",
+    "branch_city": "Hyderabad",
+    "branch_manager": "Manager_3",
+    "opening_date": "2023-04-23",
+    "status": "Inactive"
+  },
+  {
+    "branch_id": "BR4",
+    "branch_name": "Branch_4",
+    "branch_city": "Chennai",
+    "branch_manager": "Manager_4",
+    "opening_date": "2022-06-24",
+    "status": "Inactive"
+  },
+  {
+    "branch_id": "BR5",
+    "branch_name": "Branch_5",
+    "branch_city": "Chennai",
+    "branch_manager": "Manager_5",
+    "opening_date": "2023-01-10",
+    "status": "Active"
+  }
+]

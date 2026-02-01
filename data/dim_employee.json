@@ -1,0 +1,272 @@
+[
+  {
+    "employee_id": "E1",
+    "employee_name": "Employee_1",
+    "role": "Cashier",
+    "department": "Support",
+    "hire_date": "2024-01-17",
+    "branch_id": "BR5",
+    "salary_grade": "C"
+  },
+  {
+    "employee_id": "E2",
+    "employee_name": "Employee_2",
+    "role": "Manager",
+    "department": "Sales",
+    "hire_date": "2024-05-10",
+    "branch_id": "BR1",
+    "salary_grade": "C"
+  },
+  {
+    "employee_id": "E3",
+    "employee_name": "Employee_3",
+    "role": "Cashier",
+    "department": "Support",
+    "hire_date": "2023-01-22",
+    "branch_id": "BR3",
+    "salary_grade": "A"
+  },
+  {
+    "employee_id": "E4",
+    "employee_name": "Employee_4",
+    "role": "Cashier",
+    "department": "Support",
+    "hire_date": "2024-10-17",
+    "branch_id": "BR4",
+    "salary_grade": "C"
+  },
+  {
+    "employee_id": "E5",
+    "employee_name": "Employee_5",
+    "role": "Sales Associate",
+    "department": "Management",
+    "hire_date": "2022-05-17",
+    "branch_id": "BR5",
+    "salary_grade": "C"
+  },
+  {
+    "employee_id": "E6",
+    "employee_name": "Employee_6",
+    "role": "Sales Associate",
+    "department": "Sales",
+    "hire_date": "2021-05-10",
+    "branch_id": "BR1",
+    "salary_grade": "B"
+  },
+  {
+    "employee_id": "E7",
+    "employee_name": "Employee_7",
+    "role": "Sales Associate",
+    "department": "Management",
+    "hire_date": "2022-11-18",
+    "branch_id": "BR4",
+    "salary_grade": "B"
+  },
+  {
+    "employee_id": "E8",
+    "employee_name": "Employee_8",
+    "role": "Sales Associate",
+    "department": "Sales",
+    "hire_date": "2023-08-06",
+    "branch_id": "BR3",
+    "salary_grade": "A"
+  },
+  {
+    "employee_id": "E9",
+    "employee_name": "Employee_9",
+    "role": "Manager",
+    "department": "Management",
+    "hire_date": "2022-07-18",
+    "branch_id": "BR3",
+    "salary_grade": "C"
+  },
+  {
+    "employee_id": "E10",
+    "employee_name": "Employee_10",
+    "role": "Cashier",
+    "department": "Management",
+    "hire_date": "2023-04-06",
+    "branch_id": "BR3",
+    "salary_grade": "C"
+  },
+  {
+    "employee_id": "E11",
+    "employee_name": "Employee_11",
+    "role": "Manager",
+    "department": "Management",
+    "hire_date": "2023-09-30",
+    "branch_id": "BR1",
+    "salary_grade": "B"
+  },
+  {
+    "employee_id": "E12",
+    "employee_name": "Employee_12",
+    "role": "Sales Associate",
+    "department": "Sales",
+    "hire_date": "2022-03-01",
+    "branch_id": "BR5",
+    "salary_grade": "A"
+  },
+  {
+    "employee_id": "E13",
+    "employee_name": "Employee_13",
+    "role": "Manager",
+    "department": "Management",
+    "hire_date": "2021-12-21",
+    "branch_id": "BR4",
+    "salary_grade": "A"
+  },
+  {
+    "employee_id": "E14",
+    "employee_name": "Employee_14",
+    "role": "Manager",
+    "department": "Sales",
+    "hire_date": "2021-08-16",
+    "branch_id": "BR1",
+    "salary_grade": "C"
+  },
+  {
+    "employee_id": "E15",
+    "employee_name": "Employee_15",
+    "role": "Sales Associate",
+    "department": "Sales",
+    "hire_date": "2021-04-12",
+    "branch_id": "BR3",
+    "salary_grade": "C"
+  },
+  {
+    "employee_id": "E16",
+    "employee_name": "Employee_16",
+    "role": "Manager",
+    "department": "Management",
+    "hire_date": "2021-11-19",
+    "branch_id": "BR5",
+    "salary_grade": "B"
+  },
+  {
+    "employee_id": "E17",
+    "employee_name": "Employee_17",
+    "role": "Manager",
+    "department": "Management",
+    "hire_date": "2023-03-03",
+    "branch_id": "BR3",
+    "salary_grade": "A"
+  },
+  {
+    "employee_id": "E18",
+    "employee_name": "Employee_18",
+    "role": "Cashier",
+    "department": "Management",
+    "hire_date": "2022-02-13",
+    "branch_id": "BR5",
+    "salary_grade": "C"
+  },
+  {
+    "employee_id": "E19",
+    "employee_name": "Employee_19",
+    "role": "Cashier",
+    "department": "Support",
+    "hire_date": "2022-02-23",
+    "branch_id": "BR1",
+    "salary_grade": "C"
+  },
+  {
+    "employee_id": "E20",
+    "employee_name": "Employee_20",
+    "role": "Sales Associate",
+    "department": "Support",
+    "hire_date": "2021-07-24",
+    "branch_id": "BR3",
+    "salary_grade": "B"
+  },
+  {
+    "employee_id": "E21",
+    "employee_name": "Employee_21",
+    "role": "Cashier",
+    "department": "Support",
+    "hire_date": "2023-06-09",
+    "branch_id": "BR2",
+    "salary_grade": "B"
+  },
+  {
+    "employee_id": "E22",
+    "employee_name": "Employee_22",
+    "role": "Cashier",
+    "department": "Support",
+    "hire_date": "2022-11-09",
+    "branch_id": "BR3",
+    "salary_grade": "A"
+  },
+  {
+    "employee_id": "E23",
+    "employee_name": "Employee_23",
+    "role": "Manager",
+    "department": "Management",
+    "hire_date": "2024-04-02",
+    "branch_id": "BR2",
+    "salary_grade": "C"
+  },
+  {
+    "employee_id": "E24",
+    "employee_name": "Employee_24",
+    "role": "Manager",
+    "department": "Sales",
+    "hire_date": "2022-12-11",
+    "branch_id": "BR2",
+    "salary_grade": "C"
+  },
+  {
+    "employee_id": "E25",
+    "employee_name": "Employee_25",
+    "role": "Sales Associate",
+    "department": "Sales",
+    "hire_date": "2021-05-01",
+    "branch_id": "BR2",
+    "salary_grade": "C"
+  },
+  {
+    "employee_id": "E26",
+    "employee_name": "Employee_26",
+    "role": "Cashier",
+    "department": "Sales",
+    "hire_date": "2023-06-30",
+    "branch_id": "BR2",
+    "salary_grade": "A"
+  },
+  {
+    "employee_id": "E27",
+    "employee_name": "Employee_27",
+    "role": "Cashier",
+    "department": "Management",
+    "hire_date": "2024-01-09",
+    "branch_id": "BR3",
+    "salary_grade": "C"
+  },
+  {
+    "employee_id": "E28",
+    "employee_name": "Employee_28",
+    "role": "Cashier",
+    "department": "Support",
+    "hire_date": "2023-12-27",
+    "branch_id": "BR5",
+    "salary_grade": "A"
+  },
+  {
+    "employee_id": "E29",
+    "employee_name": "Employee_29",
+    "role": "Manager",
+    "department": "Sales",
+    "hire_date": "2022-07-08",
+    "branch_id": "BR1",
+    "salary_grade": "C"
+  },
+  {
+    "employee_id": "E30",
+    "employee_name": "Employee_30",
+    "role": "Manager",
+    "department": "Sales",
+    "hire_date": "2025-01-21",
+    "branch_id": "BR3",
+    "salary_grade": "A"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "supplier_id": "SUP1",
+    "supplier_name": "Supplier_1",
+    "contact_person": "Contact_1",
+    "phone": "9430088655",
+    "city": "Mumbai",
+    "reliability_score": 1,
+    "lead_time_days": 4
+  },
+  {
+    "supplier_id": "SUP2",
+    "supplier_name": "Supplier_2",
+    "contact_person": "Contact_2",
+    "phone": "9231959784",
+    "city": "Tiruppur",
+    "reliability_score": 8,
+    "lead_time_days": 11
+  },
+  {
+    "supplier_id": "SUP3",
+    "supplier_name": "Supplier_3",
+    "contact_person": "Contact_3",
+    "phone": "9789312821",
+    "city": "Mumbai",
+    "reliability_score": 1,
+    "lead_time_days": 8
+  },
+  {
+    "supplier_id": "SUP4",
+    "supplier_name": "Supplier_4",
+    "contact_person": "Contact_4",
+    "phone": "9302427490",
+    "city": "Mumbai",
+    "reliability_score": 2,
+    "lead_time_days": 7
+  },
+  {
+    "supplier_id": "SUP5",
+    "supplier_name": "Supplier_5",
+    "contact_person": "Contact_5",
+    "phone": "9260426794",
+    "city": "Tiruppur",
+    "reliability_score": 5,
+    "lead_time_days": 13
+  },
+  {
+    "supplier_id": "SUP6",
+    "supplier_name": "Supplier_6",
+    "contact_person": "Contact_6",
+    "phone": "9471978911",
+    "city": "Mumbai",
+    "reliability_score": 8,
+    "lead_time_days": 15
+  },
+  {
+    "supplier_id": "SUP7",
+    "supplier_name": "Supplier_7",
+    "contact_person": "Contact_7",
+    "phone": "9600166951",
+    "city": "Tiruppur",
+    "reliability_score": 2,
+    "lead_time_days": 15
+  },
+  {
+    "supplier_id": "SUP8",
+    "supplier_name": "Supplier_8",
+    "contact_person": "Contact_8",
+    "phone": "9321785552",
+    "city": "Delhi",
+    "reliability_score": 9,
+    "lead_time_days": 1
+  },
+  {
+    "supplier_id": "SUP9",
+    "supplier_name": "Supplier_9",
+    "contact_person": "Contact_9",
+    "phone": "9953279830",
+    "city": "Mumbai",
+    "reliability_score": 7,
+    "lead_time_days": 10
+  },
+  {
+    "supplier_id": "SUP10",
+    "supplier_name": "Supplier_10",
+    "contact_person": "Contact_10",
+    "phone": "9338788770",
+    "city": "Mumbai",
+    "reliability_score": 8,
+    "lead_time_days": 2
+  },
+  {
+    "supplier_id": "SUP11",
+    "supplier_name": "Supplier_11",
+    "contact_person": "Contact_11",
+    "phone": "9657277528",
+    "city": "Mumbai",
+    "reliability_score": 10,
+    "lead_time_days": 12
+  },
+  {
+    "supplier_id": "SUP12",
+    "supplier_name": "Supplier_12",
+    "contact_person": "Contact_12",
+    "phone": "9230340926",
+    "city": "Delhi",
+    "reliability_score": 9,
+    "lead_time_days": 15
+  },
+  {
+    "supplier_id": "SUP13",
+    "supplier_name": "Supplier_13",
+    "contact_person": "Contact_13",
+    "phone": "9138483915",
+    "city": "Tiruppur",
+    "reliability_score": 5,
+    "lead_time_days": 8
+  },
+  {
+    "supplier_id": "SUP14",
+    "supplier_name": "Supplier_14",
+    "contact_person": "Contact_14",
+    "phone": "9534943704",
+    "city": "Tiruppur",
+    "reliability_score": 4,
+    "lead_time_days": 7
+  },
+  {
+    "supplier_id": "SUP15",
+    "supplier_name": "Supplier_15",
+    "contact_person": "Contact_15",
+    "phone": "9330792924",
+    "city": "Delhi",
+    "reliability_score": 7,
+    "lead_time_days": 7
+  }
+]

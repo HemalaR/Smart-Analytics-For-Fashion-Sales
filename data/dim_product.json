@@ -1,0 +1,502 @@
+[
+  {
+    "product_id": "P1",
+    "product_name": "Sweater",
+    "category": "Formal",
+    "brand": "Zara",
+    "size": "S",
+    "color": "Green",
+    "cost_price": 1384,
+    "list_price": 3055
+  },
+  {
+    "product_id": "P2",
+    "product_name": "Dress",
+    "category": "Ethnic",
+    "brand": "Levis",
+    "size": "XL",
+    "color": "Green",
+    "cost_price": 844,
+    "list_price": 1875
+  },
+  {
+    "product_id": "P3",
+    "product_name": "Dress",
+    "category": "Ethnic",
+    "brand": "H&M",
+    "size": "XL",
+    "color": "Blue",
+    "cost_price": 1344,
+    "list_price": 3813
+  },
+  {
+    "product_id": "P4",
+    "product_name": "Skirt",
+    "category": "Formal",
+    "brand": "H&M",
+    "size": "S",
+    "color": "Green",
+    "cost_price": 1342,
+    "list_price": 3454
+  },
+  {
+    "product_id": "P5",
+    "product_name": "Formal Shirt",
+    "category": "Formal",
+    "brand": "Zara",
+    "size": "M",
+    "color": "Red",
+    "cost_price": 921,
+    "list_price": 3295
+  },
+  {
+    "product_id": "P6",
+    "product_name": "Blouse",
+    "category": "Formal",
+    "brand": "Levis",
+    "size": "M",
+    "color": "Green",
+    "cost_price": 1276,
+    "list_price": 2402
+  },
+  {
+    "product_id": "P7",
+    "product_name": "Formal Shirt",
+    "category": "Formal",
+    "brand": "H&M",
+    "size": "XL",
+    "color": "Green",
+    "cost_price": 742,
+    "list_price": 2864
+  },
+  {
+    "product_id": "P8",
+    "product_name": "T-shirt",
+    "category": "Casual",
+    "brand": "H&M",
+    "size": "S",
+    "color": "Green",
+    "cost_price": 691,
+    "list_price": 2910
+  },
+  {
+    "product_id": "P9",
+    "product_name": "Blouse",
+    "category": "Ethnic",
+    "brand": "H&M",
+    "size": "XL",
+    "color": "Black",
+    "cost_price": 727,
+    "list_price": 1805
+  },
+  {
+    "product_id": "P10",
+    "product_name": "Blouse",
+    "category": "Ethnic",
+    "brand": "Levis",
+    "size": "XL",
+    "color": "White",
+    "cost_price": 900,
+    "list_price": 2598
+  },
+  {
+    "product_id": "P11",
+    "product_name": "T-shirt",
+    "category": "Formal",
+    "brand": "Levis",
+    "size": "M",
+    "color": "Red",
+    "cost_price": 1000,
+    "list_price": 3516
+  },
+  {
+    "product_id": "P12",
+    "product_name": "Slim Fit Jeans",
+    "category": "Formal",
+    "brand": "Levis",
+    "size": "L",
+    "color": "Red",
+    "cost_price": 1391,
+    "list_price": 3530
+  },
+  {
+    "product_id": "P13",
+    "product_name": "Dress",
+    "category": "Casual",
+    "brand": "Zara",
+    "size": "XL",
+    "color": "Black",
+    "cost_price": 643,
+    "list_price": 1540
+  },
+  {
+    "product_id": "P14",
+    "product_name": "Slim Fit Jeans",
+    "category": "Casual",
+    "brand": "Levis",
+    "size": "L",
+    "color": "White",
+    "cost_price": 562,
+    "list_price": 2555
+  },
+  {
+    "product_id": "P15",
+    "product_name": "Sweater",
+    "category": "Formal",
+    "brand": "Allen Solly",
+    "size": "L",
+    "color": "Green",
+    "cost_price": 533,
+    "list_price": 1635
+  },
+  {
+    "product_id": "P16",
+    "product_name": "Dress",
+    "category": "Ethnic",
+    "brand": "Levis",
+    "size": "S",
+    "color": "Black",
+    "cost_price": 1383,
+    "list_price": 1696
+  },
+  {
+    "product_id": "P17",
+    "product_name": "Slim Fit Jeans",
+    "category": "Ethnic",
+    "brand": "Allen Solly",
+    "size": "XL",
+    "color": "Green",
+    "cost_price": 1019,
+    "list_price": 2460
+  },
+  {
+    "product_id": "P18",
+    "product_name": "Dress",
+    "category": "Casual",
+    "brand": "Allen Solly",
+    "size": "XL",
+    "color": "Blue",
+    "cost_price": 615,
+    "list_price": 3707
+  },
+  {
+    "product_id": "P19",
+    "product_name": "T-shirt",
+    "category": "Formal",
+    "brand": "Allen Solly",
+    "size": "S",
+    "color": "Black",
+    "cost_price": 1051,
+    "list_price": 2417
+  },
+  {
+    "product_id": "P20",
+    "product_name": "Blouse",
+    "category": "Casual",
+    "brand": "Allen Solly",
+    "size": "M",
+    "color": "Red",
+    "cost_price": 773,
+    "list_price": 2033
+  },
+  {
+    "product_id": "P21",
+    "product_name": "Blouse",
+    "category": "Formal",
+    "brand": "Levis",
+    "size": "L",
+    "color": "Green",
+    "cost_price": 780,
+    "list_price": 3573
+  },
+  {
+    "product_id": "P22",
+    "product_name": "Cotton Kurti",
+    "category": "Ethnic",
+    "brand": "H&M",
+    "size": "M",
+    "color": "Red",
+    "cost_price": 967,
+    "list_price": 3214
+  },
+  {
+    "product_id": "P23",
+    "product_name": "Skirt",
+    "category": "Casual",
+    "brand": "Zara",
+    "size": "M",
+    "color": "Black",
+    "cost_price": 959,
+    "list_price": 3093
+  },
+  {
+    "product_id": "P24",
+    "product_name": "Skirt",
+    "category": "Casual",
+    "brand": "H&M",
+    "size": "XL",
+    "color": "White",
+    "cost_price": 983,
+    "list_price": 1741
+  },
+  {
+    "product_id": "P25",
+    "product_name": "Slim Fit Jeans",
+    "category": "Ethnic",
+    "brand": "H&M",
+    "size": "L",
+    "color": "Red",
+    "cost_price": 976,
+    "list_price": 2655
+  },
+  {
+    "product_id": "P26",
+    "product_name": "Dress",
+    "category": "Ethnic",
+    "brand": "Allen Solly",
+    "size": "L",
+    "color": "Green",
+    "cost_price": 1374,
+    "list_price": 3121
+  },
+  {
+    "product_id": "P27",
+    "product_name": "Sweater",
+    "category": "Ethnic",
+    "brand": "Zara",
+    "size": "L",
+    "color": "Green",
+    "cost_price": 1005,
+    "list_price": 3688
+  },
+  {
+    "product_id": "P28",
+    "product_name": "Cotton Kurti",
+    "category": "Ethnic",
+    "brand": "Allen Solly",
+    "size": "S",
+    "color": "Green",
+    "cost_price": 1005,
+    "list_price": 2202
+  },
+  {
+    "product_id": "P29",
+    "product_name": "T-shirt",
+    "category": "Ethnic",
+    "brand": "Levis",
+    "size": "XL",
+    "color": "Green",
+    "cost_price": 1021,
+    "list_price": 2005
+  },
+  {
+    "product_id": "P30",
+    "product_name": "Slim Fit Jeans",
+    "category": "Formal",
+    "brand": "Levis",
+    "size": "M",
+    "color": "Red",
+    "cost_price": 1468,
+    "list_price": 2691
+  },
+  {
+    "product_id": "P31",
+    "product_name": "T-shirt",
+    "category": "Formal",
+    "brand": "Levis",
+    "size": "XL",
+    "color": "White",
+    "cost_price": 726,
+    "list_price": 2836
+  },
+  {
+    "product_id": "P32",
+    "product_name": "Sweater",
+    "category": "Formal",
+    "brand": "Levis",
+    "size": "XL",
+    "color": "White",
+    "cost_price": 688,
+    "list_price": 3634
+  },
+  {
+    "product_id": "P33",
+    "product_name": "Cotton Kurti",
+    "category": "Casual",
+    "brand": "Allen Solly",
+    "size": "M",
+    "color": "White",
+    "cost_price": 804,
+    "list_price": 3899
+  },
+  {
+    "product_id": "P34",
+    "product_name": "Dress",
+    "category": "Ethnic",
+    "brand": "Zara",
+    "size": "M",
+    "color": "White",
+    "cost_price": 1277,
+    "list_price": 3807
+  },
+  {
+    "product_id": "P35",
+    "product_name": "Blouse",
+    "category": "Casual",
+    "brand": "Zara",
+    "size": "L",
+    "color": "Black",
+    "cost_price": 1428,
+    "list_price": 3453
+  },
+  {
+    "product_id": "P36",
+    "product_name": "Sweater",
+    "category": "Ethnic",
+    "brand": "H&M",
+    "size": "S",
+    "color": "Black",
+    "cost_price": 862,
+    "list_price": 1825
+  },
+  {
+    "product_id": "P37",
+    "product_name": "Saree",
+    "category": "Formal",
+    "brand": "H&M",
+    "size": "L",
+    "color": "Blue",
+    "cost_price": 1353,
+    "list_price": 2583
+  },
+  {
+    "product_id": "P38",
+    "product_name": "Skirt",
+    "category": "Formal",
+    "brand": "Allen Solly",
+    "size": "M",
+    "color": "White",
+    "cost_price": 597,
+    "list_price": 2968
+  },
+  {
+    "product_id": "P39",
+    "product_name": "Blouse",
+    "category": "Casual",
+    "brand": "H&M",
+    "size": "XL",
+    "color": "Green",
+    "cost_price": 886,
+    "list_price": 2593
+  },
+  {
+    "product_id": "P40",
+    "product_name": "Blouse",
+    "category": "Casual",
+    "brand": "Allen Solly",
+    "size": "M",
+    "color": "Black",
+    "cost_price": 1214,
+    "list_price": 2053
+  },
+  {
+    "product_id": "P41",
+    "product_name": "Cotton Kurti",
+    "category": "Formal",
+    "brand": "H&M",
+    "size": "L",
+    "color": "Red",
+    "cost_price": 1106,
+    "list_price": 2644
+  },
+  {
+    "product_id": "P42",
+    "product_name": "Slim Fit Jeans",
+    "category": "Formal",
+    "brand": "H&M",
+    "size": "M",
+    "color": "Blue",
+    "cost_price": 1092,
+    "list_price": 2366
+  },
+  {
+    "product_id": "P43",
+    "product_name": "Blouse",
+    "category": "Ethnic",
+    "brand": "Levis",
+    "size": "L",
+    "color": "Red",
+    "cost_price": 1378,
+    "list_price": 2680
+  },
+  {
+    "product_id": "P44",
+    "product_name": "Denim Jacket",
+    "category": "Casual",
+    "brand": "Allen Solly",
+    "size": "S",
+    "color": "White",
+    "cost_price": 1452,
+    "list_price": 2949
+  },
+  {
+    "product_id": "P45",
+    "product_name": "Blouse",
+    "category": "Casual",
+    "brand": "H&M",
+    "size": "M",
+    "color": "Green",
+    "cost_price": 959,
+    "list_price": 2874
+  },
+  {
+    "product_id": "P46",
+    "product_name": "T-shirt",
+    "category": "Casual",
+    "brand": "H&M",
+    "size": "XL",
+    "color": "Red",
+    "cost_price": 794,
+    "list_price": 1990
+  },
+  {
+    "product_id": "P47",
+    "product_name": "Formal Shirt",
+    "category": "Ethnic",
+    "brand": "Zara",
+    "size": "XL",
+    "color": "Blue",
+    "cost_price": 919,
+    "list_price": 2839
+  },
+  {
+    "product_id": "P48",
+    "product_name": "Blouse",
+    "category": "Casual",
+    "brand": "Levis",
+    "size": "L",
+    "color": "Green",
+    "cost_price": 1318,
+    "list_price": 1717
+  },
+  {
+    "product_id": "P49",
+    "product_name": "T-shirt",
+    "category": "Casual",
+    "brand": "H&M",
+    "size": "L",
+    "color": "Red",
+    "cost_price": 1106,
+    "list_price": 2777
+  },
+  {
+    "product_id": "P50",
+    "product_name": "Cotton Kurti",
+    "category": "Ethnic",
+    "brand": "Zara",
+    "size": "L",
+    "color": "Black",
+    "cost_price": 868,
+    "list_price": 3664
+  }
+]
