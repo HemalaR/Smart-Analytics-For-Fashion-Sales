@@ -1,0 +1,27 @@
+[
+    {
+        "customer_profile": "Customer_0 from metro city",
+        "contact": "9340343910",
+        "shopping_behavior": "Frequent Buyer"
+    },
+    {
+        "customer_profile": "Customer_1 from metro city",
+        "contact": "9499819534",
+        "shopping_behavior": "Occasional Buyer"
+    },
+    {
+        "customer_profile": "Customer_2 from metro city",
+        "contact": "9539621163",
+        "shopping_behavior": "Occasional Buyer"
+    },
+    {
+        "customer_profile": "Customer_3 from metro city",
+        "contact": "9517347476",
+        "shopping_behavior": "Occasional Buyer"
+    },
+    {
+        "customer_profile": "Customer_4 from metro city",
+        "contact": "9963276589",
+        "shopping_behavior": "Occasional Buyer"
+    }
+]

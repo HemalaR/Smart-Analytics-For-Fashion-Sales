@@ -1,0 +1,22 @@
+[
+    {
+        "inventory_log": "Product stock updated for Store_3",
+        "status": "Reorder Required"
+    },
+    {
+        "inventory_log": "Product stock updated for Store_2",
+        "status": "Reorder Required"
+    },
+    {
+        "inventory_log": "Product stock updated for Store_2",
+        "status": "Stock Available"
+    },
+    {
+        "inventory_log": "Product stock updated for Store_2",
+        "status": "Reorder Required"
+    },
+    {
+        "inventory_log": "Product stock updated for Store_1",
+        "status": "Reorder Required"
+    }
+]

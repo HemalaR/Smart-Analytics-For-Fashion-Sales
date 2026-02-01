@@ -1,0 +1,27 @@
+[
+    {
+        "employee_record": "Employee_0 joined as Sales Executive",
+        "branch_assigned": "Chennai",
+        "performance_note": "Average performer"
+    },
+    {
+        "employee_record": "Employee_1 joined as Sales Executive",
+        "branch_assigned": "Bangalore",
+        "performance_note": "High performer"
+    },
+    {
+        "employee_record": "Employee_2 joined as Sales Executive",
+        "branch_assigned": "Bangalore",
+        "performance_note": "High performer"
+    },
+    {
+        "employee_record": "Employee_3 joined as Sales Executive",
+        "branch_assigned": "Bangalore",
+        "performance_note": "Average performer"
+    },
+    {
+        "employee_record": "Employee_4 joined as Sales Executive",
+        "branch_assigned": "Bangalore",
+        "performance_note": "Average performer"
+    }
+]

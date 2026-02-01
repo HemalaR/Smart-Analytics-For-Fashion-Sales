@@ -1,0 +1,34 @@
+[
+    {
+        "product_description": "Denim Jacket in multiple sizes and colors",
+        "brand_info": "Zara",
+        "price_details": {
+            "cost_price": 1468,
+            "list_price": 2088
+        }
+    },
+    {
+        "product_description": "Cotton Kurti in multiple sizes and colors",
+        "brand_info": "Zara",
+        "price_details": {
+            "cost_price": 1430,
+            "list_price": 3765
+        }
+    },
+    {
+        "product_description": "Formal Shirt in multiple sizes and colors",
+        "brand_info": "H&M",
+        "price_details": {
+            "cost_price": 1237,
+            "list_price": 2478
+        }
+    },
+    {
+        "product_description": "Slim Fit Jeans in multiple sizes and colors",
+        "brand_info": "Allen Solly",
+        "price_details": {
+            "cost_price": 621,
+            "list_price": 3975
+        }
+    }
+]

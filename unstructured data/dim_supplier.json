@@ -1,0 +1,14 @@
+[
+    {
+        "supplier_notes": "Supplier_0 from textile hub",
+        "delivery_status": "Delayed"
+    },
+    {
+        "supplier_notes": "Supplier_1 from textile hub",
+        "delivery_status": "Delayed"
+    },
+    {
+        "supplier_notes": "Supplier_2 from textile hub",
+        "delivery_status": "Delayed"
+    }
+]

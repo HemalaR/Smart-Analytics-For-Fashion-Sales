@@ -1,0 +1,14 @@
+[
+    {
+        "store_details": "Store_0 located inside shopping mall",
+        "store_type": "Owned"
+    },
+    {
+        "store_details": "Store_1 located inside shopping mall",
+        "store_type": "Owned"
+    },
+    {
+        "store_details": "Store_2 located inside shopping mall",
+        "store_type": "Owned"
+    }
+]

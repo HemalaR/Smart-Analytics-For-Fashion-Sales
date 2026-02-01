@@ -1,0 +1,82 @@
+[
+    {
+        "sale_log": "Sale completed for Product_4",
+        "transaction_details": {
+            "quantity": 2,
+            "payment_mode": "Cash"
+        },
+        "timestamp": "2026-02-01 21:37:45.452607"
+    },
+    {
+        "sale_log": "Sale completed for Product_2",
+        "transaction_details": {
+            "quantity": 1,
+            "payment_mode": "UPI"
+        },
+        "timestamp": "2026-02-01 21:37:45.452647"
+    },
+    {
+        "sale_log": "Sale completed for Product_2",
+        "transaction_details": {
+            "quantity": 5,
+            "payment_mode": "Card"
+        },
+        "timestamp": "2026-02-01 21:37:45.452669"
+    },
+    {
+        "sale_log": "Sale completed for Product_3",
+        "transaction_details": {
+            "quantity": 4,
+            "payment_mode": "Cash"
+        },
+        "timestamp": "2026-02-01 21:37:45.452688"
+    },
+    {
+        "sale_log": "Sale completed for Product_2",
+        "transaction_details": {
+            "quantity": 2,
+            "payment_mode": "UPI"
+        },
+        "timestamp": "2026-02-01 21:37:45.452706"
+    },
+    {
+        "sale_log": "Sale completed for Product_3",
+        "transaction_details": {
+            "quantity": 3,
+            "payment_mode": "Cash"
+        },
+        "timestamp": "2026-02-01 21:37:45.452722"
+    },
+    {
+        "sale_log": "Sale completed for Product_4",
+        "transaction_details": {
+            "quantity": 1,
+            "payment_mode": "UPI"
+        },
+        "timestamp": "2026-02-01 21:37:45.452739"
+    },
+    {
+        "sale_log": "Sale completed for Product_2",
+        "transaction_details": {
+            "quantity": 2,
+            "payment_mode": "Card"
+        },
+        "timestamp": "2026-02-01 21:37:45.452759"
+    },
+    {
+        "sale_log": "Sale completed for Product_3",
+        "transaction_details": {
+            "quantity": 1,
+            "payment_mode": "UPI"
+        },
+        "timestamp": "2026-02-01 21:37:45.452768"
+    },
+    {
+        "sale_log": "Sale completed for Product_1",
+        "transaction_details": {
+            "quantity": 5,
+            "payment_mode": "Card"
+        },
+        "timestamp": "2026-02-01 21:37:45.452777"
+    }
+]
