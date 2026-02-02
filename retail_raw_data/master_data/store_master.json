@@ -1,0 +1,23 @@
+[
+  {
+    "store_id": "ST1",
+    "branch_id": "",
+    "manager_name": "Manager_1",
+    "area_sqft": 1226,
+    "opened_on": "2025-12-08T20:15:48.686760"
+  },
+  {
+    "store_id": "ST2",
+    "branch_id": "BR2",
+    "manager_name": "",
+    "area_sqft": 1667,
+    "opened_on": "2025-09-07T20:15:48.686838"
+  },
+  {
+    "store_id": "ST3",
+    "branch_id": "BR1",
+    "manager_name": "Manager_3",
+    "area_sqft": "",
+    "opened_on": "2025-09-03T20:15:48.686876"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "employee_id": "E1",
+    "name": "",
+    "role": "Sales",
+    "salary": 48713,
+    "joined_on": "2026-01-13T19:58:55.958223"
+  },
+  {
+    "employee_id": "E2",
+    "name": "Employee_2",
+    "role": "",
+    "salary": 35231,
+    "joined_on": "2025-08-19T19:58:55.958287"
+  },
+  {
+    "employee_id": "E3",
+    "name": "Employee_3",
+    "role": "Manager",
+    "salary": 0,
+    "joined_on": "2025-12-29T19:58:55.958309"
+  },
+  {
+    "employee_id": "E4",
+    "name": "Employee_4",
+    "role": "Sales",
+    "salary": 37414,
+    "joined_on": null
+  },
+  {
+    "employee_id": null,
+    "name": "Employee_5",
+    "role": "Sales",
+    "salary": 38726,
+    "joined_on": "2025-11-02T19:58:55.958347"
+  },
+  {
+    "employee_id": "E6",
+    "name": 0,
+    "role": "Sales",
+    "salary": 47521,
+    "joined_on": "2025-10-28T19:58:55.958361"
+  },
+  {
+    "employee_id": "E7",
+    "name": "Employee_7",
+    "role": null,
+    "salary": 38066,
+    "joined_on": "2025-08-28T19:58:55.958377"
+  },
+  {
+    "employee_id": "E8",
+    "name": "Employee_8",
+    "role": "Sales",
+    "salary": -999,
+    "joined_on": "2025-08-11T19:58:55.958392"
+  },
+  {
+    "employee_id": "E9",
+    "name": "Employee_9",
+    "role": "Manager",
+    "salary": 47071,
+    "joined_on": 0
+  },
+  {
+    "employee_id": null,
+    "name": "Employee_10",
+    "role": "Manager",
+    "salary": 42590,
+    "joined_on": "2025-08-27T19:58:55.958422"
+  },
+  {
+    "employee_id": "E11",
+    "name": null,
+    "role": "Manager",
+    "salary": 15137,
+    "joined_on": "2025-09-20T19:58:55.958436"
+  },
+  {
+    "employee_id": "E12",
+    "name": "Employee_12",
+    "role": "",
+    "salary": 21526,
+    "joined_on": "2026-01-04T19:58:55.958452"
+  },
+  {
+    "employee_id": "E13",
+    "name": "Employee_13",
+    "role": "Manager",
+    "salary": 99999,
+    "joined_on": "2025-12-13T19:58:55.958467"
+  },
+  {
+    "employee_id": "E14",
+    "name": "Employee_14",
+    "role": "Sales",
+    "salary": 47788,
+    "joined_on": null
+  },
+  {
+    "employee_id": null,
+    "name": "Employee_15",
+    "role": "Manager",
+    "salary": 36744,
+    "joined_on": "2025-10-05T19:58:55.958497"
+  },
+  {
+    "employee_id": "E16",
+    "name": null,
+    "role": "Sales",
+    "salary": 48723,
+    "joined_on": "2025-09-18T19:58:55.958510"
+  },
+  {
+    "employee_id": "E17",
+    "name": "Employee_17",
+    "role": "",
+    "salary": 38531,
+    "joined_on": "2025-08-08T19:58:55.958525"
+  },
+  {
+    "employee_id": "E18",
+    "name": "Employee_18",
+    "role": "Manager",
+    "salary": 0,
+    "joined_on": "2026-01-22T19:58:55.958540"
+  },
+  {
+    "employee_id": "E19",
+    "name": "Employee_19",
+    "role": "Manager",
+    "salary": 22018,
+    "joined_on": null
+  },
+  {
+    "employee_id": null,
+    "name": "Employee_20",
+    "role": "Sales",
+    "salary": 39632,
+    "joined_on": "2025-12-16T19:58:55.958571"
+  },
+  {
+    "employee_id": "E21",
+    "name": 0,
+    "role": "Sales",
+    "salary": 48221,
+    "joined_on": "2025-12-24T19:58:55.958584"
+  },
+  {
+    "employee_id": "E22",
+    "name": "Employee_22",
+    "role": null,
+    "salary": 43079,
+    "joined_on": "2025-10-01T19:58:55.958599"
+  },
+  {
+    "employee_id": "E23",
+    "name": "Employee_23",
+    "role": "Sales",
+    "salary": -999,
+    "joined_on": "2025-10-31T19:58:55.958614"
+  },
+  {
+    "employee_id": "E24",
+    "name": "Employee_24",
+    "role": "Sales",
+    "salary": 15454,
+    "joined_on": null
+  },
+  {
+    "employee_id": null,
+    "name": "Employee_25",
+    "role": "Sales",
+    "salary": 20568,
+    "joined_on": "2026-01-07T19:58:55.958643"
+  },
+  {
+    "employee_id": "E26",
+    "name": "",
+    "role": "Manager",
+    "salary": 37365,
+    "joined_on": "2025-12-18T19:58:55.958657"
+  },
+  {
+    "employee_id": "E27",
+    "name": "Employee_27",
+    "role": "",
+    "salary": 43296,
+    "joined_on": "2025-10-07T19:58:55.958671"
+  },
+  {
+    "employee_id": "E28",
+    "name": "Employee_28",
+    "role": "Manager",
+    "salary": -999,
+    "joined_on": "2025-09-29T19:58:55.958687"
+  },
+  {
+    "employee_id": "E29",
+    "name": "Employee_29",
+    "role": "Sales",
+    "salary": 22862,
+    "joined_on": 0
+  },
+  {
+    "employee_id": null,
+    "name": "Employee_30",
+    "role": "Manager",
+    "salary": 27928,
+    "joined_on": "2025-12-14T19:58:55.958716"
+  }
+]

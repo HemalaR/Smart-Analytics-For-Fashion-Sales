@@ -1,0 +1,72 @@
+[
+  {
+    "store_id": "ST1",
+    "branch_id": null,
+    "manager": "Manager_1",
+    "area_sqft": 1828,
+    "opened_on": "2025-08-13T19:58:21.818034"
+  },
+  {
+    "store_id": "ST2",
+    "branch_id": "BR3",
+    "manager": null,
+    "area_sqft": 998,
+    "opened_on": "2025-09-27T19:58:21.818097"
+  },
+  {
+    "store_id": "ST3",
+    "branch_id": "BR3",
+    "manager": "Manager_3",
+    "area_sqft": null,
+    "opened_on": "2025-08-14T19:58:21.818116"
+  },
+  {
+    "store_id": "ST4",
+    "branch_id": "BR3",
+    "manager": "Manager_4",
+    "area_sqft": 1249,
+    "opened_on": null
+  },
+  {
+    "store_id": null,
+    "branch_id": "BR3",
+    "manager": "Manager_5",
+    "area_sqft": 1303,
+    "opened_on": "2025-10-20T19:58:21.818142"
+  },
+  {
+    "store_id": "ST6",
+    "branch_id": null,
+    "manager": "Manager_6",
+    "area_sqft": 572,
+    "opened_on": "2025-12-19T19:58:21.818153"
+  },
+  {
+    "store_id": "ST7",
+    "branch_id": "BR2",
+    "manager": "",
+    "area_sqft": 1001,
+    "opened_on": "2025-10-06T19:58:21.818164"
+  },
+  {
+    "store_id": "ST8",
+    "branch_id": "BR2",
+    "manager": "Manager_8",
+    "area_sqft": null,
+    "opened_on": "2025-12-09T19:58:21.818177"
+  },
+  {
+    "store_id": "ST9",
+    "branch_id": "BR3",
+    "manager": "Manager_9",
+    "area_sqft": 737,
+    "opened_on": ""
+  },
+  {
+    "store_id": null,
+    "branch_id": "BR1",
+    "manager": "Manager_10",
+    "area_sqft": 651,
+    "opened_on": "2025-08-27T19:58:21.818202"
+  }
+]

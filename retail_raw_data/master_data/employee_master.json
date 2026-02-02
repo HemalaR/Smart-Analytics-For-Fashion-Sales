@@ -1,0 +1,212 @@
+[
+  {
+    "employee_id": "E1",
+    "employee_name": null,
+    "role": "Manager",
+    "salary": 21865,
+    "joined_on": "2025-11-19T20:15:48.689156"
+  },
+  {
+    "employee_id": "E2",
+    "employee_name": "Employee_2",
+    "role": null,
+    "salary": 40672,
+    "joined_on": "2025-10-09T20:15:48.689209"
+  },
+  {
+    "employee_id": "E3",
+    "employee_name": "Employee_3",
+    "role": "Manager",
+    "salary": 0,
+    "joined_on": "2025-08-14T20:15:48.689226"
+  },
+  {
+    "employee_id": "E4",
+    "employee_name": "Employee_4",
+    "role": "Sales",
+    "salary": 33775,
+    "joined_on": ""
+  },
+  {
+    "employee_id": "",
+    "employee_name": "Employee_5",
+    "role": "Sales",
+    "salary": 41181,
+    "joined_on": "2025-12-29T20:15:48.689253"
+  },
+  {
+    "employee_id": "E6",
+    "employee_name": null,
+    "role": "Sales",
+    "salary": 48077,
+    "joined_on": "2025-09-07T20:15:48.689265"
+  },
+  {
+    "employee_id": "E7",
+    "employee_name": "Employee_7",
+    "role": "",
+    "salary": 16723,
+    "joined_on": "2025-08-10T20:15:48.689279"
+  },
+  {
+    "employee_id": "E8",
+    "employee_name": "Employee_8",
+    "role": "Sales",
+    "salary": -500,
+    "joined_on": "2025-09-16T20:15:48.689292"
+  },
+  {
+    "employee_id": "E9",
+    "employee_name": "Employee_9",
+    "role": "Manager",
+    "salary": 47282,
+    "joined_on": ""
+  },
+  {
+    "employee_id": "INVALID_ID",
+    "employee_name": "Employee_10",
+    "role": "Manager",
+    "salary": 26284,
+    "joined_on": "2025-10-16T20:15:48.689316"
+  },
+  {
+    "employee_id": "E11",
+    "employee_name": null,
+    "role": "Manager",
+    "salary": 49442,
+    "joined_on": "2025-12-21T20:15:48.689329"
+  },
+  {
+    "employee_id": "E12",
+    "employee_name": "Employee_12",
+    "role": null,
+    "salary": 22454,
+    "joined_on": "2025-12-23T20:15:48.689339"
+  },
+  {
+    "employee_id": "E13",
+    "employee_name": "Employee_13",
+    "role": "Manager",
+    "salary": 99999,
+    "joined_on": "2025-11-07T20:15:48.689351"
+  },
+  {
+    "employee_id": "E14",
+    "employee_name": "Employee_14",
+    "role": "Manager",
+    "salary": 37256,
+    "joined_on": null
+  },
+  {
+    "employee_id": "",
+    "employee_name": "Employee_15",
+    "role": "Sales",
+    "salary": 40951,
+    "joined_on": "2025-10-23T20:15:48.689383"
+  },
+  {
+    "employee_id": "E16",
+    "employee_name": null,
+    "role": "Manager",
+    "salary": 38237,
+    "joined_on": "2025-12-21T20:15:48.689394"
+  },
+  {
+    "employee_id": "E17",
+    "employee_name": "Employee_17",
+    "role": null,
+    "salary": 37229,
+    "joined_on": "2025-12-27T20:15:48.689406"
+  },
+  {
+    "employee_id": "E18",
+    "employee_name": "Employee_18",
+    "role": "Manager",
+    "salary": 0,
+    "joined_on": "2025-08-27T20:15:48.689432"
+  },
+  {
+    "employee_id": "E19",
+    "employee_name": "Employee_19",
+    "role": "Sales",
+    "salary": 37669,
+    "joined_on": ""
+  },
+  {
+    "employee_id": null,
+    "employee_name": "Employee_20",
+    "role": "Sales",
+    "salary": 48407,
+    "joined_on": "2025-11-19T20:15:48.689543"
+  },
+  {
+    "employee_id": "E21",
+    "employee_name": null,
+    "role": "Manager",
+    "salary": 25858,
+    "joined_on": "2025-12-14T20:15:48.689585"
+  },
+  {
+    "employee_id": "E22",
+    "employee_name": "Employee_22",
+    "role": null,
+    "salary": 20724,
+    "joined_on": "2025-08-09T20:15:48.689630"
+  },
+  {
+    "employee_id": "E23",
+    "employee_name": "Employee_23",
+    "role": "Manager",
+    "salary": 99999,
+    "joined_on": "2026-01-01T20:15:48.689687"
+  },
+  {
+    "employee_id": "E24",
+    "employee_name": "Employee_24",
+    "role": "Sales",
+    "salary": 44139,
+    "joined_on": null
+  },
+  {
+    "employee_id": "",
+    "employee_name": "Employee_25",
+    "role": "Manager",
+    "salary": 40976,
+    "joined_on": "2026-01-01T20:15:48.689761"
+  },
+  {
+    "employee_id": "E26",
+    "employee_name": null,
+    "role": "Manager",
+    "salary": 30603,
+    "joined_on": "2025-10-05T20:15:48.689798"
+  },
+  {
+    "employee_id": "E27",
+    "employee_name": "Employee_27",
+    "role": null,
+    "salary": 20824,
+    "joined_on": "2025-10-28T20:15:48.689813"
+  },
+  {
+    "employee_id": "E28",
+    "employee_name": "Employee_28",
+    "role": "Sales",
+    "salary": 0,
+    "joined_on": "2025-10-21T20:15:48.689830"
+  },
+  {
+    "employee_id": "E29",
+    "employee_name": "Employee_29",
+    "role": "Sales",
+    "salary": 16332,
+    "joined_on": ""
+  },
+  {
+    "employee_id": null,
+    "employee_name": "Employee_30",
+    "role": "Manager",
+    "salary": 26254,
+    "joined_on": "2025-09-01T20:15:48.689880"
+  }
+]

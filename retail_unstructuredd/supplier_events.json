@@ -1,0 +1,122 @@
+[
+  {
+    "supplier_id": "SUP1",
+    "name": 0,
+    "lead_time_days": 7,
+    "rating": 2
+  },
+  {
+    "supplier_id": "SUP2",
+    "name": "Supplier_2",
+    "lead_time_days": "32-13-2025",
+    "rating": 4
+  },
+  {
+    "supplier_id": "SUP3",
+    "name": "Supplier_3",
+    "lead_time_days": 3,
+    "rating": ""
+  },
+  {
+    "supplier_id": null,
+    "name": "Supplier_4",
+    "lead_time_days": 7,
+    "rating": 1
+  },
+  {
+    "supplier_id": "SUP5",
+    "name": "",
+    "lead_time_days": 9,
+    "rating": 2
+  },
+  {
+    "supplier_id": "SUP6",
+    "name": "Supplier_6",
+    "lead_time_days": null,
+    "rating": 4
+  },
+  {
+    "supplier_id": "SUP7",
+    "name": "Supplier_7",
+    "lead_time_days": 7,
+    "rating": ""
+  },
+  {
+    "supplier_id": null,
+    "name": "Supplier_8",
+    "lead_time_days": 2,
+    "rating": 4
+  },
+  {
+    "supplier_id": "SUP9",
+    "name": "",
+    "lead_time_days": 5,
+    "rating": 4
+  },
+  {
+    "supplier_id": "SUP10",
+    "name": "Supplier_10",
+    "lead_time_days": "invalid-date",
+    "rating": 4
+  },
+  {
+    "supplier_id": "SUP11",
+    "name": "Supplier_11",
+    "lead_time_days": 2,
+    "rating": null
+  },
+  {
+    "supplier_id": null,
+    "name": "Supplier_12",
+    "lead_time_days": 7,
+    "rating": 4
+  },
+  {
+    "supplier_id": "SUP13",
+    "name": null,
+    "lead_time_days": 6,
+    "rating": 5
+  },
+  {
+    "supplier_id": "SUP14",
+    "name": "Supplier_14",
+    "lead_time_days": "invalid-date",
+    "rating": 4
+  },
+  {
+    "supplier_id": "SUP15",
+    "name": "Supplier_15",
+    "lead_time_days": 6,
+    "rating": null
+  },
+  {
+    "supplier_id": null,
+    "name": "Supplier_16",
+    "lead_time_days": 3,
+    "rating": 5
+  },
+  {
+    "supplier_id": "SUP17",
+    "name": null,
+    "lead_time_days": 5,
+    "rating": 3
+  },
+  {
+    "supplier_id": "SUP18",
+    "name": "Supplier_18",
+    "lead_time_days": null,
+    "rating": 5
+  },
+  {
+    "supplier_id": "SUP19",
+    "name": "Supplier_19",
+    "lead_time_days": 2,
+    "rating": ""
+  },
+  {
+    "supplier_id": null,
+    "name": "Supplier_20",
+    "lead_time_days": 9,
+    "rating": 4
+  }
+]

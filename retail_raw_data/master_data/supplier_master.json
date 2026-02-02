@@ -1,0 +1,92 @@
+[
+  {
+    "supplier_id": "SUP1",
+    "supplier_name": null,
+    "lead_time_days": 3,
+    "rating": 3
+  },
+  {
+    "supplier_id": "SUP2",
+    "supplier_name": "Supplier_2",
+    "lead_time_days": "INVALID_DATE",
+    "rating": 2
+  },
+  {
+    "supplier_id": "SUP3",
+    "supplier_name": "Supplier_3",
+    "lead_time_days": 4,
+    "rating": null
+  },
+  {
+    "supplier_id": "",
+    "supplier_name": "Supplier_4",
+    "lead_time_days": 5,
+    "rating": 5
+  },
+  {
+    "supplier_id": "SUP5",
+    "supplier_name": "",
+    "lead_time_days": 7,
+    "rating": 2
+  },
+  {
+    "supplier_id": "SUP6",
+    "supplier_name": "Supplier_6",
+    "lead_time_days": "32-13-2025",
+    "rating": 1
+  },
+  {
+    "supplier_id": "SUP7",
+    "supplier_name": "Supplier_7",
+    "lead_time_days": 6,
+    "rating": ""
+  },
+  {
+    "supplier_id": "",
+    "supplier_name": "Supplier_8",
+    "lead_time_days": 7,
+    "rating": 3
+  },
+  {
+    "supplier_id": "SUP9",
+    "supplier_name": null,
+    "lead_time_days": 4,
+    "rating": 3
+  },
+  {
+    "supplier_id": "SUP10",
+    "supplier_name": "Supplier_10",
+    "lead_time_days": "32-13-2025",
+    "rating": 3
+  },
+  {
+    "supplier_id": "SUP11",
+    "supplier_name": "Supplier_11",
+    "lead_time_days": 2,
+    "rating": null
+  },
+  {
+    "supplier_id": null,
+    "supplier_name": "Supplier_12",
+    "lead_time_days": 7,
+    "rating": 1
+  },
+  {
+    "supplier_id": "SUP13",
+    "supplier_name": "",
+    "lead_time_days": 8,
+    "rating": 4
+  },
+  {
+    "supplier_id": "SUP14",
+    "supplier_name": "Supplier_14",
+    "lead_time_days": "INVALID_DATE",
+    "rating": 5
+  },
+  {
+    "supplier_id": "SUP15",
+    "supplier_name": "Supplier_15",
+    "lead_time_days": 6,
+    "rating": ""
+  }
+]

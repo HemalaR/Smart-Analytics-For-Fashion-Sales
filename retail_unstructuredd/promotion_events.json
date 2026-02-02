@@ -1,0 +1,122 @@
+[
+  {
+    "promo_id": "PR1",
+    "discount": 1.5,
+    "start_date": "2025-10-10T19:58:21.823621",
+    "end_date": "2025-12-21T19:58:21.823645"
+  },
+  {
+    "promo_id": "PR2",
+    "discount": 30,
+    "start_date": "32-13-2025",
+    "end_date": "2025-09-13T19:58:21.823660"
+  },
+  {
+    "promo_id": "PR3",
+    "discount": 20,
+    "start_date": "2025-12-13T19:58:21.823669",
+    "end_date": "32-13-2025"
+  },
+  {
+    "promo_id": null,
+    "discount": 10,
+    "start_date": "2025-12-05T19:58:21.823677",
+    "end_date": "2025-10-10T19:58:21.823681"
+  },
+  {
+    "promo_id": "PR5",
+    "discount": 1.5,
+    "start_date": "2025-12-03T19:58:21.823686",
+    "end_date": "2026-01-28T19:58:21.823688"
+  },
+  {
+    "promo_id": "PR6",
+    "discount": 20,
+    "start_date": "32-13-2025",
+    "end_date": "2026-01-09T19:58:21.823699"
+  },
+  {
+    "promo_id": "PR7",
+    "discount": 10,
+    "start_date": "2025-09-18T19:58:21.823704",
+    "end_date": "invalid-date"
+  },
+  {
+    "promo_id": null,
+    "discount": 20,
+    "start_date": "2025-09-11T19:58:21.823712",
+    "end_date": "2025-10-14T19:58:21.823715"
+  },
+  {
+    "promo_id": "PR9",
+    "discount": 1.5,
+    "start_date": "2025-09-08T19:58:21.823719",
+    "end_date": "2025-08-16T19:58:21.823723"
+  },
+  {
+    "promo_id": "PR10",
+    "discount": 20,
+    "start_date": "invalid-date",
+    "end_date": "2025-08-25T19:58:21.823731"
+  },
+  {
+    "promo_id": "PR11",
+    "discount": 20,
+    "start_date": "2026-01-27T19:58:21.823736",
+    "end_date": null
+  },
+  {
+    "promo_id": null,
+    "discount": 20,
+    "start_date": "2026-01-26T19:58:21.823745",
+    "end_date": "2025-09-30T19:58:21.823748"
+  },
+  {
+    "promo_id": "PR13",
+    "discount": -0.5,
+    "start_date": "2025-10-05T19:58:21.823752",
+    "end_date": "2025-08-06T19:58:21.823755"
+  },
+  {
+    "promo_id": "PR14",
+    "discount": 30,
+    "start_date": null,
+    "end_date": "2025-11-11T19:58:21.823763"
+  },
+  {
+    "promo_id": "PR15",
+    "discount": 10,
+    "start_date": "2025-10-19T19:58:21.823768",
+    "end_date": null
+  },
+  {
+    "promo_id": null,
+    "discount": 30,
+    "start_date": "2025-12-07T19:58:21.823778",
+    "end_date": "2025-09-13T19:58:21.823784"
+  },
+  {
+    "promo_id": "PR17",
+    "discount": 1.5,
+    "start_date": "2025-08-13T19:58:21.823794",
+    "end_date": "2025-11-26T19:58:21.823800"
+  },
+  {
+    "promo_id": "PR18",
+    "discount": 10,
+    "start_date": "32-13-2025",
+    "end_date": "2025-11-05T19:58:21.823817"
+  },
+  {
+    "promo_id": "PR19",
+    "discount": 10,
+    "start_date": "2025-10-12T19:58:21.823827",
+    "end_date": "32-13-2025"
+  },
+  {
+    "promo_id": null,
+    "discount": 30,
+    "start_date": "2025-12-25T19:58:21.823837",
+    "end_date": "2025-11-14T19:58:21.823840"
+  }
+]

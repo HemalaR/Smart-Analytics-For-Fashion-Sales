@@ -1,0 +1,27 @@
+[
+  {
+    "branch_id": "BR1",
+    "city": "",
+    "status": "Inactive"
+  },
+  {
+    "branch_id": "BR2",
+    "city": "Hyderabad",
+    "status": 0
+  },
+  {
+    "branch_id": null,
+    "city": "Bangalore",
+    "status": "Active"
+  },
+  {
+    "branch_id": "BR4",
+    "city": null,
+    "status": "Inactive"
+  },
+  {
+    "branch_id": "BR5",
+    "city": "Hyderabad",
+    "status": null
+  }
+]

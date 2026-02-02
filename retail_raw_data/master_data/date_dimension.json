@@ -1,0 +1,302 @@
+[
+  {
+    "date_id": "D1",
+    "calendar_date": "INVALID_DATE",
+    "day_type": "Weekend"
+  },
+  {
+    "date_id": "D2",
+    "calendar_date": "2026-01-31",
+    "day_type": ""
+  },
+  {
+    "date_id": "",
+    "calendar_date": "2026-01-30",
+    "day_type": "Weekday"
+  },
+  {
+    "date_id": "D4",
+    "calendar_date": "32-13-2025",
+    "day_type": "Weekday"
+  },
+  {
+    "date_id": "D5",
+    "calendar_date": "2026-01-28",
+    "day_type": null
+  },
+  {
+    "date_id": "INVALID_ID",
+    "calendar_date": "2026-01-27",
+    "day_type": "Weekend"
+  },
+  {
+    "date_id": "D7",
+    "calendar_date": null,
+    "day_type": "Weekend"
+  },
+  {
+    "date_id": "D8",
+    "calendar_date": "2026-01-25",
+    "day_type": ""
+  },
+  {
+    "date_id": null,
+    "calendar_date": "2026-01-24",
+    "day_type": "Weekend"
+  },
+  {
+    "date_id": "D10",
+    "calendar_date": "INVALID_DATE",
+    "day_type": "Weekday"
+  },
+  {
+    "date_id": "D11",
+    "calendar_date": "2026-01-22",
+    "day_type": null
+  },
+  {
+    "date_id": "INVALID_ID",
+    "calendar_date": "2026-01-21",
+    "day_type": "Weekday"
+  },
+  {
+    "date_id": "D13",
+    "calendar_date": "INVALID_DATE",
+    "day_type": "Weekday"
+  },
+  {
+    "date_id": "D14",
+    "calendar_date": "2026-01-19",
+    "day_type": null
+  },
+  {
+    "date_id": "",
+    "calendar_date": "2026-01-18",
+    "day_type": "Weekend"
+  },
+  {
+    "date_id": "D16",
+    "calendar_date": "INVALID_DATE",
+    "day_type": "Weekend"
+  },
+  {
+    "date_id": "D17",
+    "calendar_date": "2026-01-16",
+    "day_type": null
+  },
+  {
+    "date_id": null,
+    "calendar_date": "2026-01-15",
+    "day_type": "Weekend"
+  },
+  {
+    "date_id": "D19",
+    "calendar_date": "INVALID_DATE",
+    "day_type": "Weekday"
+  },
+  {
+    "date_id": "D20",
+    "calendar_date": "2026-01-13",
+    "day_type": ""
+  },
+  {
+    "date_id": "",
+    "calendar_date": "2026-01-12",
+    "day_type": "Weekend"
+  },
+  {
+    "date_id": "D22",
+    "calendar_date": "32-13-2025",
+    "day_type": "Weekday"
+  },
+  {
+    "date_id": "D23",
+    "calendar_date": "2026-01-10",
+    "day_type": null
+  },
+  {
+    "date_id": null,
+    "calendar_date": "2026-01-09",
+    "day_type": "Weekend"
+  },
+  {
+    "date_id": "D25",
+    "calendar_date": "INVALID_DATE",
+    "day_type": "Weekday"
+  },
+  {
+    "date_id": "D26",
+    "calendar_date": "2026-01-07",
+    "day_type": ""
+  },
+  {
+    "date_id": "INVALID_ID",
+    "calendar_date": "2026-01-06",
+    "day_type": "Weekend"
+  },
+  {
+    "date_id": "D28",
+    "calendar_date": null,
+    "day_type": "Weekday"
+  },
+  {
+    "date_id": "D29",
+    "calendar_date": "2026-01-04",
+    "day_type": null
+  },
+  {
+    "date_id": "INVALID_ID",
+    "calendar_date": "2026-01-03",
+    "day_type": "Weekend"
+  },
+  {
+    "date_id": "D31",
+    "calendar_date": "32-13-2025",
+    "day_type": "Weekend"
+  },
+  {
+    "date_id": "D32",
+    "calendar_date": "2026-01-01",
+    "day_type": ""
+  },
+  {
+    "date_id": null,
+    "calendar_date": "2025-12-31",
+    "day_type": "Weekend"
+  },
+  {
+    "date_id": "D34",
+    "calendar_date": "INVALID_DATE",
+    "day_type": "Weekday"
+  },
+  {
+    "date_id": "D35",
+    "calendar_date": "2025-12-29",
+    "day_type": ""
+  },
+  {
+    "date_id": "",
+    "calendar_date": "2025-12-28",
+    "day_type": "Weekday"
+  },
+  {
+    "date_id": "D37",
+    "calendar_date": "32-13-2025",
+    "day_type": "Weekday"
+  },
+  {
+    "date_id": "D38",
+    "calendar_date": "2025-12-26",
+    "day_type": null
+  },
+  {
+    "date_id": "INVALID_ID",
+    "calendar_date": "2025-12-25",
+    "day_type": "Weekday"
+  },
+  {
+    "date_id": "D40",
+    "calendar_date": null,
+    "day_type": "Weekend"
+  },
+  {
+    "date_id": "D41",
+    "calendar_date": "2025-12-23",
+    "day_type": null
+  },
+  {
+    "date_id": "INVALID_ID",
+    "calendar_date": "2025-12-22",
+    "day_type": "Weekday"
+  },
+  {
+    "date_id": "D43",
+    "calendar_date": "INVALID_DATE",
+    "day_type": "Weekend"
+  },
+  {
+    "date_id": "D44",
+    "calendar_date": "2025-12-20",
+    "day_type": null
+  },
+  {
+    "date_id": "INVALID_ID",
+    "calendar_date": "2025-12-19",
+    "day_type": "Weekend"
+  },
+  {
+    "date_id": "D46",
+    "calendar_date": "32-13-2025",
+    "day_type": "Weekday"
+  },
+  {
+    "date_id": "D47",
+    "calendar_date": "2025-12-17",
+    "day_type": null
+  },
+  {
+    "date_id": null,
+    "calendar_date": "2025-12-16",
+    "day_type": "Weekday"
+  },
+  {
+    "date_id": "D49",
+    "calendar_date": "32-13-2025",
+    "day_type": "Weekend"
+  },
+  {
+    "date_id": "D50",
+    "calendar_date": "2025-12-14",
+    "day_type": null
+  },
+  {
+    "date_id": "INVALID_ID",
+    "calendar_date": "2025-12-13",
+    "day_type": "Weekday"
+  },
+  {
+    "date_id": "D52",
+    "calendar_date": "INVALID_DATE",
+    "day_type": "Weekend"
+  },
+  {
+    "date_id": "D53",
+    "calendar_date": "2025-12-11",
+    "day_type": null
+  },
+  {
+    "date_id": null,
+    "calendar_date": "2025-12-10",
+    "day_type": "Weekend"
+  },
+  {
+    "date_id": "D55",
+    "calendar_date": null,
+    "day_type": "Weekend"
+  },
+  {
+    "date_id": "D56",
+    "calendar_date": "2025-12-08",
+    "day_type": null
+  },
+  {
+    "date_id": "INVALID_ID",
+    "calendar_date": "2025-12-07",
+    "day_type": "Weekday"
+  },
+  {
+    "date_id": "D58",
+    "calendar_date": "INVALID_DATE",
+    "day_type": "Weekday"
+  },
+  {
+    "date_id": "D59",
+    "calendar_date": "2025-12-05",
+    "day_type": null
+  },
+  {
+    "date_id": "INVALID_ID",
+    "calendar_date": "2025-12-04",
+    "day_type": "Weekend"
+  }
+]

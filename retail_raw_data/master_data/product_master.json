@@ -1,0 +1,402 @@
+[
+  {
+    "product_id": "P1",
+    "product_name": null,
+    "category": "Ethnic",
+    "size": "L",
+    "unit_price": 3419,
+    "brand": "Zara"
+  },
+  {
+    "product_id": "P2",
+    "product_name": "Shirt",
+    "category": null,
+    "size": "L",
+    "unit_price": 1697,
+    "brand": "Zara"
+  },
+  {
+    "product_id": "P3",
+    "product_name": "Jeans",
+    "category": "Ethnic",
+    "size": "",
+    "unit_price": 1534,
+    "brand": "Levis"
+  },
+  {
+    "product_id": "P4",
+    "product_name": "Jeans",
+    "category": "Casual",
+    "size": "XL",
+    "unit_price": 0,
+    "brand": "Levis"
+  },
+  {
+    "product_id": "P5",
+    "product_name": "Jeans",
+    "category": "Casual",
+    "size": "M",
+    "unit_price": 547,
+    "brand": ""
+  },
+  {
+    "product_id": "",
+    "product_name": "Jeans",
+    "category": "Casual",
+    "size": "M",
+    "unit_price": 1563,
+    "brand": "H&M"
+  },
+  {
+    "product_id": "P7",
+    "product_name": null,
+    "category": "Formal",
+    "size": "XL",
+    "unit_price": 2920,
+    "brand": "Levis"
+  },
+  {
+    "product_id": "P8",
+    "product_name": "Shirt",
+    "category": null,
+    "size": "XL",
+    "unit_price": 1220,
+    "brand": "Zara"
+  },
+  {
+    "product_id": "P9",
+    "product_name": "Kurti",
+    "category": "Formal",
+    "size": "",
+    "unit_price": 3821,
+    "brand": "Levis"
+  },
+  {
+    "product_id": "P10",
+    "product_name": "Shirt",
+    "category": "Formal",
+    "size": "M",
+    "unit_price": 99999,
+    "brand": "Zara"
+  },
+  {
+    "product_id": "P11",
+    "product_name": "Kurti",
+    "category": "Ethnic",
+    "size": "M",
+    "unit_price": 1766,
+    "brand": null
+  },
+  {
+    "product_id": "INVALID_ID",
+    "product_name": "Shirt",
+    "category": "Formal",
+    "size": "M",
+    "unit_price": 3832,
+    "brand": "Zara"
+  },
+  {
+    "product_id": "P13",
+    "product_name": null,
+    "category": "Casual",
+    "size": "L",
+    "unit_price": 3077,
+    "brand": "H&M"
+  },
+  {
+    "product_id": "P14",
+    "product_name": "Kurti",
+    "category": "",
+    "size": "XL",
+    "unit_price": 3789,
+    "brand": "Levis"
+  },
+  {
+    "product_id": "P15",
+    "product_name": "Kurti",
+    "category": "Formal",
+    "size": "",
+    "unit_price": 1583,
+    "brand": "H&M"
+  },
+  {
+    "product_id": "P16",
+    "product_name": "Shirt",
+    "category": "Casual",
+    "size": "L",
+    "unit_price": 99999,
+    "brand": "Zara"
+  },
+  {
+    "product_id": "P17",
+    "product_name": "Jeans",
+    "category": "Ethnic",
+    "size": "L",
+    "unit_price": 1367,
+    "brand": ""
+  },
+  {
+    "product_id": "INVALID_ID",
+    "product_name": "Shirt",
+    "category": "Casual",
+    "size": "L",
+    "unit_price": 1845,
+    "brand": "Zara"
+  },
+  {
+    "product_id": "P19",
+    "product_name": "",
+    "category": "Formal",
+    "size": "L",
+    "unit_price": 3762,
+    "brand": "Zara"
+  },
+  {
+    "product_id": "P20",
+    "product_name": "Shirt",
+    "category": "",
+    "size": "L",
+    "unit_price": 2998,
+    "brand": "H&M"
+  },
+  {
+    "product_id": "P21",
+    "product_name": "Jeans",
+    "category": "Ethnic",
+    "size": null,
+    "unit_price": 1846,
+    "brand": "Levis"
+  },
+  {
+    "product_id": "P22",
+    "product_name": "Kurti",
+    "category": "Ethnic",
+    "size": "XL",
+    "unit_price": 0,
+    "brand": "Zara"
+  },
+  {
+    "product_id": "P23",
+    "product_name": "Shirt",
+    "category": "Casual",
+    "size": "L",
+    "unit_price": 1717,
+    "brand": null
+  },
+  {
+    "product_id": null,
+    "product_name": "Shirt",
+    "category": "Formal",
+    "size": "XL",
+    "unit_price": 1007,
+    "brand": "Zara"
+  },
+  {
+    "product_id": "P25",
+    "product_name": "",
+    "category": "Casual",
+    "size": "L",
+    "unit_price": 2720,
+    "brand": "Zara"
+  },
+  {
+    "product_id": "P26",
+    "product_name": "Kurti",
+    "category": null,
+    "size": "M",
+    "unit_price": 2790,
+    "brand": "Zara"
+  },
+  {
+    "product_id": "P27",
+    "product_name": "Shirt",
+    "category": "Casual",
+    "size": "",
+    "unit_price": 1003,
+    "brand": "Zara"
+  },
+  {
+    "product_id": "P28",
+    "product_name": "Kurti",
+    "category": "Casual",
+    "size": "M",
+    "unit_price": -500,
+    "brand": "Zara"
+  },
+  {
+    "product_id": "P29",
+    "product_name": "Shirt",
+    "category": "Ethnic",
+    "size": "XL",
+    "unit_price": 2581,
+    "brand": ""
+  },
+  {
+    "product_id": "INVALID_ID",
+    "product_name": "Kurti",
+    "category": "Formal",
+    "size": "M",
+    "unit_price": 2254,
+    "brand": "H&M"
+  },
+  {
+    "product_id": "P31",
+    "product_name": null,
+    "category": "Ethnic",
+    "size": "L",
+    "unit_price": 3155,
+    "brand": "Levis"
+  },
+  {
+    "product_id": "P32",
+    "product_name": "Shirt",
+    "category": "",
+    "size": "XL",
+    "unit_price": 2627,
+    "brand": "Zara"
+  },
+  {
+    "product_id": "P33",
+    "product_name": "Shirt",
+    "category": "Casual",
+    "size": null,
+    "unit_price": 2041,
+    "brand": "Levis"
+  },
+  {
+    "product_id": "P34",
+    "product_name": "Shirt",
+    "category": "Ethnic",
+    "size": "XL",
+    "unit_price": 99999,
+    "brand": "Levis"
+  },
+  {
+    "product_id": "P35",
+    "product_name": "Kurti",
+    "category": "Casual",
+    "size": "L",
+    "unit_price": 694,
+    "brand": ""
+  },
+  {
+    "product_id": "INVALID_ID",
+    "product_name": "Kurti",
+    "category": "Casual",
+    "size": "S",
+    "unit_price": 822,
+    "brand": "H&M"
+  },
+  {
+    "product_id": "P37",
+    "product_name": null,
+    "category": "Formal",
+    "size": "XL",
+    "unit_price": 2187,
+    "brand": "Zara"
+  },
+  {
+    "product_id": "P38",
+    "product_name": "Jeans",
+    "category": "",
+    "size": "L",
+    "unit_price": 2511,
+    "brand": "H&M"
+  },
+  {
+    "product_id": "P39",
+    "product_name": "Jeans",
+    "category": "Formal",
+    "size": "",
+    "unit_price": 536,
+    "brand": "H&M"
+  },
+  {
+    "product_id": "P40",
+    "product_name": "Kurti",
+    "category": "Formal",
+    "size": "XL",
+    "unit_price": 0,
+    "brand": "Zara"
+  },
+  {
+    "product_id": "P41",
+    "product_name": "Shirt",
+    "category": "Formal",
+    "size": "XL",
+    "unit_price": 3044,
+    "brand": null
+  },
+  {
+    "product_id": "INVALID_ID",
+    "product_name": "Kurti",
+    "category": "Casual",
+    "size": "S",
+    "unit_price": 3135,
+    "brand": "Zara"
+  },
+  {
+    "product_id": "P43",
+    "product_name": "",
+    "category": "Formal",
+    "size": "S",
+    "unit_price": 3369,
+    "brand": "H&M"
+  },
+  {
+    "product_id": "P44",
+    "product_name": "Jeans",
+    "category": "",
+    "size": "M",
+    "unit_price": 3346,
+    "brand": "H&M"
+  },
+  {
+    "product_id": "P45",
+    "product_name": "Kurti",
+    "category": "Casual",
+    "size": "",
+    "unit_price": 2122,
+    "brand": "Levis"
+  },
+  {
+    "product_id": "P46",
+    "product_name": "Kurti",
+    "category": "Formal",
+    "size": "S",
+    "unit_price": 0,
+    "brand": "H&M"
+  },
+  {
+    "product_id": "P47",
+    "product_name": "Kurti",
+    "category": "Formal",
+    "size": "M",
+    "unit_price": 3600,
+    "brand": null
+  },
+  {
+    "product_id": "INVALID_ID",
+    "product_name": "Jeans",
+    "category": "Ethnic",
+    "size": "M",
+    "unit_price": 1222,
+    "brand": "Zara"
+  },
+  {
+    "product_id": "P49",
+    "product_name": null,
+    "category": "Formal",
+    "size": "XL",
+    "unit_price": 1681,
+    "brand": "Levis"
+  },
+  {
+    "product_id": "P50",
+    "product_name": "Jeans",
+    "category": "",
+    "size": "XL",
+    "unit_price": 1747,
+    "brand": "Zara"
+  }
+]

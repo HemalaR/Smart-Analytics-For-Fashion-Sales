@@ -1,0 +1,62 @@
+[
+  {
+    "promo_id": "PR1",
+    "discount_percent": 1.5,
+    "start_date": "2025-12-10T20:15:48.706561",
+    "end_date": "2025-11-17T20:15:48.706588"
+  },
+  {
+    "promo_id": "PR2",
+    "discount_percent": 10,
+    "start_date": "INVALID_DATE",
+    "end_date": "2026-01-10T20:15:48.706613"
+  },
+  {
+    "promo_id": "PR3",
+    "discount_percent": 30,
+    "start_date": "2025-10-15T20:15:48.706624",
+    "end_date": "INVALID_DATE"
+  },
+  {
+    "promo_id": "",
+    "discount_percent": 10,
+    "start_date": "2025-12-23T20:15:48.706641",
+    "end_date": "2025-11-21T20:15:48.706647"
+  },
+  {
+    "promo_id": "PR5",
+    "discount_percent": 1.5,
+    "start_date": "2025-10-28T20:15:48.706657",
+    "end_date": "2025-09-02T20:15:48.706663"
+  },
+  {
+    "promo_id": "PR6",
+    "discount_percent": 30,
+    "start_date": "INVALID_DATE",
+    "end_date": "2025-10-09T20:15:48.706679"
+  },
+  {
+    "promo_id": "PR7",
+    "discount_percent": 10,
+    "start_date": "2025-11-25T20:15:48.706688",
+    "end_date": "INVALID_DATE"
+  },
+  {
+    "promo_id": "INVALID_ID",
+    "discount_percent": 20,
+    "start_date": "2025-12-04T20:15:48.706703",
+    "end_date": "2025-09-14T20:15:48.706709"
+  },
+  {
+    "promo_id": "PR9",
+    "discount_percent": 1.5,
+    "start_date": "2025-09-21T20:15:48.706718",
+    "end_date": "2026-01-26T20:15:48.706723"
+  },
+  {
+    "promo_id": "PR10",
+    "discount_percent": 20,
+    "start_date": "INVALID_DATE",
+    "end_date": "2026-01-22T20:15:48.706739"
+  }
+]

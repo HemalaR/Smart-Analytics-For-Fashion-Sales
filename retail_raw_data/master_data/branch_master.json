@@ -1,0 +1,12 @@
+[
+  {
+    "branch_id": "BR1",
+    "city": "",
+    "status": "Inactive"
+  },
+  {
+    "branch_id": "BR2",
+    "city": "Bangalore",
+    "status": ""
+  }
+]
