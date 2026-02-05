@@ -1,0 +1,121 @@
+ProductKey,SupplierKey,ProductName,Category,SubCategory,Brand,Size,Color,CostPrice,ListPrice
+1,12,Protect,Women Wear,Dresses,Strickland-Gray,M,Red,1760.4,2648.21
+2,6,Painting,Men Wear,Kurtis,Morton-Miller,L,Blue,1588.48,2514.33
+3,2,Hot,Men Wear,Dresses,Smith-Ruiz,L,Red,1410.42,4480.05
+4,12,Minute,Men Wear,Kurtis,"Turner, Jimenez and Martin",XL,White,730.38,1533.33
+5,5,Building,Kids Wear,T-Shirts,"Vasquez, Wilkerson and Mccarthy",S,Blue,758.5,965.07
+6,1,Ability,Kids Wear,Jeans,Johnston Ltd,L,White,456.61,2678.02
+7,12,Why,,T-Shirts,"Lopez, Novak and Mcclure",S,,1394.93,1543.76
+8,10,Here,Men Wear,Jackets,"Larson, Shelton and Anderson",M,Red,555.25,2219.29
+9,6,Hot,Women Wear,Jackets,Mendoza Ltd,L,Black,1015.07,3579.01
+10,12,War,Men Wear,Jackets,Cole PLC,M,Green,682.41,3495.38
+11,9,Apply,Men Wear,Jeans,Palmer-Estrada,M,White,1654.07,2009.02
+12,1,Thank,Women Wear,T-Shirts,"Jacobs, Bean and Fisher",XL,Red,1065.52,2853.14
+13,11,Black,Men Wear,Jackets,Anderson PLC,S,Red,1188.59,2731.73
+14,11,Wrong,Men Wear,Jackets,Shaffer-Williams,M,Red,1373.72,3190.8
+15,10,Hospital,Women Wear,T-Shirts,Stone Group,XL,Blue,595.06,1801.66
+16,12,More,Women Wear,Kurtis,Greene PLC,XL,Black,1246.18,3023.54
+17,12,Southern,Men Wear,T-Shirts,Knight-Curtis,S,Red,1155.78,4424.01
+18,3,Hot,Women Wear,Dresses,"Johnson, Harris and Howard",S,Blue,684.29,2652.27
+19,12,Serve,Kids Wear,Dresses,"Chavez, Cline and Austin",M,Blue,1719.99,4161.96
+20,7,Box,Men Wear,T-Shirts,Fitzgerald Group,XL,Green,1238.41,2463.82
+21,4,Degree,Kids Wear,Kurtis,"Franklin, Foster and Rosario",XL,Red,1372.7,2160.28
+22,9,Agreement,Kids Wear,Kurtis,Strickland-Payne,XL,Blue,1632.65,3222.37
+23,3,Laugh,Women Wear,Jeans,"Nash, Moore and Rice",M,Blue,1274.1,3308.13
+24,5,Act,Men Wear,Jackets,Chan Group,S,White,813.89,4011
+25,3,Could,Kids Wear,Kurtis,Bridges Group,XL,White,547.69,1728.67
+26,7,Sit,Women Wear,Jeans,Ross Ltd,L,Blue,1039.15,2697.1
+27,5,Stock,Men Wear,Kurtis,"Kelly, Smith and Ortega",L,Black,705.82,2959.22
+28,9,Mission,Men Wear,Dresses,Johnson-Smith,XL,White,983.11,3666.79
+29,7,Without,Kids Wear,Jeans,Marks Inc,L,Green,1636.59,1056.97
+30,2,Table,Women Wear,Jeans,Forbes Group,S,Red,854.08,4480.38
+31,4,Defense,Kids Wear,Jackets,Smith Group,XL,Green,570.92,2591.8
+32,9,Hotel,Kids Wear,Dresses,"Kim, Nichols and Weaver",M,Red,898.82,1906.42
+33,12,In,Women Wear,Kurtis,Raymond and Sons,L,Blue,1669.56,4080.58
+34,2,Performance,Kids Wear,Kurtis,Bean Group,XL,White,780.99,3591.79
+35,10,Else,Women Wear,T-Shirts,"Smith, Thomas and Williamson",S,Black,1306.77,4331.06
+36,9,Sign,Women Wear,Jeans,Huber-Kennedy,S,Blue,400.73,2090.7
+37,10,Human,Kids Wear,Jeans,Vazquez-Hernandez,S,White,893.6,2889.95
+38,5,Religious,Women Wear,Kurtis,Terry-Watts,L,White,826.69,2960.25
+39,2,Else,Kids Wear,Jeans,Griffin Inc,M,Red,630.52,4429.19
+40,4,First,Women Wear,Jeans,Hebert-Rivera,L,White,1147.73,1171.25
+41,12,Eight,Kids Wear,T-Shirts,Myers-Peterson,L,White,1078.76,2000.51
+42,12,See,Men Wear,Dresses,Williams-Lee,S,Blue,1369.41,1587.28
+43,7,Eat,Men Wear,Jeans,"Allison, Thomas and Nelson",L,White,777.18,1866.51
+44,12,Responsibility,Men Wear,Jackets,"Hinton, Newman and Lyons",M,Green,741.78,2647.01
+45,8,Soldier,Men Wear,Jackets,Marshall-Torres,M,Red,635.61,2241.67
+46,3,Through,Men Wear,T-Shirts,Griffith-Leach,XL,Black,706.27,2320.89
+47,1,Owner,Men Wear,Jeans,Vargas-Tate,XL,Black,1181.34,3939.17
+48,4,Record,Men Wear,Dresses,"Myers, Garcia and Christian",S,White,965.37,4248.06
+49,2,Discussion,Women Wear,Jeans,Mcclure-Mccoy,M,Red,490.85,1153.5
+50,8,Girl,Women Wear,T-Shirts,Martinez-Soto,M,Blue,755.48,1652.11
+51,4,Eye,Women Wear,Jackets,"Lyons, Meadows and Larsen",S,Green,745.63,3316.12
+52,2,Four,Men Wear,Kurtis,White and Sons,XL,Red,1374.83,2191.13
+53,6,My,Men Wear,Kurtis,Fernandez Group,L,Red,1397.18,1814.99
+54,6,Box,Kids Wear,Dresses,"Rogers, Turner and Walker",M,Blue,607.32,1963.05
+55,10,Fly,Women Wear,Jackets,"Gonzales, Martinez and Frey",L,Black,1796.84,2061.18
+56,4,Politics,Women Wear,T-Shirts,Fowler-Bennett,L,Black,773.49,3955.21
+57,6,Similar,Men Wear,T-Shirts,Jones-Flynn,M,Blue,1767.26,1391.84
+58,2,American,Kids Wear,Kurtis,Alexander-Schwartz,S,White,975.45,3452.08
+59,10,Woman,Men Wear,Kurtis,Williams PLC,S,Green,446.27,2890.15
+60,12,History,Women Wear,Kurtis,Kelley Inc,XL,Black,883.1,1967.44
+61,2,Street,Kids Wear,Dresses,Zhang PLC,XL,White,1288.09,2411.21
+62,10,Necessary,Women Wear,Dresses,Davenport LLC,L,Red,1352.99,1822.34
+63,4,Term,Women Wear,Jackets,Hill Inc,XL,Black,1143.31,3101.45
+64,8,Daughter,Kids Wear,T-Shirts,George PLC,L,Red,1026.9,1193.74
+65,7,Myself,Kids Wear,Kurtis,"Dyer, Jones and Dickerson",S,White,1174.05,918.67
+66,12,Bar,Kids Wear,Jeans,Barrett and Sons,S,Blue,1229.78,3160.42
+67,9,Responsibility,Men Wear,Jackets,"Shea, Carrillo and Hunter",M,Red,513.19,1599.39
+68,8,Street,Men Wear,Jeans,Miller-White,XL,Black,917.52,1155.39
+69,5,West,Men Wear,T-Shirts,Anderson-Hunter,XL,Red,739.02,2328.42
+70,2,Activity,Men Wear,Kurtis,"Klein, Griffith and Warren",XL,Red,1524.4,1082.77
+71,5,Learn,Men Wear,Kurtis,Miller Inc,XL,Black,1058.42,4091.82
+72,8,Radio,Kids Wear,Jeans,Ray and Sons,S,White,1776.79,999.42
+73,10,Base,Kids Wear,Jeans,"Schneider, Howe and Brown",S,Black,958.35,2983.91
+74,9,Effort,Men Wear,Jackets,"Rivas, Meyer and Gates",S,Green,1543,2478.51
+75,12,People,Women Wear,Kurtis,"Stone, Ferguson and Jordan",XL,White,1517.68,3319.29
+76,12,Option,Women Wear,Jackets,Stephenson-Pierce,XL,Black,611,2081.35
+77,12,Lose,Kids Wear,Kurtis,"Vang, Patel and Fisher",M,Blue,1111.48,1458.15
+78,9,Own,Women Wear,T-Shirts,Hines-Nguyen,L,Green,1374.14,4434.63
+79,1,Put,Men Wear,Jackets,Adkins Group,S,White,1601.7,3920.16
+80,9,Key,Men Wear,Jackets,Brown-Miller,XL,Green,856.34,3997.46
+81,7,Reduce,Women Wear,Jackets,Gordon LLC,XL,Red,708.34,1800.9
+82,9,Family,Men Wear,Jackets,"Jones, Taylor and Sharp",XL,Green,1395.61,1039.81
+83,8,Office,Women Wear,Jackets,Sparks-Woods,XL,White,1533.3,1991.76
+84,1,Price,Kids Wear,T-Shirts,Hampton PLC,XL,Green,888.13,2833.5
+85,12,Source,Women Wear,Kurtis,Lamb-Lyons,S,Green,534.65,2075.94
+86,8,Kid,Men Wear,Jeans,Hernandez-Lewis,L,Red,1716.73,3880.33
+87,8,Expect,Kids Wear,Kurtis,King Inc,M,Red,956.6,1877.55
+88,11,It,Women Wear,T-Shirts,Dean-Roberts,XL,White,1124.85,4374.91
+89,3,Score,Men Wear,Jeans,Miller-Smith,XL,Green,1572.79,2546.15
+90,1,Information,Men Wear,Jackets,Evans Inc,XL,White,1345.97,3931.28
+91,8,Senior,Men Wear,Jeans,Kaufman-Lopez,XL,Green,1429.3,1599.77
+92,3,Company,Women Wear,Dresses,Martinez LLC,M,Red,692.7,2380.87
+93,3,Hard,Kids Wear,Kurtis,Steele PLC,XL,White,1158.03,3418.24
+94,1,Camera,Women Wear,Kurtis,Morrow and Sons,S,Blue,1374.1,1398.07
+95,11,Need,Men Wear,Jackets,Brown-Newton,XL,Blue,719.97,1377.88
+96,5,Half,Women Wear,Jackets,Sanchez-Mitchell,XL,Red,644.94,4390.33
+97,10,Loss,Kids Wear,Kurtis,Stone-Huang,S,Red,1775.04,3472.54
+98,7,His,Women Wear,Dresses,"Evans, Nguyen and Smith",XL,White,1123.29,1047.84
+99,10,Mean,Kids Wear,T-Shirts,"Obrien, Ross and Gregory",M,Red,765.16,2335.76
+100,9,Wear,Kids Wear,Jeans,"Kirk, Rice and Benson",M,Blue,1794.76,2460.67
+101,12,Later,Men Wear,Jackets,Myers-Hays,XL,Black,1751.59,3578.55
+102,7,Once,Kids Wear,Kurtis,Miller-Knight,S,Blue,1181.61,1803.1
+103,9,Paper,Kids Wear,Kurtis,Faulkner-Smith,S,Blue,1635.69,1563.6
+104,8,Very,Women Wear,Dresses,Martinez Inc,S,Blue,664.19,1191.14
+105,12,Deal,Men Wear,T-Shirts,Byrd Ltd,M,White,790.42,2441.93
+106,2,Property,Women Wear,Kurtis,Wilson Ltd,XL,Black,1380.5,3378.6
+107,1,Always,Men Wear,Kurtis,"Miller, Wong and Morse",XL,Blue,1585.33,1109.5
+108,7,Majority,Women Wear,Jackets,"Oneal, Long and Robertson",M,Red,1598.85,4194.77
+109,7,When,Women Wear,T-Shirts,Greer-Mcgee,L,Red,966.31,2492.47
+110,8,Plant,Kids Wear,Jackets,Crawford-Sharp,M,Black,1642.88,1763.23
+111,5,Usually,Kids Wear,T-Shirts,"Ward, Reese and Smith",XL,White,1591.3,1237.94
+112,3,Soldier,Men Wear,T-Shirts,Lee Group,L,White,1709.89,1558.32
+113,12,Step,Women Wear,Kurtis,Arnold-Newman,XL,White,1499.48,4264.61
+114,8,Per,Men Wear,Dresses,Austin Group,S,Blue,1336.58,3197.77
+115,6,Cause,Kids Wear,Jeans,Hancock Group,XL,White,1212.96,2760.11
+116,11,Scientist,Kids Wear,T-Shirts,"Jones, Patterson and Harrell",S,Green,921.2,3265.6
+117,3,Politics,Men Wear,Jackets,Mullins LLC,XL,White,1716.19,2468.42
+118,1,By,Women Wear,Jeans,Wilson PLC,M,Red,1763.13,3528.14
+119,3,Business,Women Wear,Kurtis,"Smith, Callahan and Walker",S,Green,797.49,1071.78
+120,5,Measure,Men Wear,Dresses,"Wolfe, Moore and Diaz",M,Red,827.51,2937.73
