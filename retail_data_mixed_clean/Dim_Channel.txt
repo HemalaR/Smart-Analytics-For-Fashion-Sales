@@ -1,0 +1,4 @@
+ChannelKey	ChannelName	Description
+1	POS	Physical Store
+2	Online Website	E-commerce
+3	Mobile App	App Sales

@@ -1,0 +1,170 @@
+[
+  {
+    "EmployeeKey":1,
+    "EmployeeName":"Tristan Aurora",
+    "Role":"Cashier",
+    "BranchKey":1,
+    "Salary":35222
+  },
+  {
+    "EmployeeKey":2,
+    "EmployeeName":"Vedika Pingle",
+    "Role":"Sales",
+    "BranchKey":1,
+    "Salary":38265
+  },
+  {
+    "EmployeeKey":3,
+    "EmployeeName":"Lekha Rana",
+    "Role":"Sales",
+    "BranchKey":1,
+    "Salary":47798
+  },
+  {
+    "EmployeeKey":4,
+    "EmployeeName":"Shaurya Rajagopalan",
+    "Role":"Sales",
+    "BranchKey":1,
+    "Salary":34957
+  },
+  {
+    "EmployeeKey":5,
+    "EmployeeName":"Krishna Borah",
+    "Role":"Sales",
+    "BranchKey":1,
+    "Salary":46260
+  },
+  {
+    "EmployeeKey":6,
+    "EmployeeName":"Aryan Chaudhary",
+    "Role":"Manager",
+    "BranchKey":1,
+    "Salary":41875
+  },
+  {
+    "EmployeeKey":7,
+    "EmployeeName":"Alexander Patil",
+    "Role":"Cashier",
+    "BranchKey":1,
+    "Salary":38314
+  },
+  {
+    "EmployeeKey":8,
+    "EmployeeName":"Jagrati Mane",
+    "Role":"Cashier",
+    "BranchKey":1,
+    "Salary":30397
+  },
+  {
+    "EmployeeKey":9,
+    "EmployeeName":"Nimrat Wali",
+    "Role":"Manager",
+    "BranchKey":1,
+    "Salary":40075
+  },
+  {
+    "EmployeeKey":10,
+    "EmployeeName":"Sanya Borde",
+    "Role":"Cashier",
+    "BranchKey":1,
+    "Salary":49229
+  },
+  {
+    "EmployeeKey":11,
+    "EmployeeName":"Ryan Karpe",
+    "Role":"Cashier",
+    "BranchKey":1,
+    "Salary":33983
+  },
+  {
+    "EmployeeKey":12,
+    "EmployeeName":"Ishwar Dave",
+    "Role":"Cashier",
+    "BranchKey":1,
+    "Salary":34611
+  },
+  {
+    "EmployeeKey":13,
+    "EmployeeName":"Yochana Chaudhry",
+    "Role":"Sales",
+    "BranchKey":2,
+    "Salary":44368
+  },
+  {
+    "EmployeeKey":14,
+    "EmployeeName":"David Om",
+    "Role":"Manager",
+    "BranchKey":2,
+    "Salary":34747
+  },
+  {
+    "EmployeeKey":15,
+    "EmployeeName":"Patrick Banerjee",
+    "Role":"Manager",
+    "BranchKey":2,
+    "Salary":44634
+  },
+  {
+    "EmployeeKey":16,
+    "EmployeeName":"Vedhika Thakkar",
+    "Role":"Sales",
+    "BranchKey":2,
+    "Salary":47520
+  },
+  {
+    "EmployeeKey":17,
+    "EmployeeName":"Maya Randhawa",
+    "Role":"Cashier",
+    "BranchKey":2,
+    "Salary":29086
+  },
+  {
+    "EmployeeKey":18,
+    "EmployeeName":"Sai Chaudry",
+    "Role":"Cashier",
+    "BranchKey":2,
+    "Salary":35879
+  },
+  {
+    "EmployeeKey":19,
+    "EmployeeName":"Warjas Dugal",
+    "Role":"Cashier",
+    "BranchKey":2,
+    "Salary":27839
+  },
+  {
+    "EmployeeKey":20,
+    "EmployeeName":"Yagnesh Guha",
+    "Role":"Manager",
+    "BranchKey":2,
+    "Salary":34413
+  },
+  {
+    "EmployeeKey":21,
+    "EmployeeName":"Manan Kothari",
+    "Role":"Sales",
+    "BranchKey":2,
+    "Salary":43381
+  },
+  {
+    "EmployeeKey":22,
+    "EmployeeName":"Utkarsh Sampath",
+    "Role":"Manager",
+    "BranchKey":2,
+    "Salary":27683
+  },
+  {
+    "EmployeeKey":23,
+    "EmployeeName":"Varsha Verma",
+    "Role":"Manager",
+    "BranchKey":2,
+    "Salary":31005
+  },
+  {
+    "EmployeeKey":24,
+    "EmployeeName":"Anya Bhasin",
+    "Role":"Manager",
+    "BranchKey":2,
+    "Salary":49262
+  }
+]

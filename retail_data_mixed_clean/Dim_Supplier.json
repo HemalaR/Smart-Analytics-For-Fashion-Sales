@@ -1,0 +1,38 @@
+[
+  {
+    "SupplierKey":1,
+    "SupplierName":"Ganguly, Chawla and Dyal",
+    "LeadTimeDays":12,
+    "ReliabilityScore":83
+  },
+  {
+    "SupplierKey":2,
+    "SupplierName":"Koshy-Gopal",
+    "LeadTimeDays":2,
+    "ReliabilityScore":88
+  },
+  {
+    "SupplierKey":3,
+    "SupplierName":"Sane Inc",
+    "LeadTimeDays":5,
+    "ReliabilityScore":87
+  },
+  {
+    "SupplierKey":4,
+    "SupplierName":"Pandit PLC",
+    "LeadTimeDays":4,
+    "ReliabilityScore":83
+  },
+  {
+    "SupplierKey":5,
+    "SupplierName":"Mammen PLC",
+    "LeadTimeDays":12,
+    "ReliabilityScore":97
+  },
+  {
+    "SupplierKey":6,
+    "SupplierName":"Tata PLC",
+    "LeadTimeDays":3,
+    "ReliabilityScore":98
+  }
+]
