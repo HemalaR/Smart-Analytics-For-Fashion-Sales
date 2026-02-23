@@ -1,0 +1,14 @@
+[
+    {
+        "FabricID": 1,
+        "Fabric": "Cotton"
+    },
+    {
+        "FabricID": 2,
+        "Fabric": "Denim"
+    },
+    {
+        "FabricID": 3,
+        "Fabric": "Silk"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "StoreID": 1,
+        "StoreName": "FC Road Store",
+        "BranchID": 1
+    },
+    {
+        "StoreID": 2,
+        "StoreName": "Andheri Store",
+        "BranchID": 2
+    }
+]

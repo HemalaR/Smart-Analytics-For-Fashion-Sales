@@ -1,0 +1,12 @@
+[
+    {
+        "PromotionID": 1,
+        "PromotionName": "Festival Sale",
+        "DiscountPercent": 10
+    },
+    {
+        "PromotionID": 2,
+        "PromotionName": "End Season",
+        "DiscountPercent": 20
+    }
+]

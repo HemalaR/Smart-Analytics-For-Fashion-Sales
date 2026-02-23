@@ -1,0 +1,302 @@
+[
+    {
+        "ProductID": 1,
+        "ProductName": "Men Jacket",
+        "Category": "Kids",
+        "Price": 3707
+    },
+    {
+        "ProductID": 2,
+        "ProductName": "Men Frock",
+        "Category": "Men",
+        "Price": 1014
+    },
+    {
+        "ProductID": 3,
+        "ProductName": "Women Shirt",
+        "Category": "Women",
+        "Price": 570
+    },
+    {
+        "ProductID": 4,
+        "ProductName": "Women Shirt",
+        "Category": "Men",
+        "Price": 3356
+    },
+    {
+        "ProductID": 5,
+        "ProductName": "Women Jacket",
+        "Category": "Women",
+        "Price": 1247
+    },
+    {
+        "ProductID": 6,
+        "ProductName": "Kids Kurti",
+        "Category": "Kids",
+        "Price": 3623
+    },
+    {
+        "ProductID": 7,
+        "ProductName": "Kids Frock",
+        "Category": "Women",
+        "Price": 2665
+    },
+    {
+        "ProductID": 8,
+        "ProductName": "Men Kurti",
+        "Category": "Women",
+        "Price": 2999
+    },
+    {
+        "ProductID": 9,
+        "ProductName": "Men Jacket",
+        "Category": "Kids",
+        "Price": 1021
+    },
+    {
+        "ProductID": 10,
+        "ProductName": "Women Frock",
+        "Category": "Kids",
+        "Price": 3346
+    },
+    {
+        "ProductID": 11,
+        "ProductName": "Men Jacket",
+        "Category": "Women",
+        "Price": 2596
+    },
+    {
+        "ProductID": 12,
+        "ProductName": "Kids Kurti",
+        "Category": "Kids",
+        "Price": 2203
+    },
+    {
+        "ProductID": 13,
+        "ProductName": "Kids Frock",
+        "Category": "Men",
+        "Price": 3627
+    },
+    {
+        "ProductID": 14,
+        "ProductName": "Men Shirt",
+        "Category": "Kids",
+        "Price": 1291
+    },
+    {
+        "ProductID": 15,
+        "ProductName": "Women T-Shirt",
+        "Category": "Kids",
+        "Price": 2537
+    },
+    {
+        "ProductID": 16,
+        "ProductName": "Women Kurti",
+        "Category": "Men",
+        "Price": 2197
+    },
+    {
+        "ProductID": 17,
+        "ProductName": "Men Frock",
+        "Category": "Kids",
+        "Price": 2564
+    },
+    {
+        "ProductID": 18,
+        "ProductName": "Kids Frock",
+        "Category": "Women",
+        "Price": 2510
+    },
+    {
+        "ProductID": 19,
+        "ProductName": "Women Kurti",
+        "Category": "Men",
+        "Price": 1173
+    },
+    {
+        "ProductID": 20,
+        "ProductName": "Men Frock",
+        "Category": "Kids",
+        "Price": 3569
+    },
+    {
+        "ProductID": 21,
+        "ProductName": "Men Shirt",
+        "Category": "Women",
+        "Price": 3311
+    },
+    {
+        "ProductID": 22,
+        "ProductName": "Men Shirt",
+        "Category": "Women",
+        "Price": 3510
+    },
+    {
+        "ProductID": 23,
+        "ProductName": "Women Shirt",
+        "Category": "Men",
+        "Price": 572
+    },
+    {
+        "ProductID": 24,
+        "ProductName": "Men T-Shirt",
+        "Category": "Women",
+        "Price": 2732
+    },
+    {
+        "ProductID": 25,
+        "ProductName": "Kids Jacket",
+        "Category": "Men",
+        "Price": 2340
+    },
+    {
+        "ProductID": 26,
+        "ProductName": "Men Shirt",
+        "Category": "Men",
+        "Price": 1122
+    },
+    {
+        "ProductID": 27,
+        "ProductName": "Kids Frock",
+        "Category": "Men",
+        "Price": 2073
+    },
+    {
+        "ProductID": 28,
+        "ProductName": "Men T-Shirt",
+        "Category": "Men",
+        "Price": 1531
+    },
+    {
+        "ProductID": 29,
+        "ProductName": "Kids T-Shirt",
+        "Category": "Kids",
+        "Price": 1408
+    },
+    {
+        "ProductID": 30,
+        "ProductName": "Kids T-Shirt",
+        "Category": "Women",
+        "Price": 2083
+    },
+    {
+        "ProductID": 31,
+        "ProductName": "Men Jacket",
+        "Category": "Women",
+        "Price": 2435
+    },
+    {
+        "ProductID": 32,
+        "ProductName": "Kids T-Shirt",
+        "Category": "Men",
+        "Price": 3510
+    },
+    {
+        "ProductID": 33,
+        "ProductName": "Women Shirt",
+        "Category": "Men",
+        "Price": 2940
+    },
+    {
+        "ProductID": 34,
+        "ProductName": "Kids Kurti",
+        "Category": "Kids",
+        "Price": 3834
+    },
+    {
+        "ProductID": 35,
+        "ProductName": "Men Jacket",
+        "Category": "Women",
+        "Price": 868
+    },
+    {
+        "ProductID": 36,
+        "ProductName": "Men T-Shirt",
+        "Category": "Men",
+        "Price": 3352
+    },
+    {
+        "ProductID": 37,
+        "ProductName": "Women Jacket",
+        "Category": "Men",
+        "Price": 1651
+    },
+    {
+        "ProductID": 38,
+        "ProductName": "Men Kurti",
+        "Category": "Kids",
+        "Price": 2282
+    },
+    {
+        "ProductID": 39,
+        "ProductName": "Women T-Shirt",
+        "Category": "Men",
+        "Price": 1606
+    },
+    {
+        "ProductID": 40,
+        "ProductName": "Men T-Shirt",
+        "Category": "Women",
+        "Price": 783
+    },
+    {
+        "ProductID": 41,
+        "ProductName": "Kids T-Shirt",
+        "Category": "Kids",
+        "Price": 3461
+    },
+    {
+        "ProductID": 42,
+        "ProductName": "Kids Jacket",
+        "Category": "Women",
+        "Price": 3045
+    },
+    {
+        "ProductID": 43,
+        "ProductName": "Kids Kurti",
+        "Category": "Women",
+        "Price": 3051
+    },
+    {
+        "ProductID": 44,
+        "ProductName": "Men Frock",
+        "Category": "Women",
+        "Price": 1160
+    },
+    {
+        "ProductID": 45,
+        "ProductName": "Kids Shirt",
+        "Category": "Women",
+        "Price": 1045
+    },
+    {
+        "ProductID": 46,
+        "ProductName": "Women Kurti",
+        "Category": "Women",
+        "Price": 665
+    },
+    {
+        "ProductID": 47,
+        "ProductName": "Women Jacket",
+        "Category": "Men",
+        "Price": 2638
+    },
+    {
+        "ProductID": 48,
+        "ProductName": "Women Frock",
+        "Category": "Women",
+        "Price": 1228
+    },
+    {
+        "ProductID": 49,
+        "ProductName": "Women T-Shirt",
+        "Category": "Men",
+        "Price": 2083
+    },
+    {
+        "ProductID": 50,
+        "ProductName": "Women T-Shirt",
+        "Category": "Kids",
+        "Price": 3128
+    }
+]
