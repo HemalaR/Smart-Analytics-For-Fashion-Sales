@@ -1,0 +1,6001 @@
+ShipmentKey,OrderKey,Courier,ShipmentStatus,DeliveryDays
+1,21103,BlueDart,Delivered,3
+2,23077,BlueDart,Processing,7
+3,24845,BlueDart,Shipped,3
+4,25912,DTDC,Processing,7
+5,25368,Delhivery,Packed,6
+6,25464,Ekart,Packed,7
+7,25690,DTDC,Processing,7
+8,20797,BlueDart,Out for Delivery,1
+9,21163,Ekart,Packed,4
+10,22942,Ekart,Delivered,3
+11,23174,Ekart,Packed,2
+12,20222,Ekart,Processing,6
+13,21280,Delhivery,Packed,4
+14,20441,DTDC,Processing,3
+15,25032,BlueDart,Out for Delivery,2
+16,24568,DTDC,Shipped,1
+17,21363,Delhivery,Out for Delivery,6
+18,25911,Delhivery,Out for Delivery,4
+19,24840,Delhivery,Out for Delivery,2
+20,21065,BlueDart,Shipped,5
+21,25326,Delhivery,Shipped,3
+22,22139,BlueDart,Processing,2
+23,25745,Ekart,Processing,2
+24,20481,Delhivery,Processing,5
+25,22976,DTDC,Out for Delivery,5
+26,25242,DTDC,Shipped,4
+27,22526,Delhivery,Shipped,4
+28,24835,Ekart,Shipped,3
+29,23483,BlueDart,Packed,3
+30,23929,Delhivery,Packed,7
+31,22058,DTDC,Out for Delivery,1
+32,20906,Delhivery,Delivered,1
+33,20971,Delhivery,Processing,2
+34,20219,DTDC,Delivered,2
+35,20823,DTDC,Out for Delivery,3
+36,20738,DTDC,Packed,4
+37,24230,Delhivery,Delivered,1
+38,24235,Delhivery,Shipped,4
+39,20880,BlueDart,Delivered,1
+40,25897,Delhivery,Shipped,6
+41,20499,DTDC,Processing,2
+42,24165,Delhivery,Out for Delivery,4
+43,20833,BlueDart,Processing,4
+44,25838,BlueDart,Shipped,1
+45,20392,Ekart,Shipped,5
+46,22258,DTDC,Shipped,2
+47,23282,BlueDart,Processing,6
+48,21611,Delhivery,Processing,5
+49,23565,BlueDart,Shipped,5
+50,24327,Ekart,Out for Delivery,4
+51,25763,DTDC,Delivered,3
+52,24065,Delhivery,Packed,1
+53,24598,Delhivery,Shipped,2
+54,25498,BlueDart,Delivered,4
+55,21283,DTDC,Shipped,7
+56,23584,DTDC,Out for Delivery,7
+57,21220,Delhivery,Shipped,5
+58,20525,BlueDart,Packed,6
+59,23892,Delhivery,Processing,1
+60,22180,DTDC,Out for Delivery,4
+61,20821,Ekart,Shipped,6
+62,24828,Delhivery,Processing,7
+63,20955,Delhivery,Out for Delivery,5
+64,23979,DTDC,Processing,3
+65,20306,Delhivery,Shipped,5
+66,21933,Delhivery,Delivered,7
+67,25734,Ekart,Delivered,1
+68,22581,BlueDart,Processing,3
+69,21411,Delhivery,Shipped,5
+70,24988,Delhivery,Delivered,3
+71,25297,DTDC,Out for Delivery,7
+72,24966,DTDC,Packed,6
+73,20534,BlueDart,Out for Delivery,5
+74,23597,Delhivery,Out for Delivery,4
+75,24940,Ekart,Processing,4
+76,23130,Delhivery,Packed,2
+77,23973,Ekart,Processing,4
+78,23932,Ekart,Packed,2
+79,21428,Ekart,Out for Delivery,2
+80,21728,Ekart,Delivered,5
+81,20934,DTDC,Processing,1
+82,25829,Ekart,Packed,4
+83,25410,BlueDart,Processing,2
+84,23828,Delhivery,Delivered,4
+85,24429,BlueDart,Processing,1
+86,23365,Delhivery,Packed,6
+87,25451,Delhivery,Shipped,1
+88,24471,Delhivery,Packed,3
+89,25607,DTDC,Packed,1
+90,20685,DTDC,Processing,6
+91,24404,Ekart,Delivered,1
+92,20579,DTDC,Shipped,3
+93,24384,BlueDart,Packed,7
+94,20986,DTDC,Shipped,5
+95,24204,BlueDart,Delivered,4
+96,24153,Ekart,Out for Delivery,1
+97,24417,BlueDart,Processing,7
+98,20211,Ekart,Delivered,1
+99,23431,DTDC,Shipped,4
+100,25461,Delhivery,Packed,7
+101,21548,DTDC,Delivered,1
+102,22454,DTDC,Processing,7
+103,25309,Delhivery,Packed,5
+104,24094,Ekart,Packed,5
+105,25493,DTDC,Delivered,5
+106,21233,DTDC,Out for Delivery,5
+107,25491,DTDC,Processing,3
+108,20354,Ekart,Packed,6
+109,20966,Ekart,Processing,7
+110,24760,DTDC,Processing,3
+111,23500,Delhivery,Out for Delivery,5
+112,25262,BlueDart,Packed,4
+113,22328,BlueDart,Shipped,6
+114,23092,Ekart,Processing,7
+115,23771,DTDC,Packed,3
+116,25243,Delhivery,Delivered,4
+117,25751,Ekart,Delivered,4
+118,23144,BlueDart,Shipped,5
+119,23517,Delhivery,Shipped,4
+120,24192,Ekart,Packed,1
+121,23637,Delhivery,Packed,5
+122,22770,Delhivery,Out for Delivery,2
+123,21310,Ekart,Delivered,7
+124,21992,DTDC,Shipped,5
+125,24479,BlueDart,Processing,5
+126,24702,BlueDart,Shipped,5
+127,23278,BlueDart,Delivered,1
+128,23571,BlueDart,Shipped,4
+129,23929,BlueDart,Delivered,4
+130,24932,Delhivery,Out for Delivery,1
+131,25106,Delhivery,Processing,3
+132,20606,BlueDart,Processing,5
+133,25938,BlueDart,Shipped,6
+134,24913,BlueDart,Packed,6
+135,23338,Delhivery,Packed,2
+136,23893,DTDC,Processing,3
+137,21529,BlueDart,Processing,3
+138,22632,Delhivery,Out for Delivery,3
+139,25738,Delhivery,Packed,3
+140,22281,Ekart,Out for Delivery,2
+141,22148,Delhivery,Delivered,1
+142,23514,Ekart,Processing,7
+143,21584,Ekart,Shipped,1
+144,24647,DTDC,Out for Delivery,7
+145,20518,DTDC,Out for Delivery,6
+146,20536,BlueDart,Shipped,5
+147,24410,Delhivery,Delivered,5
+148,25976,Delhivery,Out for Delivery,4
+149,24516,BlueDart,Processing,3
+150,20653,DTDC,Shipped,4
+151,24236,Delhivery,Packed,7
+152,22675,BlueDart,Out for Delivery,6
+153,23085,Ekart,Delivered,4
+154,25051,BlueDart,Delivered,4
+155,25706,DTDC,Shipped,5
+156,23123,Ekart,Processing,3
+157,22788,Ekart,Shipped,7
+158,25406,Delhivery,Processing,1
+159,25028,BlueDart,Delivered,6
+160,21480,Delhivery,Out for Delivery,3
+161,22019,DTDC,Processing,3
+162,20929,Delhivery,Out for Delivery,1
+163,23461,Delhivery,Packed,7
+164,24883,DTDC,Packed,4
+165,22576,BlueDart,Out for Delivery,6
+166,25306,BlueDart,Processing,5
+167,24746,Ekart,Shipped,3
+168,24912,Delhivery,Out for Delivery,4
+169,20063,Delhivery,Processing,5
+170,25375,Ekart,Packed,3
+171,24345,Ekart,Packed,1
+172,22403,DTDC,Out for Delivery,6
+173,22245,DTDC,Out for Delivery,4
+174,23363,Delhivery,Shipped,7
+175,23571,Ekart,Packed,1
+176,22546,Ekart,Out for Delivery,7
+177,22984,DTDC,Out for Delivery,3
+178,24404,Delhivery,Delivered,4
+179,22528,Ekart,Packed,2
+180,24149,Delhivery,Out for Delivery,2
+181,21987,Ekart,Shipped,7
+182,23314,DTDC,Packed,7
+183,25190,BlueDart,Out for Delivery,3
+184,25740,Ekart,Processing,1
+185,23249,Ekart,Delivered,5
+186,22843,BlueDart,Processing,1
+187,25692,DTDC,Packed,7
+188,21530,Delhivery,Packed,2
+189,22410,BlueDart,Out for Delivery,4
+190,23919,DTDC,Shipped,4
+191,21101,Ekart,Delivered,1
+192,23197,Delhivery,Processing,1
+193,21449,Ekart,Processing,1
+194,23052,Ekart,Delivered,7
+195,24236,DTDC,Processing,1
+196,24398,Delhivery,Processing,4
+197,24824,DTDC,Out for Delivery,6
+198,24052,BlueDart,Packed,7
+199,20649,BlueDart,Delivered,5
+200,22936,DTDC,Processing,7
+201,22239,DTDC,Packed,6
+202,23347,Ekart,Packed,6
+203,23482,Delhivery,Packed,6
+204,20909,BlueDart,Processing,2
+205,24332,Ekart,Packed,6
+206,23922,Ekart,Packed,4
+207,22833,DTDC,Delivered,1
+208,23779,Ekart,Packed,3
+209,22169,BlueDart,Shipped,2
+210,21011,BlueDart,Delivered,3
+211,22075,Ekart,Shipped,1
+212,20258,DTDC,Shipped,3
+213,25348,Ekart,Shipped,6
+214,23828,Ekart,Packed,7
+215,21613,Delhivery,Processing,2
+216,21586,BlueDart,Out for Delivery,3
+217,24402,DTDC,Delivered,6
+218,20696,DTDC,Out for Delivery,7
+219,23262,BlueDart,Packed,6
+220,22405,BlueDart,Out for Delivery,2
+221,20252,BlueDart,Delivered,5
+222,23109,BlueDart,Processing,4
+223,22897,Delhivery,Delivered,1
+224,20552,DTDC,Packed,7
+225,20342,Ekart,Shipped,6
+226,25205,BlueDart,Processing,4
+227,24988,BlueDart,Shipped,6
+228,24468,BlueDart,Shipped,5
+229,21880,Ekart,Packed,3
+230,20097,Delhivery,Processing,5
+231,20567,DTDC,Out for Delivery,4
+232,24139,Ekart,Delivered,1
+233,23482,Ekart,Packed,3
+234,22082,Ekart,Shipped,3
+235,22146,DTDC,Processing,7
+236,24356,BlueDart,Delivered,3
+237,25640,Delhivery,Out for Delivery,5
+238,25076,BlueDart,Out for Delivery,6
+239,24526,Delhivery,Processing,6
+240,25622,Ekart,Packed,6
+241,24881,Delhivery,Packed,5
+242,23740,Ekart,Delivered,6
+243,23163,DTDC,Delivered,5
+244,24215,BlueDart,Delivered,1
+245,22508,Ekart,Out for Delivery,5
+246,25760,BlueDart,Out for Delivery,1
+247,22247,DTDC,Packed,3
+248,23088,BlueDart,Processing,7
+249,20734,DTDC,Shipped,2
+250,22194,BlueDart,Packed,7
+251,24561,BlueDart,Delivered,4
+252,21334,BlueDart,Packed,5
+253,20846,BlueDart,Processing,6
+254,25403,DTDC,Processing,4
+255,21288,BlueDart,Packed,5
+256,24217,Delhivery,Delivered,5
+257,21738,BlueDart,Packed,1
+258,20367,Delhivery,Processing,2
+259,21885,BlueDart,Processing,1
+260,20517,DTDC,Out for Delivery,4
+261,23109,Delhivery,Processing,1
+262,24161,DTDC,Out for Delivery,1
+263,20092,Delhivery,Shipped,2
+264,23053,DTDC,Processing,3
+265,20506,BlueDart,Delivered,3
+266,22616,BlueDart,Processing,5
+267,24181,Delhivery,Out for Delivery,3
+268,23450,BlueDart,Packed,3
+269,22535,DTDC,Delivered,3
+270,25541,Delhivery,Processing,1
+271,21627,Delhivery,Out for Delivery,7
+272,23312,BlueDart,Processing,3
+273,22286,Ekart,Delivered,4
+274,23585,Delhivery,Shipped,1
+275,25645,Delhivery,Out for Delivery,4
+276,25476,DTDC,Out for Delivery,3
+277,20754,Delhivery,Processing,6
+278,23220,Ekart,Shipped,7
+279,20709,Delhivery,Packed,3
+280,20013,DTDC,Delivered,3
+281,20824,DTDC,Delivered,7
+282,24846,Ekart,Delivered,4
+283,20344,Delhivery,Shipped,7
+284,24602,BlueDart,Out for Delivery,4
+285,24492,BlueDart,Shipped,5
+286,21154,DTDC,Delivered,6
+287,24649,DTDC,Packed,4
+288,24972,DTDC,Processing,5
+289,21918,DTDC,Delivered,5
+290,24261,Delhivery,Out for Delivery,5
+291,25588,DTDC,Delivered,1
+292,22983,Delhivery,Shipped,7
+293,24845,DTDC,Packed,3
+294,23716,Delhivery,Delivered,4
+295,23089,Delhivery,Delivered,2
+296,21037,Delhivery,Processing,2
+297,23536,Ekart,Out for Delivery,7
+298,25170,BlueDart,Out for Delivery,1
+299,22480,Delhivery,Delivered,7
+300,20048,Ekart,Packed,1
+301,23777,Ekart,Shipped,5
+302,22576,Delhivery,Out for Delivery,4
+303,23744,Ekart,Processing,6
+304,21131,DTDC,Shipped,4
+305,24933,BlueDart,Processing,1
+306,24439,BlueDart,Shipped,1
+307,24986,DTDC,Packed,4
+308,22182,BlueDart,Packed,2
+309,24942,DTDC,Shipped,5
+310,24814,Delhivery,Out for Delivery,1
+311,25793,Ekart,Shipped,3
+312,21081,Delhivery,Delivered,3
+313,25579,Ekart,Shipped,4
+314,20372,Ekart,Out for Delivery,7
+315,24144,BlueDart,Processing,7
+316,24735,BlueDart,Packed,7
+317,23008,DTDC,Processing,6
+318,24707,Delhivery,Processing,1
+319,25179,DTDC,Packed,6
+320,22804,DTDC,Shipped,1
+321,23764,BlueDart,Packed,7
+322,21115,Ekart,Out for Delivery,2
+323,24122,BlueDart,Delivered,5
+324,22688,Ekart,Processing,1
+325,20729,DTDC,Delivered,6
+326,24233,BlueDart,Packed,6
+327,22145,DTDC,Packed,1
+328,21117,DTDC,Processing,4
+329,24443,Ekart,Processing,4
+330,20540,Delhivery,Shipped,5
+331,25256,Delhivery,Processing,1
+332,24706,Ekart,Processing,5
+333,21459,DTDC,Processing,7
+334,25382,Delhivery,Shipped,2
+335,23502,Delhivery,Processing,6
+336,22972,BlueDart,Out for Delivery,1
+337,24666,BlueDart,Packed,1
+338,20269,DTDC,Processing,7
+339,23525,Ekart,Processing,1
+340,23964,Ekart,Processing,5
+341,24703,Ekart,Delivered,6
+342,22681,Ekart,Packed,7
+343,25291,BlueDart,Delivered,5
+344,23837,DTDC,Delivered,5
+345,24695,BlueDart,Out for Delivery,3
+346,21078,Ekart,Shipped,4
+347,20947,DTDC,Processing,5
+348,25907,BlueDart,Out for Delivery,2
+349,22547,Delhivery,Packed,7
+350,25943,Delhivery,Processing,3
+351,22723,Delhivery,Packed,3
+352,24600,DTDC,Packed,6
+353,21501,Delhivery,Out for Delivery,3
+354,21748,Ekart,Out for Delivery,3
+355,24293,BlueDart,Shipped,7
+356,21241,DTDC,Delivered,1
+357,23323,Ekart,Delivered,4
+358,20319,DTDC,Out for Delivery,2
+359,24820,BlueDart,Shipped,3
+360,24440,BlueDart,Delivered,3
+361,21449,Ekart,Packed,4
+362,25167,Ekart,Out for Delivery,2
+363,24426,Delhivery,Shipped,3
+364,20435,DTDC,Out for Delivery,3
+365,25773,Delhivery,Out for Delivery,3
+366,23679,Ekart,Shipped,1
+367,22984,DTDC,Packed,2
+368,24625,BlueDart,Processing,5
+369,20279,Ekart,Shipped,1
+370,20349,DTDC,Shipped,6
+371,20226,Delhivery,Packed,1
+372,20683,Delhivery,Out for Delivery,7
+373,24158,DTDC,Processing,5
+374,25626,Delhivery,Packed,3
+375,22417,DTDC,Out for Delivery,1
+376,25626,BlueDart,Packed,6
+377,20195,DTDC,Delivered,3
+378,21916,Ekart,Shipped,6
+379,20682,BlueDart,Processing,1
+380,25463,BlueDart,Packed,4
+381,22571,Ekart,Processing,1
+382,21294,DTDC,Processing,1
+383,22618,Delhivery,Shipped,2
+384,25894,BlueDart,Shipped,7
+385,25364,Ekart,Out for Delivery,6
+386,25060,Ekart,Processing,4
+387,22315,Delhivery,Out for Delivery,1
+388,23629,BlueDart,Packed,4
+389,24874,Delhivery,Shipped,6
+390,24833,Ekart,Processing,2
+391,25460,Delhivery,Processing,1
+392,23217,Ekart,Delivered,2
+393,22491,Delhivery,Packed,6
+394,24743,Delhivery,Processing,3
+395,22853,BlueDart,Processing,2
+396,23510,Delhivery,Delivered,5
+397,25724,Ekart,Processing,1
+398,24447,Ekart,Delivered,1
+399,21814,Ekart,Delivered,5
+400,21428,Ekart,Shipped,7
+401,21996,Ekart,Delivered,3
+402,21201,Delhivery,Shipped,4
+403,20579,Delhivery,Processing,4
+404,23989,Delhivery,Processing,4
+405,24680,DTDC,Delivered,1
+406,20604,DTDC,Out for Delivery,4
+407,22153,Delhivery,Packed,4
+408,24104,Ekart,Packed,6
+409,21785,BlueDart,Delivered,7
+410,22368,Ekart,Delivered,6
+411,23072,BlueDart,Processing,1
+412,23217,DTDC,Out for Delivery,4
+413,21288,Ekart,Shipped,1
+414,21786,BlueDart,Shipped,7
+415,20091,Delhivery,Out for Delivery,2
+416,23109,Ekart,Shipped,2
+417,23205,BlueDart,Shipped,1
+418,23764,Ekart,Packed,5
+419,20501,BlueDart,Delivered,6
+420,21225,BlueDart,Packed,3
+421,22712,Delhivery,Processing,1
+422,20262,Delhivery,Out for Delivery,7
+423,25545,Delhivery,Shipped,2
+424,20047,DTDC,Delivered,3
+425,21991,Delhivery,Packed,1
+426,20725,DTDC,Out for Delivery,4
+427,21802,BlueDart,Delivered,1
+428,22307,Ekart,Out for Delivery,3
+429,24609,DTDC,Shipped,7
+430,24634,BlueDart,Processing,2
+431,24862,DTDC,Shipped,2
+432,23238,Delhivery,Packed,7
+433,21969,DTDC,Packed,7
+434,20070,BlueDart,Out for Delivery,3
+435,22898,BlueDart,Processing,3
+436,23785,DTDC,Processing,6
+437,24882,BlueDart,Processing,4
+438,20939,Delhivery,Shipped,7
+439,21328,BlueDart,Delivered,1
+440,21483,BlueDart,Out for Delivery,6
+441,21379,Delhivery,Delivered,6
+442,25409,BlueDart,Processing,3
+443,24297,Delhivery,Delivered,5
+444,24005,Delhivery,Shipped,5
+445,20774,DTDC,Processing,7
+446,20919,DTDC,Packed,5
+447,23043,Ekart,Delivered,5
+448,20669,Ekart,Delivered,6
+449,23800,DTDC,Packed,6
+450,25659,Delhivery,Out for Delivery,5
+451,24234,Delhivery,Processing,7
+452,22783,BlueDart,Out for Delivery,5
+453,25730,BlueDart,Processing,5
+454,23076,BlueDart,Delivered,5
+455,23929,BlueDart,Delivered,3
+456,22718,Ekart,Processing,6
+457,20787,BlueDart,Packed,6
+458,23906,BlueDart,Processing,1
+459,21456,BlueDart,Delivered,3
+460,24397,BlueDart,Packed,2
+461,25428,BlueDart,Processing,3
+462,20727,Ekart,Shipped,4
+463,22284,BlueDart,Packed,6
+464,24300,Delhivery,Processing,4
+465,22949,BlueDart,Processing,6
+466,21037,Delhivery,Packed,1
+467,25195,BlueDart,Processing,3
+468,25853,BlueDart,Packed,7
+469,21075,BlueDart,Out for Delivery,4
+470,22943,BlueDart,Processing,2
+471,23056,BlueDart,Processing,7
+472,21071,Delhivery,Out for Delivery,3
+473,20386,DTDC,Shipped,4
+474,21615,Delhivery,Processing,3
+475,25860,BlueDart,Out for Delivery,4
+476,23766,Ekart,Out for Delivery,5
+477,20787,BlueDart,Packed,7
+478,20582,Delhivery,Packed,5
+479,20735,DTDC,Processing,4
+480,22446,DTDC,Delivered,1
+481,21304,BlueDart,Processing,7
+482,20239,Ekart,Packed,7
+483,24434,Ekart,Processing,5
+484,23172,DTDC,Packed,2
+485,24649,Delhivery,Packed,1
+486,23439,DTDC,Processing,5
+487,20458,Ekart,Out for Delivery,5
+488,23020,DTDC,Out for Delivery,4
+489,20333,DTDC,Packed,6
+490,23228,BlueDart,Processing,5
+491,24196,DTDC,Shipped,3
+492,20496,Ekart,Delivered,3
+493,22087,Ekart,Processing,4
+494,23535,DTDC,Packed,6
+495,22509,BlueDart,Packed,5
+496,23415,Ekart,Processing,3
+497,25303,DTDC,Packed,4
+498,21555,BlueDart,Packed,4
+499,21104,DTDC,Processing,1
+500,22421,BlueDart,Shipped,2
+501,23367,BlueDart,Shipped,6
+502,24545,Ekart,Shipped,6
+503,21240,Delhivery,Delivered,7
+504,24205,Delhivery,Delivered,6
+505,24039,Delhivery,Delivered,4
+506,21209,BlueDart,Shipped,7
+507,25827,Delhivery,Delivered,5
+508,25593,DTDC,Shipped,2
+509,21647,Ekart,Packed,2
+510,25900,Ekart,Out for Delivery,2
+511,22996,Delhivery,Shipped,5
+512,21933,BlueDart,Packed,3
+513,21658,Delhivery,Packed,1
+514,20645,Ekart,Delivered,4
+515,23324,Delhivery,Shipped,6
+516,22188,Ekart,Out for Delivery,7
+517,25962,DTDC,Delivered,6
+518,22201,DTDC,Shipped,7
+519,23716,DTDC,Delivered,6
+520,25903,Ekart,Shipped,2
+521,22954,BlueDart,Out for Delivery,3
+522,24623,DTDC,Shipped,4
+523,23168,DTDC,Processing,4
+524,21710,Ekart,Packed,1
+525,21451,Ekart,Shipped,3
+526,20182,Delhivery,Delivered,3
+527,25066,Ekart,Delivered,1
+528,22800,BlueDart,Out for Delivery,5
+529,21169,Ekart,Shipped,5
+530,23124,DTDC,Shipped,7
+531,23660,BlueDart,Processing,7
+532,21963,Delhivery,Out for Delivery,7
+533,22263,BlueDart,Packed,3
+534,25877,Delhivery,Shipped,2
+535,23153,Delhivery,Shipped,1
+536,25470,Ekart,Delivered,5
+537,21601,BlueDart,Packed,4
+538,20954,Ekart,Shipped,3
+539,21749,Delhivery,Out for Delivery,5
+540,23381,BlueDart,Out for Delivery,2
+541,20855,Delhivery,Processing,5
+542,25289,Delhivery,Out for Delivery,5
+543,22919,BlueDart,Packed,1
+544,20651,Ekart,Delivered,4
+545,20757,Ekart,Shipped,2
+546,21714,Ekart,Shipped,6
+547,21444,DTDC,Delivered,7
+548,23774,Ekart,Shipped,7
+549,25573,DTDC,Processing,1
+550,24074,BlueDart,Packed,7
+551,25310,Delhivery,Delivered,4
+552,22798,BlueDart,Packed,4
+553,23792,DTDC,Packed,5
+554,23523,DTDC,Shipped,4
+555,21543,BlueDart,Out for Delivery,1
+556,20914,Ekart,Processing,6
+557,20383,Ekart,Packed,7
+558,23599,Delhivery,Processing,3
+559,22667,Delhivery,Processing,1
+560,21246,DTDC,Packed,6
+561,21049,Delhivery,Shipped,2
+562,22620,DTDC,Packed,1
+563,23486,Delhivery,Delivered,3
+564,21858,Delhivery,Packed,7
+565,23261,Delhivery,Out for Delivery,2
+566,20288,BlueDart,Processing,2
+567,23098,Ekart,Shipped,6
+568,21263,DTDC,Packed,6
+569,20220,BlueDart,Delivered,6
+570,25171,DTDC,Packed,3
+571,21048,Ekart,Delivered,3
+572,25401,BlueDart,Packed,2
+573,21385,BlueDart,Out for Delivery,2
+574,25729,BlueDart,Delivered,5
+575,24981,BlueDart,Processing,3
+576,22979,DTDC,Packed,7
+577,22901,BlueDart,Packed,2
+578,23468,DTDC,Processing,5
+579,22868,Delhivery,Out for Delivery,4
+580,20751,Delhivery,Delivered,4
+581,20374,BlueDart,Out for Delivery,5
+582,24079,Delhivery,Delivered,7
+583,21298,BlueDart,Out for Delivery,1
+584,20809,Delhivery,Out for Delivery,1
+585,21278,DTDC,Processing,3
+586,25283,BlueDart,Delivered,6
+587,24590,BlueDart,Processing,7
+588,24039,DTDC,Shipped,5
+589,22116,DTDC,Out for Delivery,2
+590,22657,DTDC,Shipped,2
+591,21190,BlueDart,Packed,6
+592,21252,BlueDart,Packed,6
+593,24165,Delhivery,Processing,7
+594,24977,Ekart,Shipped,2
+595,22836,BlueDart,Packed,2
+596,22898,DTDC,Processing,4
+597,21500,Ekart,Packed,3
+598,25375,Delhivery,Out for Delivery,2
+599,25206,DTDC,Packed,1
+600,25307,Delhivery,Delivered,1
+601,22225,DTDC,Out for Delivery,3
+602,20857,BlueDart,Processing,4
+603,25481,Ekart,Packed,7
+604,24579,Ekart,Processing,6
+605,24602,Ekart,Packed,1
+606,25407,Delhivery,Packed,7
+607,23157,BlueDart,Out for Delivery,6
+608,20470,Ekart,Out for Delivery,2
+609,24677,DTDC,Shipped,4
+610,20519,Ekart,Shipped,7
+611,23901,Delhivery,Shipped,3
+612,22060,Delhivery,Packed,6
+613,25405,Delhivery,Shipped,1
+614,23508,Ekart,Processing,1
+615,24639,Ekart,Shipped,4
+616,22226,Delhivery,Delivered,6
+617,20749,DTDC,Delivered,2
+618,24841,Ekart,Out for Delivery,5
+619,24069,Ekart,Packed,1
+620,23909,Delhivery,Packed,1
+621,22078,BlueDart,Out for Delivery,2
+622,25462,Delhivery,Processing,5
+623,25342,DTDC,Processing,2
+624,25972,Delhivery,Packed,3
+625,20601,BlueDart,Delivered,2
+626,25870,DTDC,Delivered,4
+627,23791,DTDC,Out for Delivery,1
+628,24640,DTDC,Packed,1
+629,21352,DTDC,Out for Delivery,4
+630,21896,Delhivery,Delivered,7
+631,21519,BlueDart,Out for Delivery,6
+632,23190,Delhivery,Out for Delivery,3
+633,25698,DTDC,Delivered,4
+634,22887,BlueDart,Packed,6
+635,25612,Ekart,Packed,1
+636,24937,Delhivery,Out for Delivery,3
+637,22530,BlueDart,Processing,5
+638,25506,Ekart,Packed,2
+639,21022,BlueDart,Processing,2
+640,20992,Delhivery,Shipped,7
+641,20193,Ekart,Out for Delivery,7
+642,23098,Ekart,Shipped,5
+643,25244,DTDC,Shipped,4
+644,20057,Delhivery,Processing,2
+645,23448,DTDC,Out for Delivery,3
+646,22533,DTDC,Out for Delivery,4
+647,22440,DTDC,Delivered,4
+648,22536,Delhivery,Out for Delivery,7
+649,21650,DTDC,Shipped,4
+650,25658,Delhivery,Shipped,7
+651,22709,Delhivery,Processing,4
+652,22002,Ekart,Shipped,6
+653,21808,DTDC,Packed,1
+654,24824,DTDC,Shipped,5
+655,23495,BlueDart,Out for Delivery,4
+656,20648,Delhivery,Delivered,6
+657,22934,BlueDart,Delivered,6
+658,23115,BlueDart,Shipped,2
+659,20406,Ekart,Delivered,4
+660,25891,Delhivery,Packed,3
+661,22866,Delhivery,Packed,5
+662,21320,DTDC,Out for Delivery,6
+663,21691,DTDC,Shipped,2
+664,20642,Ekart,Delivered,3
+665,24297,Ekart,Delivered,4
+666,22857,Ekart,Out for Delivery,6
+667,23561,BlueDart,Shipped,3
+668,22145,Ekart,Packed,3
+669,25809,Ekart,Processing,7
+670,22502,Delhivery,Out for Delivery,5
+671,24944,BlueDart,Delivered,2
+672,25781,Ekart,Shipped,5
+673,23694,Ekart,Packed,5
+674,22209,DTDC,Shipped,1
+675,24308,BlueDart,Packed,2
+676,20392,Ekart,Delivered,4
+677,21052,DTDC,Packed,5
+678,25481,Ekart,Processing,2
+679,21292,Delhivery,Processing,7
+680,24678,DTDC,Packed,1
+681,25663,BlueDart,Processing,7
+682,23922,Delhivery,Out for Delivery,3
+683,22469,Ekart,Packed,3
+684,25164,DTDC,Shipped,3
+685,23872,BlueDart,Packed,1
+686,22003,Delhivery,Processing,3
+687,22279,DTDC,Shipped,4
+688,20526,BlueDart,Delivered,2
+689,24642,Delhivery,Processing,2
+690,22915,Delhivery,Packed,7
+691,20941,BlueDart,Out for Delivery,3
+692,23224,Ekart,Delivered,6
+693,24874,DTDC,Packed,3
+694,24771,Ekart,Out for Delivery,1
+695,24550,DTDC,Processing,5
+696,24993,BlueDart,Processing,3
+697,25783,Ekart,Delivered,3
+698,21550,Ekart,Shipped,4
+699,23178,BlueDart,Processing,1
+700,21826,Ekart,Processing,2
+701,22430,BlueDart,Packed,7
+702,23338,BlueDart,Packed,1
+703,22038,BlueDart,Shipped,4
+704,22399,BlueDart,Shipped,4
+705,21704,Delhivery,Processing,3
+706,21901,DTDC,Delivered,4
+707,24133,DTDC,Delivered,7
+708,20230,Delhivery,Delivered,7
+709,25335,Ekart,Packed,5
+710,22299,DTDC,Delivered,1
+711,21254,Delhivery,Out for Delivery,4
+712,22344,Delhivery,Out for Delivery,3
+713,21543,Delhivery,Shipped,2
+714,22610,Delhivery,Packed,2
+715,24396,Ekart,Processing,2
+716,21327,Ekart,Out for Delivery,4
+717,22772,BlueDart,Out for Delivery,7
+718,22759,BlueDart,Packed,2
+719,21094,BlueDart,Delivered,7
+720,21916,Delhivery,Packed,1
+721,21102,Ekart,Out for Delivery,5
+722,20884,BlueDart,Packed,1
+723,21882,Delhivery,Packed,2
+724,22078,DTDC,Out for Delivery,4
+725,20555,Delhivery,Out for Delivery,7
+726,23738,Ekart,Processing,4
+727,23497,BlueDart,Out for Delivery,5
+728,24997,Ekart,Shipped,2
+729,20465,BlueDart,Shipped,6
+730,23033,BlueDart,Processing,1
+731,21418,BlueDart,Delivered,5
+732,22117,DTDC,Packed,2
+733,20238,BlueDart,Shipped,6
+734,21080,Delhivery,Packed,5
+735,22425,DTDC,Processing,7
+736,24764,Delhivery,Processing,4
+737,25880,BlueDart,Packed,6
+738,21085,Ekart,Processing,3
+739,20480,DTDC,Out for Delivery,7
+740,22122,DTDC,Processing,7
+741,23902,DTDC,Shipped,7
+742,22134,DTDC,Processing,5
+743,24922,BlueDart,Shipped,1
+744,23165,Ekart,Delivered,2
+745,24398,DTDC,Packed,7
+746,25552,DTDC,Packed,3
+747,24144,Delhivery,Packed,2
+748,22595,Delhivery,Delivered,7
+749,25637,Ekart,Out for Delivery,4
+750,24373,Ekart,Shipped,5
+751,25937,BlueDart,Packed,4
+752,22041,BlueDart,Out for Delivery,5
+753,20626,BlueDart,Processing,2
+754,20693,Delhivery,Processing,1
+755,24350,DTDC,Delivered,1
+756,21931,Ekart,Delivered,4
+757,25032,Delhivery,Processing,4
+758,20406,DTDC,Shipped,6
+759,20296,BlueDart,Delivered,2
+760,22888,Delhivery,Delivered,5
+761,25057,Ekart,Shipped,2
+762,24901,Ekart,Processing,4
+763,20836,BlueDart,Packed,2
+764,24033,DTDC,Shipped,2
+765,21805,DTDC,Packed,2
+766,20176,Ekart,Shipped,2
+767,21183,Delhivery,Out for Delivery,2
+768,23088,Ekart,Shipped,5
+769,25293,DTDC,Packed,2
+770,20013,BlueDart,Packed,3
+771,22412,Ekart,Out for Delivery,7
+772,20152,Ekart,Delivered,7
+773,24249,DTDC,Delivered,5
+774,24753,Ekart,Processing,3
+775,23807,Delhivery,Packed,1
+776,23066,DTDC,Delivered,6
+777,22862,Delhivery,Delivered,7
+778,22566,BlueDart,Out for Delivery,4
+779,22109,BlueDart,Out for Delivery,4
+780,25200,BlueDart,Packed,5
+781,22594,DTDC,Packed,3
+782,21516,DTDC,Out for Delivery,4
+783,22613,BlueDart,Packed,3
+784,24647,BlueDart,Processing,4
+785,20660,DTDC,Shipped,5
+786,20686,BlueDart,Delivered,2
+787,20228,Ekart,Delivered,6
+788,21292,BlueDart,Delivered,3
+789,20959,Delhivery,Shipped,7
+790,23363,BlueDart,Processing,2
+791,24845,Ekart,Shipped,7
+792,25447,DTDC,Packed,4
+793,22002,DTDC,Packed,6
+794,23348,BlueDart,Delivered,6
+795,22431,BlueDart,Processing,4
+796,23089,Delhivery,Shipped,6
+797,22124,Delhivery,Delivered,3
+798,20796,BlueDart,Packed,6
+799,20877,BlueDart,Delivered,7
+800,20332,Delhivery,Shipped,5
+801,24379,BlueDart,Packed,1
+802,25263,Delhivery,Packed,7
+803,21244,Delhivery,Packed,7
+804,20625,Ekart,Shipped,5
+805,25430,Delhivery,Shipped,5
+806,21259,DTDC,Delivered,4
+807,24390,DTDC,Out for Delivery,3
+808,20070,Delhivery,Delivered,1
+809,24349,Ekart,Shipped,5
+810,24402,Delhivery,Out for Delivery,3
+811,22504,BlueDart,Processing,1
+812,23181,BlueDart,Delivered,5
+813,24079,DTDC,Delivered,4
+814,22004,Ekart,Delivered,3
+815,23177,DTDC,Shipped,7
+816,23272,Ekart,Processing,5
+817,23567,BlueDart,Packed,3
+818,25395,BlueDart,Processing,5
+819,21155,DTDC,Packed,2
+820,20616,BlueDart,Packed,1
+821,22504,Delhivery,Processing,3
+822,21337,Ekart,Delivered,2
+823,20924,Ekart,Out for Delivery,5
+824,24656,Delhivery,Processing,4
+825,25039,DTDC,Packed,7
+826,23329,Ekart,Delivered,6
+827,24316,Delhivery,Packed,5
+828,25721,BlueDart,Processing,6
+829,24502,Delhivery,Processing,2
+830,23539,DTDC,Out for Delivery,1
+831,25638,BlueDart,Processing,1
+832,20045,Ekart,Packed,6
+833,21322,Ekart,Packed,5
+834,23245,BlueDart,Processing,1
+835,22636,Delhivery,Shipped,7
+836,21471,Ekart,Packed,5
+837,21925,Delhivery,Shipped,5
+838,25646,BlueDart,Out for Delivery,7
+839,25046,BlueDart,Delivered,7
+840,25010,Delhivery,Processing,4
+841,23262,DTDC,Packed,7
+842,23747,DTDC,Packed,7
+843,21861,BlueDart,Delivered,2
+844,24110,DTDC,Packed,2
+845,23963,DTDC,Processing,5
+846,22755,Delhivery,Delivered,7
+847,23298,BlueDart,Out for Delivery,4
+848,20859,BlueDart,Out for Delivery,5
+849,22497,Delhivery,Processing,1
+850,21556,BlueDart,Delivered,7
+851,21285,BlueDart,Packed,6
+852,24988,BlueDart,Processing,6
+853,24429,BlueDart,Shipped,2
+854,23778,Delhivery,Delivered,4
+855,22666,Delhivery,Out for Delivery,4
+856,24039,DTDC,Processing,6
+857,20356,DTDC,Shipped,7
+858,24768,BlueDart,Processing,6
+859,24410,Delhivery,Shipped,2
+860,20615,BlueDart,Out for Delivery,5
+861,23643,DTDC,Processing,4
+862,24122,Delhivery,Shipped,5
+863,23433,BlueDart,Delivered,6
+864,22449,Ekart,Out for Delivery,2
+865,25535,Delhivery,Packed,6
+866,23202,DTDC,Shipped,6
+867,23271,DTDC,Packed,5
+868,22900,Delhivery,Packed,3
+869,23672,BlueDart,Shipped,5
+870,24156,BlueDart,Shipped,3
+871,21832,Ekart,Out for Delivery,6
+872,25214,Delhivery,Out for Delivery,6
+873,22441,BlueDart,Delivered,7
+874,24980,Delhivery,Out for Delivery,3
+875,25140,DTDC,Packed,7
+876,25058,DTDC,Out for Delivery,5
+877,22495,Delhivery,Out for Delivery,5
+878,25069,DTDC,Out for Delivery,1
+879,24608,Delhivery,Delivered,7
+880,24877,DTDC,Shipped,6
+881,25569,DTDC,Shipped,5
+882,22884,Ekart,Out for Delivery,3
+883,20617,BlueDart,Delivered,7
+884,24130,Ekart,Processing,4
+885,23786,BlueDart,Shipped,7
+886,23755,Ekart,Packed,4
+887,24764,Delhivery,Out for Delivery,3
+888,24787,Delhivery,Shipped,3
+889,22589,Delhivery,Delivered,2
+890,25431,DTDC,Processing,3
+891,21401,Delhivery,Processing,2
+892,23265,BlueDart,Out for Delivery,1
+893,23250,DTDC,Shipped,5
+894,24931,Delhivery,Processing,7
+895,24460,BlueDart,Shipped,5
+896,22070,Ekart,Delivered,1
+897,21815,Delhivery,Delivered,5
+898,24696,BlueDart,Processing,3
+899,23953,Ekart,Delivered,5
+900,21942,DTDC,Shipped,7
+901,20869,Ekart,Out for Delivery,7
+902,21938,Delhivery,Packed,4
+903,23036,Delhivery,Processing,1
+904,21744,Delhivery,Shipped,6
+905,23198,DTDC,Processing,5
+906,24887,Ekart,Packed,1
+907,22929,DTDC,Shipped,1
+908,24571,Ekart,Delivered,2
+909,23591,Ekart,Out for Delivery,4
+910,24666,Delhivery,Delivered,7
+911,23931,Delhivery,Processing,5
+912,23868,BlueDart,Out for Delivery,6
+913,20287,Delhivery,Processing,6
+914,21672,DTDC,Shipped,6
+915,21007,Delhivery,Packed,3
+916,22422,Ekart,Shipped,2
+917,24928,Delhivery,Out for Delivery,4
+918,22247,Ekart,Out for Delivery,5
+919,23284,Ekart,Packed,3
+920,20317,DTDC,Packed,7
+921,21033,Delhivery,Shipped,3
+922,25008,DTDC,Out for Delivery,2
+923,22584,DTDC,Packed,2
+924,21482,Delhivery,Delivered,1
+925,22718,BlueDart,Packed,6
+926,25305,Ekart,Out for Delivery,7
+927,20241,Ekart,Out for Delivery,3
+928,23936,DTDC,Shipped,5
+929,22364,Ekart,Shipped,5
+930,21826,DTDC,Shipped,2
+931,20790,BlueDart,Delivered,2
+932,22561,Delhivery,Out for Delivery,7
+933,20671,BlueDart,Shipped,3
+934,25970,Ekart,Packed,1
+935,21362,Delhivery,Processing,6
+936,22041,DTDC,Packed,6
+937,21515,Delhivery,Processing,6
+938,23870,BlueDart,Packed,6
+939,23796,DTDC,Packed,4
+940,22218,BlueDart,Delivered,3
+941,24553,Ekart,Shipped,5
+942,22661,BlueDart,Packed,5
+943,25478,Ekart,Packed,6
+944,22837,BlueDart,Shipped,1
+945,23327,Delhivery,Delivered,3
+946,24008,Ekart,Delivered,1
+947,23676,Delhivery,Processing,3
+948,20428,Delhivery,Shipped,3
+949,24910,Delhivery,Shipped,4
+950,23721,Ekart,Shipped,4
+951,21887,Ekart,Packed,3
+952,21157,Ekart,Out for Delivery,7
+953,24333,Ekart,Processing,7
+954,23779,Delhivery,Shipped,5
+955,22460,DTDC,Packed,3
+956,22371,BlueDart,Processing,3
+957,21896,DTDC,Delivered,5
+958,20249,BlueDart,Packed,1
+959,24341,BlueDart,Out for Delivery,1
+960,20563,BlueDart,Packed,7
+961,25279,BlueDart,Out for Delivery,1
+962,24203,DTDC,Delivered,5
+963,21435,Delhivery,Shipped,7
+964,21427,DTDC,Delivered,4
+965,21609,Delhivery,Shipped,7
+966,24546,DTDC,Packed,3
+967,25606,Delhivery,Shipped,2
+968,21002,DTDC,Shipped,4
+969,22677,BlueDart,Shipped,6
+970,21855,DTDC,Delivered,1
+971,20832,Delhivery,Shipped,4
+972,25617,DTDC,Packed,3
+973,22288,DTDC,Out for Delivery,1
+974,23926,DTDC,Out for Delivery,2
+975,24854,DTDC,Delivered,1
+976,22543,BlueDart,Packed,7
+977,23245,BlueDart,Delivered,5
+978,24716,Ekart,Out for Delivery,6
+979,23523,Ekart,Shipped,1
+980,24994,Delhivery,Processing,1
+981,20396,Ekart,Out for Delivery,2
+982,24731,Delhivery,Delivered,2
+983,25602,Ekart,Packed,1
+984,25770,Delhivery,Delivered,5
+985,23356,Ekart,Shipped,2
+986,25330,Ekart,Out for Delivery,3
+987,24216,Ekart,Delivered,7
+988,25489,DTDC,Delivered,3
+989,23589,BlueDart,Delivered,3
+990,24017,Ekart,Delivered,3
+991,24260,BlueDart,Delivered,6
+992,20911,Delhivery,Packed,2
+993,20586,DTDC,Delivered,4
+994,25990,Delhivery,Packed,3
+995,24333,BlueDart,Delivered,7
+996,23702,Delhivery,Out for Delivery,1
+997,22689,Ekart,Shipped,3
+998,20811,Ekart,Packed,4
+999,24067,BlueDart,Delivered,4
+1000,24288,Delhivery,Processing,2
+1001,25949,BlueDart,Processing,2
+1002,24327,Ekart,Out for Delivery,7
+1003,24394,Delhivery,Processing,5
+1004,22014,DTDC,Delivered,1
+1005,22254,Ekart,Delivered,1
+1006,20186,BlueDart,Processing,4
+1007,23834,Delhivery,Shipped,3
+1008,21211,DTDC,Out for Delivery,5
+1009,21702,BlueDart,Shipped,1
+1010,25145,Ekart,Delivered,5
+1011,20170,DTDC,Processing,7
+1012,25480,Ekart,Packed,2
+1013,25516,DTDC,Processing,6
+1014,20996,Delhivery,Delivered,2
+1015,24789,Delhivery,Processing,2
+1016,24364,BlueDart,Delivered,4
+1017,22519,BlueDart,Shipped,3
+1018,20994,BlueDart,Out for Delivery,1
+1019,24702,Delhivery,Delivered,3
+1020,24383,Delhivery,Delivered,6
+1021,21008,Delhivery,Shipped,3
+1022,20500,BlueDart,Shipped,2
+1023,25855,DTDC,Packed,4
+1024,20571,Ekart,Delivered,4
+1025,21685,DTDC,Out for Delivery,2
+1026,23604,Delhivery,Packed,6
+1027,22857,DTDC,Delivered,2
+1028,21713,Ekart,Packed,7
+1029,25069,Delhivery,Processing,6
+1030,22736,Ekart,Out for Delivery,1
+1031,23005,Ekart,Out for Delivery,6
+1032,22018,Delhivery,Shipped,7
+1033,23161,DTDC,Packed,5
+1034,23993,BlueDart,Shipped,3
+1035,20948,Delhivery,Out for Delivery,3
+1036,22017,DTDC,Delivered,1
+1037,25407,BlueDart,Delivered,2
+1038,23863,DTDC,Packed,4
+1039,20231,BlueDart,Delivered,5
+1040,23456,DTDC,Out for Delivery,1
+1041,22811,BlueDart,Shipped,2
+1042,24270,Delhivery,Out for Delivery,7
+1043,22089,Ekart,Processing,7
+1044,25774,DTDC,Processing,1
+1045,20859,DTDC,Shipped,6
+1046,21678,Ekart,Delivered,7
+1047,25201,Ekart,Out for Delivery,7
+1048,22176,Delhivery,Shipped,1
+1049,20307,BlueDart,Delivered,5
+1050,20011,BlueDart,Out for Delivery,2
+1051,20068,Ekart,Packed,4
+1052,23439,BlueDart,Out for Delivery,2
+1053,24171,Delhivery,Shipped,6
+1054,22124,Ekart,Out for Delivery,1
+1055,24333,BlueDart,Delivered,3
+1056,21732,Delhivery,Delivered,4
+1057,24712,Delhivery,Out for Delivery,4
+1058,23295,Ekart,Delivered,6
+1059,25670,Delhivery,Delivered,2
+1060,21419,Ekart,Delivered,5
+1061,23722,Ekart,Shipped,7
+1062,22873,Delhivery,Packed,7
+1063,22693,DTDC,Packed,7
+1064,24022,Delhivery,Out for Delivery,3
+1065,21611,Delhivery,Out for Delivery,7
+1066,24529,Delhivery,Processing,7
+1067,23144,Ekart,Processing,2
+1068,22500,BlueDart,Delivered,5
+1069,24283,Delhivery,Delivered,4
+1070,21684,DTDC,Out for Delivery,6
+1071,22943,BlueDart,Packed,2
+1072,23316,Ekart,Out for Delivery,4
+1073,20115,Ekart,Processing,2
+1074,25878,Delhivery,Delivered,1
+1075,25102,Delhivery,Shipped,2
+1076,24200,DTDC,Processing,2
+1077,24465,BlueDart,Out for Delivery,2
+1078,22857,Ekart,Packed,1
+1079,22147,Delhivery,Packed,7
+1080,21906,Delhivery,Delivered,1
+1081,25933,Ekart,Out for Delivery,4
+1082,21098,Delhivery,Shipped,7
+1083,22290,Delhivery,Processing,1
+1084,25795,DTDC,Delivered,7
+1085,25769,Ekart,Processing,5
+1086,21763,BlueDart,Shipped,3
+1087,21968,Delhivery,Processing,5
+1088,23955,Ekart,Processing,6
+1089,21184,BlueDart,Shipped,5
+1090,23815,Delhivery,Delivered,6
+1091,24572,DTDC,Packed,6
+1092,23194,Ekart,Delivered,4
+1093,21677,BlueDart,Packed,3
+1094,20641,DTDC,Shipped,7
+1095,21181,BlueDart,Shipped,1
+1096,22172,BlueDart,Packed,4
+1097,20817,Delhivery,Delivered,7
+1098,25095,Delhivery,Processing,2
+1099,22503,DTDC,Delivered,4
+1100,20813,DTDC,Packed,1
+1101,23891,Delhivery,Packed,5
+1102,23272,DTDC,Packed,1
+1103,21241,Delhivery,Processing,5
+1104,22747,BlueDart,Out for Delivery,7
+1105,23393,BlueDart,Processing,5
+1106,22953,BlueDart,Out for Delivery,5
+1107,24780,Delhivery,Processing,3
+1108,23809,DTDC,Delivered,3
+1109,20246,Delhivery,Processing,4
+1110,21994,BlueDart,Shipped,7
+1111,24613,Delhivery,Processing,7
+1112,23780,BlueDart,Delivered,4
+1113,20733,BlueDart,Processing,6
+1114,23699,BlueDart,Packed,1
+1115,20895,BlueDart,Delivered,7
+1116,23119,Delhivery,Delivered,4
+1117,20620,DTDC,Out for Delivery,2
+1118,21521,Delhivery,Processing,7
+1119,22080,Ekart,Shipped,6
+1120,23339,Delhivery,Out for Delivery,1
+1121,24666,BlueDart,Delivered,7
+1122,20561,DTDC,Processing,4
+1123,22104,Ekart,Packed,4
+1124,20441,BlueDart,Packed,7
+1125,22471,Ekart,Packed,2
+1126,22954,BlueDart,Processing,6
+1127,23255,Delhivery,Packed,3
+1128,21484,BlueDart,Delivered,3
+1129,20675,BlueDart,Processing,5
+1130,22225,Ekart,Out for Delivery,7
+1131,23887,BlueDart,Out for Delivery,5
+1132,20186,BlueDart,Packed,4
+1133,25256,Ekart,Shipped,1
+1134,21841,BlueDart,Out for Delivery,4
+1135,20647,DTDC,Delivered,7
+1136,22459,Delhivery,Packed,3
+1137,22826,Ekart,Delivered,5
+1138,22874,Delhivery,Out for Delivery,1
+1139,21077,Delhivery,Processing,5
+1140,25468,Delhivery,Shipped,5
+1141,24764,Delhivery,Packed,7
+1142,23522,DTDC,Shipped,6
+1143,24970,DTDC,Shipped,4
+1144,24555,DTDC,Delivered,6
+1145,23452,BlueDart,Packed,4
+1146,23108,Delhivery,Processing,5
+1147,24306,Ekart,Shipped,4
+1148,22121,Delhivery,Delivered,6
+1149,21891,DTDC,Delivered,1
+1150,24625,Delhivery,Delivered,1
+1151,24020,Ekart,Delivered,7
+1152,24647,BlueDart,Processing,4
+1153,22464,Delhivery,Processing,4
+1154,24680,BlueDart,Out for Delivery,5
+1155,25984,BlueDart,Packed,7
+1156,22671,BlueDart,Shipped,5
+1157,22204,DTDC,Shipped,4
+1158,20321,BlueDart,Processing,2
+1159,24703,DTDC,Shipped,3
+1160,23537,BlueDart,Packed,6
+1161,20080,BlueDart,Processing,2
+1162,21633,DTDC,Packed,7
+1163,20120,Ekart,Shipped,1
+1164,21706,BlueDart,Processing,1
+1165,20169,Delhivery,Delivered,5
+1166,23088,BlueDart,Shipped,6
+1167,25852,DTDC,Out for Delivery,2
+1168,24864,Delhivery,Delivered,1
+1169,20028,Delhivery,Processing,3
+1170,20976,DTDC,Processing,1
+1171,24749,Delhivery,Out for Delivery,5
+1172,25143,BlueDart,Packed,2
+1173,25616,DTDC,Packed,4
+1174,24768,DTDC,Delivered,1
+1175,23181,Delhivery,Delivered,7
+1176,22760,Ekart,Delivered,7
+1177,20674,DTDC,Out for Delivery,3
+1178,23183,BlueDart,Processing,1
+1179,20189,Ekart,Packed,2
+1180,23560,Delhivery,Processing,6
+1181,22002,DTDC,Processing,1
+1182,24288,Delhivery,Shipped,1
+1183,25425,Ekart,Shipped,3
+1184,24107,BlueDart,Delivered,7
+1185,22532,BlueDart,Processing,2
+1186,25210,Ekart,Processing,1
+1187,22974,BlueDart,Shipped,7
+1188,21960,Ekart,Out for Delivery,4
+1189,20246,DTDC,Shipped,4
+1190,24709,Ekart,Shipped,5
+1191,25768,Ekart,Out for Delivery,4
+1192,23618,BlueDart,Processing,1
+1193,20480,BlueDart,Shipped,6
+1194,25907,Delhivery,Packed,6
+1195,24417,Delhivery,Delivered,2
+1196,21129,BlueDart,Delivered,4
+1197,24887,Ekart,Processing,2
+1198,23204,BlueDart,Processing,5
+1199,22840,Delhivery,Out for Delivery,3
+1200,25643,Ekart,Packed,4
+1201,21863,Ekart,Packed,4
+1202,22553,BlueDart,Packed,3
+1203,23723,Delhivery,Processing,3
+1204,20715,BlueDart,Delivered,1
+1205,24588,BlueDart,Delivered,6
+1206,22720,Delhivery,Delivered,1
+1207,25625,DTDC,Processing,6
+1208,21448,Ekart,Shipped,5
+1209,20147,Ekart,Out for Delivery,1
+1210,20260,Delhivery,Out for Delivery,5
+1211,21417,BlueDart,Processing,3
+1212,23494,DTDC,Processing,1
+1213,20699,BlueDart,Delivered,2
+1214,24280,BlueDart,Out for Delivery,1
+1215,20243,Delhivery,Packed,2
+1216,21042,DTDC,Processing,3
+1217,20734,BlueDart,Processing,6
+1218,22167,Ekart,Processing,4
+1219,23518,DTDC,Shipped,2
+1220,25985,Ekart,Shipped,4
+1221,25943,Delhivery,Shipped,6
+1222,21456,BlueDart,Out for Delivery,4
+1223,21793,Ekart,Out for Delivery,7
+1224,20207,Delhivery,Delivered,1
+1225,22728,BlueDart,Processing,3
+1226,24090,BlueDart,Shipped,4
+1227,21220,Ekart,Packed,3
+1228,24574,DTDC,Processing,4
+1229,23358,BlueDart,Packed,3
+1230,20832,BlueDart,Out for Delivery,6
+1231,21502,DTDC,Out for Delivery,1
+1232,24173,DTDC,Out for Delivery,6
+1233,23174,Ekart,Out for Delivery,2
+1234,21066,Ekart,Processing,5
+1235,23621,DTDC,Delivered,4
+1236,24184,Ekart,Delivered,3
+1237,23878,DTDC,Processing,6
+1238,21308,Delhivery,Packed,3
+1239,20124,Delhivery,Out for Delivery,1
+1240,24181,Ekart,Delivered,5
+1241,23960,Ekart,Packed,2
+1242,21928,Ekart,Shipped,7
+1243,21717,Ekart,Processing,3
+1244,25948,DTDC,Out for Delivery,5
+1245,21249,Delhivery,Packed,1
+1246,22755,DTDC,Shipped,5
+1247,22919,BlueDart,Shipped,3
+1248,24710,BlueDart,Processing,4
+1249,25407,Ekart,Shipped,6
+1250,20721,Delhivery,Processing,6
+1251,25819,DTDC,Packed,5
+1252,24510,Delhivery,Delivered,2
+1253,23798,BlueDart,Processing,7
+1254,25478,DTDC,Packed,3
+1255,21847,Ekart,Delivered,7
+1256,22356,BlueDart,Processing,5
+1257,24234,Ekart,Delivered,7
+1258,23439,Delhivery,Out for Delivery,4
+1259,22128,Delhivery,Shipped,7
+1260,20806,Delhivery,Processing,2
+1261,20747,BlueDart,Shipped,3
+1262,21607,Ekart,Processing,7
+1263,25950,BlueDart,Packed,7
+1264,20241,Delhivery,Out for Delivery,1
+1265,22548,DTDC,Processing,7
+1266,21964,DTDC,Packed,1
+1267,25846,DTDC,Processing,1
+1268,21660,BlueDart,Processing,6
+1269,21652,Delhivery,Delivered,4
+1270,24512,Delhivery,Processing,1
+1271,22262,Delhivery,Processing,2
+1272,22440,DTDC,Processing,2
+1273,20877,DTDC,Processing,5
+1274,23823,DTDC,Processing,7
+1275,20860,DTDC,Packed,7
+1276,22907,Delhivery,Delivered,3
+1277,20808,Ekart,Out for Delivery,7
+1278,24292,Ekart,Shipped,1
+1279,25151,Delhivery,Processing,2
+1280,23585,Ekart,Packed,3
+1281,24343,BlueDart,Processing,1
+1282,23872,BlueDart,Delivered,5
+1283,25538,DTDC,Delivered,6
+1284,20029,DTDC,Packed,7
+1285,23834,Delhivery,Packed,4
+1286,20918,DTDC,Processing,4
+1287,20226,Delhivery,Delivered,4
+1288,21267,BlueDart,Packed,6
+1289,24881,DTDC,Shipped,4
+1290,24018,Delhivery,Delivered,2
+1291,23975,Ekart,Packed,1
+1292,23666,DTDC,Delivered,7
+1293,20869,Delhivery,Packed,7
+1294,22350,Delhivery,Delivered,3
+1295,22883,DTDC,Delivered,1
+1296,20121,BlueDart,Shipped,6
+1297,22402,BlueDart,Packed,2
+1298,23238,BlueDart,Packed,7
+1299,20996,DTDC,Delivered,1
+1300,23150,DTDC,Delivered,3
+1301,23735,Ekart,Out for Delivery,6
+1302,23868,Delhivery,Out for Delivery,7
+1303,23625,Ekart,Processing,4
+1304,25077,Delhivery,Packed,5
+1305,22988,BlueDart,Processing,3
+1306,20450,Delhivery,Out for Delivery,3
+1307,21190,DTDC,Processing,1
+1308,23935,Delhivery,Packed,2
+1309,22982,Delhivery,Delivered,7
+1310,22114,BlueDart,Shipped,7
+1311,21736,Delhivery,Delivered,5
+1312,21820,BlueDart,Shipped,5
+1313,22399,Delhivery,Packed,1
+1314,20084,Ekart,Processing,6
+1315,23483,Delhivery,Processing,3
+1316,21873,Delhivery,Packed,1
+1317,23018,Delhivery,Out for Delivery,4
+1318,25896,Ekart,Delivered,4
+1319,25721,Ekart,Out for Delivery,6
+1320,22008,BlueDart,Delivered,7
+1321,22704,BlueDart,Shipped,5
+1322,20744,Delhivery,Processing,3
+1323,20140,Delhivery,Shipped,4
+1324,23446,Ekart,Packed,4
+1325,24142,DTDC,Processing,3
+1326,23871,BlueDart,Delivered,3
+1327,22630,Delhivery,Packed,5
+1328,20626,DTDC,Out for Delivery,3
+1329,20807,BlueDart,Packed,5
+1330,23049,DTDC,Delivered,1
+1331,22797,Ekart,Shipped,2
+1332,23084,Delhivery,Delivered,4
+1333,21318,BlueDart,Out for Delivery,1
+1334,21258,Ekart,Shipped,4
+1335,23030,Ekart,Out for Delivery,7
+1336,23790,DTDC,Packed,1
+1337,22934,Delhivery,Out for Delivery,1
+1338,20224,DTDC,Packed,1
+1339,24097,DTDC,Processing,3
+1340,23148,Ekart,Out for Delivery,5
+1341,25253,BlueDart,Out for Delivery,6
+1342,25921,Delhivery,Packed,1
+1343,23987,Ekart,Shipped,2
+1344,24343,Delhivery,Packed,4
+1345,22429,Delhivery,Shipped,5
+1346,22657,DTDC,Packed,4
+1347,20409,BlueDart,Delivered,2
+1348,22723,Ekart,Out for Delivery,6
+1349,24327,DTDC,Packed,4
+1350,21524,Ekart,Processing,4
+1351,23413,DTDC,Shipped,2
+1352,20085,DTDC,Out for Delivery,6
+1353,21695,BlueDart,Out for Delivery,1
+1354,25787,BlueDart,Shipped,2
+1355,25953,DTDC,Out for Delivery,4
+1356,25666,BlueDart,Shipped,5
+1357,21028,BlueDart,Delivered,4
+1358,25915,DTDC,Delivered,1
+1359,23330,Delhivery,Shipped,5
+1360,24288,DTDC,Delivered,6
+1361,21915,BlueDart,Processing,6
+1362,22742,Ekart,Packed,3
+1363,20050,Ekart,Processing,6
+1364,24300,BlueDart,Out for Delivery,2
+1365,24733,DTDC,Processing,3
+1366,24884,DTDC,Out for Delivery,3
+1367,20073,Ekart,Packed,6
+1368,25376,Ekart,Out for Delivery,4
+1369,20474,DTDC,Delivered,5
+1370,23796,DTDC,Shipped,3
+1371,22087,BlueDart,Out for Delivery,7
+1372,20631,Delhivery,Packed,7
+1373,24317,Ekart,Packed,7
+1374,21483,DTDC,Packed,7
+1375,23297,BlueDart,Out for Delivery,6
+1376,21690,BlueDart,Processing,6
+1377,21443,BlueDart,Packed,4
+1378,20847,Delhivery,Processing,7
+1379,23808,Ekart,Out for Delivery,4
+1380,24971,Delhivery,Out for Delivery,1
+1381,23465,BlueDart,Processing,7
+1382,22413,BlueDart,Delivered,5
+1383,23048,Delhivery,Shipped,3
+1384,24526,DTDC,Delivered,5
+1385,21907,Delhivery,Shipped,2
+1386,20849,DTDC,Delivered,1
+1387,21699,BlueDart,Packed,1
+1388,21477,DTDC,Delivered,7
+1389,24503,Delhivery,Processing,3
+1390,21511,DTDC,Shipped,4
+1391,20635,Delhivery,Out for Delivery,5
+1392,20208,Delhivery,Out for Delivery,4
+1393,20159,BlueDart,Processing,4
+1394,21590,DTDC,Processing,3
+1395,25614,Delhivery,Processing,3
+1396,24779,BlueDart,Packed,2
+1397,23386,DTDC,Packed,3
+1398,22291,DTDC,Delivered,2
+1399,20927,DTDC,Packed,5
+1400,22283,DTDC,Out for Delivery,2
+1401,24549,Delhivery,Delivered,2
+1402,24611,Delhivery,Out for Delivery,7
+1403,22664,Ekart,Processing,2
+1404,22866,Ekart,Processing,6
+1405,24945,BlueDart,Delivered,2
+1406,21043,DTDC,Packed,7
+1407,24041,BlueDart,Delivered,7
+1408,20713,BlueDart,Delivered,1
+1409,23176,BlueDart,Shipped,6
+1410,20392,Ekart,Delivered,7
+1411,23517,Delhivery,Packed,7
+1412,23527,DTDC,Out for Delivery,4
+1413,25292,Ekart,Packed,4
+1414,21362,Ekart,Shipped,2
+1415,24818,DTDC,Shipped,5
+1416,25134,Ekart,Processing,4
+1417,25922,Delhivery,Delivered,7
+1418,24474,DTDC,Shipped,7
+1419,20023,DTDC,Out for Delivery,3
+1420,23382,Delhivery,Packed,1
+1421,24470,Delhivery,Processing,5
+1422,21408,Delhivery,Packed,2
+1423,20637,Ekart,Shipped,7
+1424,21952,Delhivery,Shipped,3
+1425,24442,Delhivery,Delivered,2
+1426,21421,BlueDart,Shipped,2
+1427,22026,BlueDart,Packed,1
+1428,21375,BlueDart,Shipped,1
+1429,20334,BlueDart,Shipped,6
+1430,22715,Ekart,Processing,1
+1431,25065,BlueDart,Shipped,3
+1432,22692,Delhivery,Packed,7
+1433,23317,Ekart,Packed,5
+1434,21587,BlueDart,Packed,2
+1435,22413,BlueDart,Out for Delivery,2
+1436,24851,DTDC,Packed,1
+1437,24403,Delhivery,Shipped,5
+1438,24411,BlueDart,Processing,2
+1439,22208,Ekart,Processing,2
+1440,24750,Delhivery,Out for Delivery,7
+1441,22731,DTDC,Shipped,7
+1442,25012,BlueDart,Processing,1
+1443,21169,BlueDart,Out for Delivery,4
+1444,21623,Delhivery,Out for Delivery,4
+1445,22532,Ekart,Shipped,2
+1446,20538,Delhivery,Out for Delivery,2
+1447,24877,Ekart,Processing,5
+1448,21665,DTDC,Shipped,5
+1449,20802,BlueDart,Packed,4
+1450,23657,Delhivery,Packed,1
+1451,23946,Ekart,Packed,6
+1452,23284,BlueDart,Out for Delivery,7
+1453,22246,DTDC,Shipped,2
+1454,25471,DTDC,Shipped,4
+1455,20843,BlueDart,Processing,5
+1456,23488,Delhivery,Out for Delivery,7
+1457,21873,Delhivery,Processing,5
+1458,24859,BlueDart,Delivered,3
+1459,22584,BlueDart,Shipped,1
+1460,21566,BlueDart,Processing,1
+1461,22899,BlueDart,Shipped,3
+1462,20082,Ekart,Processing,3
+1463,21720,BlueDart,Processing,5
+1464,25242,Delhivery,Shipped,2
+1465,25458,Delhivery,Delivered,7
+1466,23618,DTDC,Delivered,4
+1467,25225,BlueDart,Shipped,4
+1468,24960,BlueDart,Shipped,6
+1469,22059,BlueDart,Packed,1
+1470,24111,BlueDart,Shipped,6
+1471,25533,Ekart,Delivered,7
+1472,20897,BlueDart,Processing,3
+1473,24447,DTDC,Out for Delivery,1
+1474,23535,DTDC,Out for Delivery,7
+1475,24707,BlueDart,Packed,2
+1476,21394,DTDC,Shipped,1
+1477,22933,Delhivery,Packed,3
+1478,23828,Ekart,Out for Delivery,3
+1479,20470,Ekart,Delivered,7
+1480,22944,BlueDart,Delivered,2
+1481,22627,DTDC,Out for Delivery,2
+1482,23314,BlueDart,Processing,6
+1483,24161,Ekart,Out for Delivery,4
+1484,21027,BlueDart,Shipped,3
+1485,21776,Ekart,Shipped,1
+1486,24798,DTDC,Packed,5
+1487,21303,BlueDart,Packed,7
+1488,22871,Delhivery,Processing,5
+1489,21503,Ekart,Out for Delivery,2
+1490,22457,DTDC,Packed,5
+1491,23369,BlueDart,Delivered,7
+1492,22064,BlueDart,Processing,1
+1493,21389,BlueDart,Packed,3
+1494,20715,Ekart,Delivered,5
+1495,21434,Delhivery,Processing,5
+1496,25753,DTDC,Out for Delivery,2
+1497,25683,DTDC,Processing,2
+1498,23358,DTDC,Processing,3
+1499,22808,Delhivery,Delivered,3
+1500,23526,BlueDart,Packed,1
+1501,23910,Ekart,Processing,1
+1502,25876,BlueDart,Delivered,1
+1503,20409,Delhivery,Delivered,2
+1504,22013,Ekart,Packed,5
+1505,25073,BlueDart,Packed,2
+1506,22441,DTDC,Processing,1
+1507,24849,BlueDart,Out for Delivery,7
+1508,20048,Delhivery,Out for Delivery,1
+1509,24333,BlueDart,Out for Delivery,4
+1510,25400,Delhivery,Shipped,4
+1511,22302,DTDC,Processing,6
+1512,23425,Delhivery,Out for Delivery,4
+1513,21064,DTDC,Shipped,2
+1514,25806,Ekart,Processing,1
+1515,24690,Ekart,Packed,4
+1516,21422,BlueDart,Shipped,4
+1517,20739,DTDC,Out for Delivery,6
+1518,21202,BlueDart,Processing,2
+1519,21624,DTDC,Processing,1
+1520,25267,Ekart,Shipped,6
+1521,20764,DTDC,Shipped,2
+1522,21639,Delhivery,Out for Delivery,3
+1523,22262,Ekart,Processing,6
+1524,21611,DTDC,Packed,4
+1525,23850,DTDC,Delivered,3
+1526,23905,DTDC,Processing,4
+1527,25674,BlueDart,Shipped,5
+1528,22395,BlueDart,Delivered,1
+1529,22273,DTDC,Processing,4
+1530,22686,Ekart,Processing,5
+1531,24510,DTDC,Processing,1
+1532,24051,BlueDart,Packed,3
+1533,25713,BlueDart,Processing,2
+1534,22352,BlueDart,Out for Delivery,3
+1535,22185,Ekart,Processing,7
+1536,24065,BlueDart,Packed,3
+1537,22830,DTDC,Shipped,7
+1538,21609,DTDC,Delivered,3
+1539,23676,Delhivery,Packed,3
+1540,22404,Ekart,Packed,4
+1541,21121,DTDC,Delivered,5
+1542,20340,Ekart,Out for Delivery,2
+1543,21621,DTDC,Shipped,1
+1544,25349,Delhivery,Processing,5
+1545,22777,BlueDart,Delivered,7
+1546,22763,Ekart,Out for Delivery,6
+1547,22195,BlueDart,Processing,4
+1548,25949,Ekart,Packed,3
+1549,24834,Delhivery,Processing,5
+1550,21806,DTDC,Delivered,1
+1551,22146,DTDC,Processing,3
+1552,24004,DTDC,Processing,3
+1553,21820,DTDC,Delivered,5
+1554,22146,Ekart,Packed,4
+1555,20420,DTDC,Out for Delivery,1
+1556,24442,DTDC,Shipped,4
+1557,22101,DTDC,Out for Delivery,2
+1558,25566,DTDC,Packed,4
+1559,24534,Delhivery,Shipped,6
+1560,22433,Delhivery,Delivered,3
+1561,24240,Delhivery,Processing,2
+1562,23710,DTDC,Packed,5
+1563,20902,Delhivery,Delivered,3
+1564,22741,Delhivery,Out for Delivery,6
+1565,24605,DTDC,Processing,3
+1566,21935,Ekart,Out for Delivery,7
+1567,23510,Delhivery,Shipped,1
+1568,21867,BlueDart,Out for Delivery,3
+1569,23481,BlueDart,Packed,1
+1570,23247,DTDC,Out for Delivery,6
+1571,21729,Delhivery,Out for Delivery,4
+1572,25742,Delhivery,Delivered,2
+1573,21500,BlueDart,Out for Delivery,4
+1574,23895,Ekart,Processing,5
+1575,20133,DTDC,Delivered,6
+1576,24154,DTDC,Shipped,2
+1577,24116,Ekart,Delivered,7
+1578,20383,DTDC,Out for Delivery,7
+1579,21682,DTDC,Packed,3
+1580,25569,BlueDart,Delivered,6
+1581,25062,DTDC,Out for Delivery,1
+1582,22580,Ekart,Processing,7
+1583,25495,Ekart,Delivered,2
+1584,21139,Delhivery,Out for Delivery,1
+1585,22150,DTDC,Processing,5
+1586,23289,DTDC,Processing,4
+1587,23202,BlueDart,Packed,7
+1588,20502,Delhivery,Out for Delivery,7
+1589,21335,Delhivery,Out for Delivery,2
+1590,24754,BlueDart,Delivered,7
+1591,25044,Delhivery,Delivered,7
+1592,24396,BlueDart,Out for Delivery,1
+1593,24603,BlueDart,Out for Delivery,6
+1594,22645,BlueDart,Packed,4
+1595,20741,DTDC,Processing,5
+1596,23465,Ekart,Delivered,3
+1597,21406,DTDC,Delivered,3
+1598,21293,Delhivery,Packed,6
+1599,25698,BlueDart,Processing,6
+1600,21945,Ekart,Shipped,6
+1601,25241,Delhivery,Processing,3
+1602,22940,DTDC,Out for Delivery,1
+1603,23117,BlueDart,Processing,5
+1604,22786,DTDC,Packed,1
+1605,23014,Ekart,Delivered,5
+1606,21331,Ekart,Packed,5
+1607,24200,Ekart,Packed,7
+1608,20445,BlueDart,Processing,4
+1609,25937,Delhivery,Out for Delivery,4
+1610,24113,Delhivery,Out for Delivery,6
+1611,23088,Ekart,Packed,6
+1612,20934,Ekart,Delivered,5
+1613,20425,Delhivery,Out for Delivery,6
+1614,22070,BlueDart,Delivered,1
+1615,22692,Delhivery,Packed,4
+1616,20380,Delhivery,Out for Delivery,1
+1617,24908,BlueDart,Out for Delivery,6
+1618,22445,Delhivery,Out for Delivery,1
+1619,21668,Delhivery,Delivered,6
+1620,24419,Delhivery,Delivered,6
+1621,20538,DTDC,Packed,4
+1622,21231,BlueDart,Delivered,4
+1623,24508,BlueDart,Shipped,7
+1624,22451,Ekart,Processing,6
+1625,20158,DTDC,Packed,5
+1626,24159,Ekart,Delivered,2
+1627,25256,DTDC,Shipped,1
+1628,20617,DTDC,Delivered,1
+1629,23466,Delhivery,Delivered,4
+1630,20903,BlueDart,Out for Delivery,4
+1631,23211,BlueDart,Processing,5
+1632,20272,BlueDart,Processing,2
+1633,25120,Delhivery,Out for Delivery,1
+1634,25207,BlueDart,Out for Delivery,2
+1635,25510,Ekart,Shipped,3
+1636,21789,Ekart,Delivered,4
+1637,25163,BlueDart,Shipped,3
+1638,24276,DTDC,Processing,1
+1639,21464,Delhivery,Shipped,7
+1640,25423,BlueDart,Shipped,2
+1641,25388,Ekart,Packed,4
+1642,24888,Delhivery,Delivered,1
+1643,21280,BlueDart,Out for Delivery,3
+1644,22037,Delhivery,Packed,5
+1645,22182,DTDC,Out for Delivery,7
+1646,25769,Delhivery,Packed,5
+1647,23087,DTDC,Processing,2
+1648,22406,BlueDart,Out for Delivery,3
+1649,21090,Ekart,Processing,3
+1650,22908,BlueDart,Out for Delivery,3
+1651,24107,Delhivery,Delivered,7
+1652,23602,Ekart,Shipped,6
+1653,20134,BlueDart,Out for Delivery,7
+1654,25749,Ekart,Delivered,5
+1655,21204,Delhivery,Shipped,7
+1656,25873,DTDC,Out for Delivery,2
+1657,24242,Ekart,Shipped,6
+1658,23278,DTDC,Packed,2
+1659,21042,BlueDart,Out for Delivery,1
+1660,23123,DTDC,Out for Delivery,5
+1661,25120,DTDC,Shipped,5
+1662,20604,BlueDart,Shipped,5
+1663,22543,DTDC,Packed,2
+1664,20414,Ekart,Packed,5
+1665,24297,DTDC,Packed,2
+1666,23365,BlueDart,Processing,4
+1667,23416,DTDC,Processing,4
+1668,24663,DTDC,Packed,2
+1669,22825,DTDC,Delivered,5
+1670,24922,BlueDart,Delivered,6
+1671,24942,BlueDart,Packed,3
+1672,24529,DTDC,Out for Delivery,5
+1673,24217,DTDC,Out for Delivery,4
+1674,25005,BlueDart,Shipped,7
+1675,23554,Delhivery,Shipped,1
+1676,22024,Ekart,Delivered,2
+1677,20401,Ekart,Delivered,7
+1678,22024,Delhivery,Shipped,2
+1679,24941,BlueDart,Delivered,1
+1680,21268,BlueDart,Out for Delivery,1
+1681,20241,Delhivery,Processing,3
+1682,22438,Delhivery,Out for Delivery,4
+1683,21203,Delhivery,Shipped,6
+1684,25342,BlueDart,Processing,7
+1685,22329,Delhivery,Packed,3
+1686,20969,Delhivery,Packed,5
+1687,24710,DTDC,Shipped,2
+1688,25207,DTDC,Packed,1
+1689,24846,DTDC,Shipped,7
+1690,25500,DTDC,Shipped,2
+1691,25466,BlueDart,Shipped,1
+1692,22700,BlueDart,Processing,5
+1693,21497,BlueDart,Shipped,7
+1694,21902,Delhivery,Delivered,4
+1695,23495,DTDC,Delivered,7
+1696,20839,Ekart,Delivered,5
+1697,23283,BlueDart,Delivered,7
+1698,24467,Delhivery,Shipped,4
+1699,24375,BlueDart,Processing,1
+1700,23882,Ekart,Packed,6
+1701,20023,DTDC,Delivered,4
+1702,23351,Delhivery,Delivered,4
+1703,24685,Ekart,Out for Delivery,2
+1704,25339,Ekart,Processing,3
+1705,22031,Ekart,Out for Delivery,3
+1706,20988,BlueDart,Shipped,2
+1707,20595,BlueDart,Out for Delivery,6
+1708,25069,Ekart,Out for Delivery,1
+1709,20105,Delhivery,Out for Delivery,4
+1710,24063,BlueDart,Packed,1
+1711,24066,Ekart,Processing,2
+1712,23433,Delhivery,Delivered,7
+1713,25434,BlueDart,Processing,2
+1714,25694,Ekart,Delivered,6
+1715,24783,Delhivery,Delivered,2
+1716,24225,DTDC,Packed,2
+1717,23766,Delhivery,Packed,3
+1718,25995,BlueDart,Shipped,7
+1719,22544,Ekart,Out for Delivery,3
+1720,24506,Delhivery,Shipped,4
+1721,23533,Delhivery,Out for Delivery,6
+1722,24379,DTDC,Packed,7
+1723,21848,Ekart,Processing,1
+1724,25668,DTDC,Out for Delivery,3
+1725,20625,Delhivery,Out for Delivery,6
+1726,20280,Ekart,Processing,4
+1727,25695,BlueDart,Packed,7
+1728,24410,Ekart,Processing,3
+1729,22881,DTDC,Packed,3
+1730,20304,Delhivery,Delivered,7
+1731,22901,Delhivery,Shipped,3
+1732,24462,Delhivery,Processing,3
+1733,23702,Ekart,Shipped,6
+1734,25073,DTDC,Shipped,2
+1735,24934,Delhivery,Out for Delivery,1
+1736,25298,DTDC,Out for Delivery,1
+1737,20415,Ekart,Processing,5
+1738,22014,Delhivery,Shipped,3
+1739,22554,Delhivery,Delivered,3
+1740,20151,BlueDart,Delivered,7
+1741,25832,BlueDart,Packed,1
+1742,24421,Delhivery,Packed,5
+1743,23135,DTDC,Packed,7
+1744,25992,Delhivery,Packed,5
+1745,23046,DTDC,Shipped,6
+1746,25681,Delhivery,Out for Delivery,5
+1747,24428,Delhivery,Packed,4
+1748,22636,BlueDart,Delivered,6
+1749,22769,Delhivery,Out for Delivery,3
+1750,25670,DTDC,Delivered,2
+1751,21669,BlueDart,Shipped,6
+1752,23421,BlueDart,Packed,1
+1753,21556,DTDC,Shipped,3
+1754,20170,Delhivery,Out for Delivery,4
+1755,20349,DTDC,Processing,5
+1756,21378,Delhivery,Processing,5
+1757,25729,Delhivery,Delivered,7
+1758,25922,Ekart,Packed,1
+1759,20753,BlueDart,Packed,7
+1760,23194,DTDC,Processing,1
+1761,22747,Ekart,Delivered,3
+1762,24595,Delhivery,Shipped,2
+1763,23272,BlueDart,Packed,6
+1764,20978,Delhivery,Delivered,6
+1765,23304,Delhivery,Shipped,4
+1766,25602,BlueDart,Packed,1
+1767,22569,BlueDart,Delivered,4
+1768,25556,Delhivery,Out for Delivery,4
+1769,22234,Ekart,Shipped,3
+1770,23935,Delhivery,Delivered,6
+1771,25562,BlueDart,Packed,1
+1772,23636,Delhivery,Shipped,4
+1773,20602,Ekart,Packed,5
+1774,22231,DTDC,Out for Delivery,7
+1775,23175,DTDC,Packed,7
+1776,23338,BlueDart,Packed,3
+1777,25760,DTDC,Processing,3
+1778,21902,Delhivery,Packed,6
+1779,23149,Delhivery,Delivered,3
+1780,20135,BlueDart,Shipped,4
+1781,24551,DTDC,Processing,2
+1782,23181,DTDC,Processing,3
+1783,20425,DTDC,Packed,1
+1784,23246,DTDC,Packed,4
+1785,20069,Ekart,Processing,2
+1786,25988,Delhivery,Out for Delivery,3
+1787,20066,Delhivery,Processing,7
+1788,21773,Delhivery,Delivered,1
+1789,21351,Delhivery,Packed,6
+1790,20237,BlueDart,Shipped,2
+1791,20191,Ekart,Shipped,2
+1792,25641,BlueDart,Out for Delivery,7
+1793,23040,DTDC,Delivered,3
+1794,21895,Delhivery,Delivered,6
+1795,21530,DTDC,Processing,1
+1796,25106,DTDC,Processing,2
+1797,23797,Ekart,Out for Delivery,3
+1798,25420,Ekart,Shipped,7
+1799,22240,BlueDart,Processing,3
+1800,22342,Ekart,Shipped,3
+1801,21845,Delhivery,Processing,5
+1802,20134,Delhivery,Delivered,5
+1803,23190,Ekart,Shipped,5
+1804,21732,Ekart,Shipped,7
+1805,22705,DTDC,Out for Delivery,2
+1806,21376,Ekart,Packed,1
+1807,24042,DTDC,Processing,3
+1808,25730,DTDC,Out for Delivery,1
+1809,21923,DTDC,Processing,7
+1810,23441,BlueDart,Shipped,5
+1811,23466,Delhivery,Out for Delivery,1
+1812,22428,DTDC,Packed,7
+1813,23454,DTDC,Processing,2
+1814,21612,Ekart,Processing,3
+1815,24129,Ekart,Processing,1
+1816,23068,BlueDart,Processing,1
+1817,23615,BlueDart,Processing,4
+1818,24072,Delhivery,Shipped,4
+1819,20443,Ekart,Delivered,4
+1820,24687,Delhivery,Shipped,2
+1821,21469,Ekart,Shipped,1
+1822,21714,BlueDart,Delivered,3
+1823,22520,DTDC,Delivered,3
+1824,20464,DTDC,Shipped,6
+1825,22994,BlueDart,Processing,6
+1826,22621,DTDC,Delivered,1
+1827,22616,DTDC,Processing,5
+1828,20655,DTDC,Out for Delivery,6
+1829,22461,DTDC,Delivered,2
+1830,23520,Ekart,Out for Delivery,1
+1831,24537,BlueDart,Packed,3
+1832,25845,DTDC,Shipped,6
+1833,25494,DTDC,Out for Delivery,5
+1834,20057,Ekart,Out for Delivery,1
+1835,21522,BlueDart,Out for Delivery,7
+1836,23884,Delhivery,Delivered,3
+1837,22002,Delhivery,Processing,5
+1838,21521,BlueDart,Processing,5
+1839,22949,DTDC,Out for Delivery,2
+1840,21778,BlueDart,Packed,6
+1841,25788,DTDC,Packed,7
+1842,25592,BlueDart,Packed,5
+1843,23317,Ekart,Shipped,1
+1844,21525,BlueDart,Shipped,2
+1845,21343,DTDC,Out for Delivery,4
+1846,25058,BlueDart,Shipped,2
+1847,23599,DTDC,Packed,5
+1848,25810,BlueDart,Packed,6
+1849,24383,Ekart,Packed,1
+1850,21120,BlueDart,Packed,1
+1851,24713,Delhivery,Shipped,6
+1852,20002,Delhivery,Out for Delivery,5
+1853,21548,BlueDart,Packed,5
+1854,22285,Ekart,Packed,2
+1855,22433,DTDC,Processing,5
+1856,24842,BlueDart,Delivered,1
+1857,25511,DTDC,Shipped,7
+1858,22631,Delhivery,Shipped,7
+1859,22202,Ekart,Packed,4
+1860,20472,DTDC,Shipped,4
+1861,24657,Delhivery,Packed,5
+1862,21812,Delhivery,Processing,1
+1863,25871,DTDC,Shipped,2
+1864,21749,BlueDart,Packed,7
+1865,23544,BlueDart,Packed,4
+1866,23682,DTDC,Out for Delivery,2
+1867,21670,Delhivery,Out for Delivery,6
+1868,24148,Delhivery,Out for Delivery,4
+1869,22448,DTDC,Processing,7
+1870,23629,Delhivery,Packed,5
+1871,22962,Delhivery,Packed,4
+1872,20284,Ekart,Delivered,3
+1873,21389,Ekart,Packed,6
+1874,22357,Delhivery,Processing,6
+1875,23875,Ekart,Processing,2
+1876,24064,Ekart,Processing,6
+1877,25309,DTDC,Out for Delivery,7
+1878,23006,BlueDart,Out for Delivery,4
+1879,23443,BlueDart,Shipped,5
+1880,20020,DTDC,Packed,1
+1881,20328,BlueDart,Out for Delivery,2
+1882,24165,Ekart,Out for Delivery,7
+1883,22150,DTDC,Processing,3
+1884,24700,DTDC,Shipped,3
+1885,24875,DTDC,Delivered,2
+1886,20856,BlueDart,Delivered,6
+1887,24676,DTDC,Delivered,7
+1888,24438,Ekart,Delivered,7
+1889,20634,Ekart,Delivered,6
+1890,24146,DTDC,Processing,5
+1891,25081,Ekart,Shipped,1
+1892,22311,BlueDart,Packed,7
+1893,23416,DTDC,Shipped,2
+1894,21045,BlueDart,Packed,5
+1895,22108,DTDC,Processing,2
+1896,20827,BlueDart,Delivered,5
+1897,25767,Delhivery,Processing,3
+1898,25046,Ekart,Delivered,3
+1899,21868,Ekart,Processing,1
+1900,25733,Delhivery,Packed,6
+1901,23690,DTDC,Packed,2
+1902,21582,Ekart,Out for Delivery,3
+1903,21415,BlueDart,Shipped,4
+1904,25859,DTDC,Delivered,6
+1905,24028,Delhivery,Delivered,7
+1906,24106,BlueDart,Packed,2
+1907,23689,DTDC,Processing,3
+1908,25385,Ekart,Processing,4
+1909,24278,Delhivery,Out for Delivery,6
+1910,20632,BlueDart,Shipped,5
+1911,25263,Ekart,Out for Delivery,3
+1912,23831,Ekart,Out for Delivery,1
+1913,25567,Ekart,Delivered,4
+1914,25626,DTDC,Delivered,3
+1915,24648,DTDC,Packed,6
+1916,24437,BlueDart,Processing,7
+1917,25087,DTDC,Packed,2
+1918,23236,Delhivery,Processing,7
+1919,24449,Delhivery,Delivered,2
+1920,23418,Delhivery,Out for Delivery,4
+1921,21085,Delhivery,Processing,4
+1922,22644,Ekart,Shipped,6
+1923,23684,DTDC,Shipped,3
+1924,24090,DTDC,Shipped,3
+1925,22937,DTDC,Shipped,1
+1926,21411,Ekart,Out for Delivery,4
+1927,22250,Delhivery,Processing,1
+1928,23166,DTDC,Shipped,5
+1929,23400,BlueDart,Shipped,6
+1930,20471,Ekart,Processing,4
+1931,23135,Ekart,Shipped,3
+1932,20873,BlueDart,Packed,3
+1933,22479,Ekart,Processing,7
+1934,24197,DTDC,Shipped,1
+1935,21178,BlueDart,Packed,5
+1936,23331,DTDC,Processing,5
+1937,21912,Ekart,Out for Delivery,7
+1938,20344,Delhivery,Out for Delivery,1
+1939,22009,DTDC,Packed,1
+1940,25098,Ekart,Shipped,2
+1941,21739,DTDC,Processing,2
+1942,20371,Ekart,Processing,5
+1943,25010,BlueDart,Processing,5
+1944,22278,Delhivery,Packed,3
+1945,25473,Delhivery,Delivered,7
+1946,23550,Delhivery,Delivered,4
+1947,24886,DTDC,Delivered,4
+1948,21106,Ekart,Shipped,2
+1949,24549,Ekart,Processing,2
+1950,22971,DTDC,Delivered,3
+1951,24315,Delhivery,Shipped,3
+1952,20347,DTDC,Packed,3
+1953,23094,DTDC,Shipped,5
+1954,20117,Ekart,Out for Delivery,6
+1955,25236,BlueDart,Delivered,3
+1956,25545,Delhivery,Shipped,5
+1957,25145,Delhivery,Packed,6
+1958,23541,Delhivery,Packed,6
+1959,25055,Ekart,Shipped,2
+1960,25331,Delhivery,Packed,1
+1961,22899,BlueDart,Shipped,5
+1962,22297,Delhivery,Out for Delivery,2
+1963,22558,BlueDart,Processing,2
+1964,20790,DTDC,Out for Delivery,4
+1965,22341,DTDC,Out for Delivery,3
+1966,24995,Ekart,Processing,6
+1967,22530,Delhivery,Delivered,4
+1968,22190,BlueDart,Packed,1
+1969,24104,BlueDart,Delivered,3
+1970,25255,DTDC,Delivered,7
+1971,22265,Delhivery,Delivered,4
+1972,21304,BlueDart,Packed,2
+1973,23518,Delhivery,Shipped,6
+1974,24495,DTDC,Delivered,7
+1975,22294,BlueDart,Out for Delivery,4
+1976,23937,Ekart,Delivered,2
+1977,20809,DTDC,Packed,6
+1978,20021,DTDC,Out for Delivery,2
+1979,24837,BlueDart,Processing,3
+1980,20756,Delhivery,Out for Delivery,5
+1981,24102,BlueDart,Shipped,7
+1982,21202,DTDC,Shipped,7
+1983,22785,Ekart,Out for Delivery,5
+1984,24496,Delhivery,Out for Delivery,2
+1985,21930,BlueDart,Out for Delivery,6
+1986,21184,BlueDart,Out for Delivery,1
+1987,23689,Delhivery,Packed,2
+1988,21868,DTDC,Delivered,1
+1989,20295,DTDC,Shipped,7
+1990,22235,DTDC,Processing,6
+1991,24524,Ekart,Out for Delivery,4
+1992,24759,Ekart,Shipped,1
+1993,25138,DTDC,Out for Delivery,4
+1994,22572,Ekart,Packed,5
+1995,24300,Delhivery,Delivered,5
+1996,25115,Delhivery,Out for Delivery,6
+1997,21722,DTDC,Delivered,1
+1998,22890,Delhivery,Shipped,4
+1999,24936,Delhivery,Delivered,5
+2000,22479,Ekart,Delivered,5
+2001,25835,DTDC,Packed,4
+2002,24506,BlueDart,Delivered,3
+2003,24510,DTDC,Out for Delivery,2
+2004,24302,Delhivery,Packed,1
+2005,25614,DTDC,Out for Delivery,1
+2006,21237,BlueDart,Delivered,4
+2007,25581,Delhivery,Packed,1
+2008,25175,Delhivery,Shipped,6
+2009,20723,Delhivery,Packed,5
+2010,25301,DTDC,Processing,5
+2011,21097,Delhivery,Out for Delivery,1
+2012,23292,DTDC,Delivered,1
+2013,20971,Delhivery,Out for Delivery,5
+2014,21081,BlueDart,Out for Delivery,7
+2015,21203,BlueDart,Out for Delivery,5
+2016,24971,BlueDart,Packed,3
+2017,25788,DTDC,Shipped,5
+2018,23721,Delhivery,Packed,6
+2019,22591,Delhivery,Out for Delivery,4
+2020,22687,DTDC,Delivered,5
+2021,23390,BlueDart,Packed,3
+2022,22903,DTDC,Processing,7
+2023,23989,DTDC,Packed,6
+2024,20832,BlueDart,Packed,1
+2025,22646,Ekart,Shipped,6
+2026,20350,Ekart,Out for Delivery,6
+2027,20269,Ekart,Packed,6
+2028,20767,DTDC,Delivered,5
+2029,25534,BlueDart,Delivered,3
+2030,25824,Ekart,Shipped,1
+2031,22550,Ekart,Delivered,5
+2032,21715,Delhivery,Processing,3
+2033,20524,Ekart,Out for Delivery,1
+2034,25337,Delhivery,Packed,2
+2035,25310,Ekart,Processing,2
+2036,23282,DTDC,Processing,3
+2037,25143,DTDC,Delivered,5
+2038,20612,Delhivery,Delivered,6
+2039,23588,DTDC,Delivered,4
+2040,24406,Delhivery,Packed,2
+2041,25234,Ekart,Shipped,3
+2042,23493,Ekart,Shipped,4
+2043,23876,Ekart,Processing,7
+2044,21900,DTDC,Out for Delivery,3
+2045,20178,Delhivery,Out for Delivery,2
+2046,21104,Ekart,Out for Delivery,2
+2047,24085,BlueDart,Processing,3
+2048,24771,DTDC,Shipped,4
+2049,25787,BlueDart,Delivered,6
+2050,25484,BlueDart,Out for Delivery,2
+2051,20856,DTDC,Delivered,7
+2052,21708,Delhivery,Packed,5
+2053,20727,Ekart,Delivered,3
+2054,25778,Ekart,Packed,7
+2055,21858,BlueDart,Packed,3
+2056,20742,DTDC,Shipped,1
+2057,24506,Ekart,Shipped,5
+2058,22028,DTDC,Out for Delivery,1
+2059,23823,BlueDart,Shipped,3
+2060,23149,DTDC,Shipped,4
+2061,21448,Delhivery,Shipped,6
+2062,25179,Ekart,Delivered,3
+2063,25328,Delhivery,Out for Delivery,3
+2064,24996,Delhivery,Out for Delivery,1
+2065,23621,Delhivery,Shipped,1
+2066,21324,BlueDart,Processing,5
+2067,25443,Delhivery,Out for Delivery,5
+2068,24521,Delhivery,Shipped,1
+2069,21868,Ekart,Shipped,6
+2070,23929,DTDC,Processing,6
+2071,24840,Ekart,Delivered,2
+2072,25686,DTDC,Out for Delivery,3
+2073,20212,BlueDart,Delivered,7
+2074,25890,BlueDart,Delivered,4
+2075,22365,BlueDart,Packed,7
+2076,20235,BlueDart,Out for Delivery,7
+2077,25198,Ekart,Processing,5
+2078,25948,DTDC,Packed,1
+2079,24570,BlueDart,Out for Delivery,4
+2080,23707,DTDC,Processing,5
+2081,23093,DTDC,Out for Delivery,4
+2082,20639,Delhivery,Packed,3
+2083,23229,BlueDart,Shipped,2
+2084,20263,BlueDart,Packed,2
+2085,25571,BlueDart,Shipped,5
+2086,24821,Delhivery,Processing,2
+2087,25941,DTDC,Out for Delivery,5
+2088,21809,DTDC,Out for Delivery,3
+2089,25057,Delhivery,Processing,4
+2090,23706,Delhivery,Shipped,2
+2091,25208,Ekart,Shipped,7
+2092,23307,Delhivery,Shipped,3
+2093,20221,BlueDart,Packed,2
+2094,22871,Delhivery,Out for Delivery,3
+2095,23240,Ekart,Out for Delivery,3
+2096,21148,DTDC,Processing,1
+2097,24503,DTDC,Packed,4
+2098,21051,DTDC,Packed,1
+2099,24650,Ekart,Out for Delivery,5
+2100,25192,Ekart,Shipped,5
+2101,21294,BlueDart,Out for Delivery,6
+2102,23594,DTDC,Shipped,7
+2103,20760,Ekart,Delivered,1
+2104,20216,BlueDart,Delivered,3
+2105,20021,BlueDart,Shipped,3
+2106,20521,BlueDart,Shipped,7
+2107,22364,Ekart,Delivered,4
+2108,23942,BlueDart,Packed,5
+2109,24391,BlueDart,Delivered,1
+2110,22464,DTDC,Packed,2
+2111,20542,Ekart,Shipped,3
+2112,23097,Delhivery,Shipped,6
+2113,23951,Ekart,Delivered,7
+2114,21622,BlueDart,Shipped,1
+2115,20938,Ekart,Delivered,4
+2116,24309,DTDC,Delivered,7
+2117,22596,BlueDart,Processing,2
+2118,25638,Delhivery,Shipped,1
+2119,24778,Ekart,Shipped,2
+2120,23612,DTDC,Out for Delivery,4
+2121,20777,BlueDart,Processing,6
+2122,24329,Ekart,Delivered,1
+2123,20490,Delhivery,Delivered,4
+2124,21993,Delhivery,Shipped,2
+2125,24771,Delhivery,Shipped,1
+2126,20532,Ekart,Packed,4
+2127,23944,DTDC,Packed,6
+2128,20852,Delhivery,Out for Delivery,7
+2129,24494,Delhivery,Delivered,4
+2130,20798,Delhivery,Delivered,6
+2131,23321,Ekart,Out for Delivery,3
+2132,21056,Ekart,Out for Delivery,7
+2133,20434,DTDC,Delivered,6
+2134,20019,BlueDart,Out for Delivery,7
+2135,24737,BlueDart,Packed,7
+2136,25911,Delhivery,Shipped,3
+2137,21469,BlueDart,Processing,4
+2138,20273,Delhivery,Packed,2
+2139,20445,BlueDart,Delivered,4
+2140,22747,Ekart,Processing,6
+2141,22675,BlueDart,Packed,3
+2142,20783,Delhivery,Shipped,7
+2143,21257,Delhivery,Out for Delivery,4
+2144,23936,Delhivery,Processing,3
+2145,20618,Ekart,Shipped,6
+2146,24824,BlueDart,Processing,1
+2147,23292,DTDC,Packed,2
+2148,24255,BlueDart,Packed,2
+2149,21120,Ekart,Processing,1
+2150,22618,BlueDart,Delivered,2
+2151,21509,BlueDart,Processing,3
+2152,23095,BlueDart,Processing,1
+2153,25434,Delhivery,Processing,1
+2154,21702,Ekart,Delivered,3
+2155,21713,BlueDart,Delivered,1
+2156,21577,BlueDart,Packed,3
+2157,21488,DTDC,Processing,7
+2158,21759,BlueDart,Packed,6
+2159,24897,Ekart,Shipped,7
+2160,23373,Ekart,Shipped,2
+2161,21775,Ekart,Packed,5
+2162,23275,Ekart,Shipped,5
+2163,23627,DTDC,Processing,2
+2164,22161,DTDC,Out for Delivery,2
+2165,22193,BlueDart,Processing,6
+2166,24779,Ekart,Packed,4
+2167,23718,DTDC,Packed,3
+2168,25423,Ekart,Packed,5
+2169,23866,BlueDart,Shipped,4
+2170,20755,Ekart,Packed,4
+2171,23312,Ekart,Shipped,5
+2172,20544,Ekart,Out for Delivery,7
+2173,23196,BlueDart,Shipped,7
+2174,22018,Delhivery,Delivered,4
+2175,23412,Ekart,Processing,3
+2176,23873,Ekart,Packed,2
+2177,23313,Ekart,Packed,3
+2178,23618,Ekart,Out for Delivery,4
+2179,25896,Ekart,Packed,3
+2180,21708,DTDC,Packed,7
+2181,25193,Ekart,Packed,2
+2182,22373,BlueDart,Out for Delivery,4
+2183,24853,BlueDart,Shipped,1
+2184,22776,DTDC,Processing,2
+2185,25251,DTDC,Out for Delivery,2
+2186,25123,BlueDart,Shipped,3
+2187,21741,Ekart,Out for Delivery,5
+2188,22692,DTDC,Packed,6
+2189,24733,Delhivery,Out for Delivery,7
+2190,20830,DTDC,Delivered,2
+2191,22426,DTDC,Delivered,6
+2192,21937,Delhivery,Out for Delivery,1
+2193,22904,BlueDart,Delivered,1
+2194,20832,DTDC,Delivered,6
+2195,21612,DTDC,Processing,1
+2196,22006,Delhivery,Out for Delivery,7
+2197,21706,DTDC,Packed,4
+2198,20483,DTDC,Packed,7
+2199,20034,Delhivery,Shipped,5
+2200,25027,DTDC,Out for Delivery,5
+2201,25830,Delhivery,Delivered,2
+2202,23168,Ekart,Delivered,2
+2203,20966,BlueDart,Processing,3
+2204,23263,BlueDart,Delivered,7
+2205,22440,DTDC,Out for Delivery,2
+2206,22649,Ekart,Packed,6
+2207,24737,BlueDart,Out for Delivery,7
+2208,25756,Ekart,Shipped,7
+2209,23322,BlueDart,Packed,5
+2210,20892,DTDC,Packed,6
+2211,24793,Ekart,Processing,2
+2212,23240,Ekart,Delivered,7
+2213,25448,Delhivery,Processing,2
+2214,25260,DTDC,Out for Delivery,6
+2215,22394,DTDC,Processing,5
+2216,23359,DTDC,Processing,4
+2217,25587,BlueDart,Packed,3
+2218,21808,Delhivery,Processing,1
+2219,23192,Delhivery,Packed,3
+2220,24680,Delhivery,Processing,4
+2221,25886,BlueDart,Delivered,5
+2222,22230,Delhivery,Processing,2
+2223,21855,BlueDart,Shipped,3
+2224,21765,DTDC,Out for Delivery,7
+2225,23949,BlueDart,Shipped,5
+2226,20823,Ekart,Processing,7
+2227,24615,Ekart,Processing,6
+2228,20509,Delhivery,Out for Delivery,4
+2229,24920,BlueDart,Processing,1
+2230,22057,Delhivery,Processing,4
+2231,20086,Ekart,Delivered,6
+2232,25820,Delhivery,Processing,1
+2233,22553,BlueDart,Processing,2
+2234,24339,DTDC,Out for Delivery,1
+2235,23312,Delhivery,Processing,5
+2236,24934,Delhivery,Packed,3
+2237,21183,Delhivery,Packed,3
+2238,24112,Ekart,Shipped,5
+2239,22140,BlueDart,Processing,2
+2240,22616,BlueDart,Processing,4
+2241,20503,DTDC,Delivered,6
+2242,20788,DTDC,Delivered,1
+2243,21683,DTDC,Processing,1
+2244,22654,DTDC,Processing,7
+2245,25750,Delhivery,Out for Delivery,1
+2246,21666,BlueDart,Processing,5
+2247,25586,Ekart,Processing,2
+2248,22486,DTDC,Processing,2
+2249,24267,Delhivery,Shipped,1
+2250,20977,BlueDart,Delivered,4
+2251,25178,Ekart,Shipped,2
+2252,23970,Delhivery,Delivered,2
+2253,23573,DTDC,Delivered,3
+2254,24022,DTDC,Shipped,7
+2255,23512,BlueDart,Delivered,1
+2256,21957,Delhivery,Processing,6
+2257,24091,Ekart,Delivered,1
+2258,25388,DTDC,Processing,7
+2259,24732,Ekart,Packed,2
+2260,25255,BlueDart,Processing,3
+2261,22327,Delhivery,Processing,6
+2262,21946,Delhivery,Shipped,2
+2263,22716,Delhivery,Out for Delivery,5
+2264,25436,DTDC,Packed,4
+2265,20545,DTDC,Delivered,3
+2266,22822,Ekart,Packed,3
+2267,21438,DTDC,Shipped,1
+2268,20017,BlueDart,Shipped,3
+2269,23986,Delhivery,Out for Delivery,5
+2270,24447,Ekart,Delivered,5
+2271,22941,DTDC,Out for Delivery,5
+2272,22313,BlueDart,Processing,1
+2273,23025,Delhivery,Delivered,6
+2274,25741,Ekart,Out for Delivery,4
+2275,22850,DTDC,Packed,3
+2276,22983,Ekart,Packed,7
+2277,21510,DTDC,Processing,4
+2278,21279,DTDC,Out for Delivery,2
+2279,25353,Ekart,Out for Delivery,3
+2280,20213,Ekart,Out for Delivery,7
+2281,20066,DTDC,Processing,6
+2282,20351,Delhivery,Shipped,7
+2283,25357,Ekart,Processing,7
+2284,21823,Delhivery,Out for Delivery,5
+2285,25311,DTDC,Packed,3
+2286,20332,DTDC,Processing,1
+2287,20029,DTDC,Out for Delivery,5
+2288,24912,Delhivery,Shipped,7
+2289,20822,DTDC,Packed,5
+2290,21153,Delhivery,Out for Delivery,4
+2291,21381,BlueDart,Delivered,6
+2292,20912,Delhivery,Shipped,7
+2293,25404,BlueDart,Packed,2
+2294,21171,BlueDart,Packed,2
+2295,24556,BlueDart,Shipped,1
+2296,24392,Ekart,Out for Delivery,3
+2297,21275,BlueDart,Shipped,5
+2298,24842,Ekart,Processing,1
+2299,22236,Delhivery,Processing,6
+2300,24541,Ekart,Out for Delivery,5
+2301,20949,BlueDart,Shipped,7
+2302,20834,Delhivery,Packed,3
+2303,25465,Delhivery,Shipped,2
+2304,22611,DTDC,Packed,2
+2305,25269,BlueDart,Processing,7
+2306,23578,Ekart,Processing,6
+2307,25737,Ekart,Out for Delivery,5
+2308,20336,DTDC,Delivered,2
+2309,20240,BlueDart,Delivered,1
+2310,20597,Delhivery,Shipped,1
+2311,25096,Ekart,Shipped,2
+2312,22469,Delhivery,Delivered,3
+2313,21035,Delhivery,Shipped,3
+2314,23847,DTDC,Out for Delivery,3
+2315,25152,BlueDart,Delivered,1
+2316,21436,Delhivery,Delivered,6
+2317,24551,BlueDart,Processing,4
+2318,21819,Ekart,Out for Delivery,5
+2319,25264,Delhivery,Packed,4
+2320,24574,Delhivery,Packed,1
+2321,21818,DTDC,Shipped,2
+2322,25903,DTDC,Delivered,5
+2323,20113,Ekart,Shipped,5
+2324,22648,Ekart,Out for Delivery,7
+2325,23049,Ekart,Processing,5
+2326,22280,BlueDart,Delivered,6
+2327,20006,DTDC,Delivered,4
+2328,24641,Delhivery,Shipped,3
+2329,21256,DTDC,Processing,4
+2330,20547,Delhivery,Out for Delivery,3
+2331,23444,DTDC,Packed,2
+2332,23706,Ekart,Shipped,4
+2333,20355,Delhivery,Out for Delivery,3
+2334,21179,DTDC,Out for Delivery,1
+2335,21825,DTDC,Delivered,1
+2336,22449,Delhivery,Packed,3
+2337,21802,Delhivery,Delivered,3
+2338,21593,DTDC,Out for Delivery,5
+2339,25029,BlueDart,Delivered,7
+2340,23259,Ekart,Shipped,3
+2341,23767,DTDC,Packed,3
+2342,20075,Ekart,Packed,2
+2343,21154,Ekart,Packed,2
+2344,22470,Delhivery,Processing,3
+2345,20656,DTDC,Packed,3
+2346,20907,Ekart,Shipped,2
+2347,23264,Delhivery,Shipped,5
+2348,22770,Ekart,Out for Delivery,3
+2349,24792,Delhivery,Out for Delivery,2
+2350,24088,DTDC,Processing,2
+2351,22274,BlueDart,Shipped,4
+2352,20504,BlueDart,Packed,2
+2353,25384,BlueDart,Delivered,7
+2354,22769,Ekart,Shipped,2
+2355,21821,Delhivery,Shipped,6
+2356,24406,BlueDart,Delivered,4
+2357,21855,Delhivery,Shipped,1
+2358,21146,DTDC,Out for Delivery,2
+2359,25654,Delhivery,Out for Delivery,2
+2360,20813,DTDC,Shipped,2
+2361,24918,BlueDart,Packed,1
+2362,22475,Delhivery,Out for Delivery,4
+2363,24437,BlueDart,Processing,3
+2364,25608,BlueDart,Delivered,2
+2365,23327,DTDC,Delivered,2
+2366,23890,Delhivery,Out for Delivery,2
+2367,21034,Ekart,Processing,2
+2368,20993,BlueDart,Delivered,2
+2369,24097,Delhivery,Shipped,5
+2370,22936,Delhivery,Packed,2
+2371,20370,DTDC,Processing,6
+2372,24793,Delhivery,Processing,5
+2373,21961,BlueDart,Packed,3
+2374,25071,BlueDart,Out for Delivery,5
+2375,23992,Delhivery,Delivered,1
+2376,20017,Delhivery,Processing,2
+2377,25806,Ekart,Out for Delivery,1
+2378,23087,BlueDart,Packed,7
+2379,22790,DTDC,Shipped,6
+2380,24033,Delhivery,Delivered,6
+2381,23019,Ekart,Delivered,3
+2382,20021,DTDC,Delivered,5
+2383,21169,BlueDart,Processing,3
+2384,22820,BlueDart,Packed,6
+2385,21920,Delhivery,Out for Delivery,6
+2386,25141,DTDC,Out for Delivery,7
+2387,24379,Delhivery,Shipped,3
+2388,23088,Ekart,Out for Delivery,6
+2389,22359,BlueDart,Out for Delivery,1
+2390,20969,Ekart,Shipped,2
+2391,25552,Delhivery,Processing,6
+2392,23698,DTDC,Out for Delivery,4
+2393,25829,DTDC,Shipped,1
+2394,22823,BlueDart,Out for Delivery,6
+2395,23425,Delhivery,Packed,1
+2396,24715,BlueDart,Delivered,1
+2397,25737,Ekart,Out for Delivery,5
+2398,20451,DTDC,Processing,7
+2399,25910,Delhivery,Packed,2
+2400,22015,Delhivery,Processing,4
+2401,23920,DTDC,Processing,4
+2402,25155,DTDC,Out for Delivery,2
+2403,22747,BlueDart,Packed,2
+2404,21626,DTDC,Processing,5
+2405,22915,BlueDart,Processing,7
+2406,21131,DTDC,Delivered,6
+2407,22331,Ekart,Out for Delivery,2
+2408,24080,Delhivery,Processing,3
+2409,21248,Ekart,Packed,1
+2410,20329,Delhivery,Packed,4
+2411,22758,BlueDart,Delivered,7
+2412,24407,BlueDart,Packed,6
+2413,25713,Delhivery,Packed,2
+2414,22128,DTDC,Shipped,5
+2415,25397,DTDC,Out for Delivery,5
+2416,21710,BlueDart,Out for Delivery,7
+2417,24386,Ekart,Processing,4
+2418,25400,BlueDart,Out for Delivery,4
+2419,22806,Delhivery,Shipped,2
+2420,24291,BlueDart,Processing,1
+2421,20806,Ekart,Processing,7
+2422,23178,Ekart,Packed,6
+2423,23506,DTDC,Shipped,2
+2424,23532,DTDC,Packed,7
+2425,23022,Delhivery,Packed,4
+2426,21500,Ekart,Shipped,3
+2427,21808,BlueDart,Out for Delivery,7
+2428,22994,DTDC,Shipped,7
+2429,23162,DTDC,Out for Delivery,3
+2430,24334,DTDC,Delivered,3
+2431,24823,DTDC,Packed,2
+2432,22283,Ekart,Shipped,7
+2433,20986,Delhivery,Shipped,4
+2434,25124,BlueDart,Shipped,1
+2435,23386,BlueDart,Delivered,4
+2436,22679,DTDC,Delivered,3
+2437,20900,BlueDart,Processing,7
+2438,23455,BlueDart,Out for Delivery,4
+2439,25825,DTDC,Packed,5
+2440,21896,Ekart,Processing,5
+2441,23612,BlueDart,Shipped,6
+2442,22207,BlueDart,Processing,2
+2443,24715,Delhivery,Shipped,4
+2444,25381,Ekart,Processing,2
+2445,21208,BlueDart,Shipped,4
+2446,23781,Delhivery,Shipped,3
+2447,24037,DTDC,Packed,3
+2448,20953,Ekart,Processing,4
+2449,20199,BlueDart,Packed,6
+2450,25006,BlueDart,Processing,3
+2451,23710,BlueDart,Packed,2
+2452,23644,BlueDart,Processing,5
+2453,25724,Ekart,Shipped,1
+2454,25880,DTDC,Out for Delivery,4
+2455,25979,DTDC,Processing,4
+2456,21615,DTDC,Packed,6
+2457,21152,DTDC,Packed,1
+2458,20925,Delhivery,Packed,7
+2459,21242,Delhivery,Processing,6
+2460,25537,Ekart,Delivered,3
+2461,21037,DTDC,Shipped,7
+2462,24450,BlueDart,Packed,7
+2463,21741,DTDC,Out for Delivery,6
+2464,24721,DTDC,Processing,7
+2465,24174,BlueDart,Delivered,5
+2466,23322,DTDC,Processing,6
+2467,21695,DTDC,Processing,7
+2468,22749,Ekart,Delivered,3
+2469,23563,BlueDart,Processing,5
+2470,23035,DTDC,Shipped,5
+2471,25859,Delhivery,Processing,7
+2472,21539,BlueDart,Shipped,5
+2473,23028,Delhivery,Delivered,2
+2474,23066,Delhivery,Processing,1
+2475,20888,Ekart,Shipped,4
+2476,20899,DTDC,Shipped,7
+2477,24347,Delhivery,Delivered,1
+2478,21776,Delhivery,Shipped,3
+2479,25227,Delhivery,Processing,3
+2480,20504,Ekart,Packed,1
+2481,22856,DTDC,Out for Delivery,5
+2482,22785,Delhivery,Packed,7
+2483,22705,BlueDart,Delivered,6
+2484,25362,Delhivery,Shipped,5
+2485,25290,BlueDart,Out for Delivery,3
+2486,23753,Ekart,Shipped,5
+2487,20410,BlueDart,Processing,5
+2488,25237,Delhivery,Processing,4
+2489,24230,Ekart,Out for Delivery,3
+2490,23665,Delhivery,Out for Delivery,7
+2491,23693,Ekart,Processing,1
+2492,24983,Delhivery,Packed,4
+2493,25383,Delhivery,Out for Delivery,5
+2494,24319,BlueDart,Out for Delivery,6
+2495,20843,DTDC,Processing,1
+2496,22997,DTDC,Out for Delivery,7
+2497,24239,DTDC,Processing,1
+2498,24660,DTDC,Out for Delivery,4
+2499,22919,BlueDart,Packed,2
+2500,23391,Delhivery,Out for Delivery,7
+2501,20342,Ekart,Processing,3
+2502,24394,BlueDart,Shipped,2
+2503,22094,Ekart,Delivered,1
+2504,24818,Ekart,Out for Delivery,3
+2505,23603,BlueDart,Delivered,3
+2506,22023,Ekart,Packed,2
+2507,24740,BlueDart,Shipped,2
+2508,23178,DTDC,Packed,1
+2509,23835,DTDC,Shipped,5
+2510,20355,Delhivery,Shipped,5
+2511,22193,DTDC,Out for Delivery,5
+2512,23973,BlueDart,Processing,7
+2513,21659,Delhivery,Packed,7
+2514,24223,Ekart,Packed,2
+2515,23785,BlueDart,Out for Delivery,7
+2516,23148,DTDC,Delivered,5
+2517,25304,BlueDart,Shipped,3
+2518,20571,Ekart,Processing,2
+2519,22621,BlueDart,Delivered,3
+2520,22457,DTDC,Processing,2
+2521,20037,DTDC,Packed,1
+2522,24385,DTDC,Packed,6
+2523,20066,DTDC,Packed,5
+2524,25858,BlueDart,Out for Delivery,7
+2525,23893,DTDC,Out for Delivery,6
+2526,20950,Delhivery,Delivered,3
+2527,21149,Ekart,Packed,6
+2528,23939,DTDC,Packed,1
+2529,24937,Delhivery,Processing,4
+2530,20680,BlueDart,Processing,1
+2531,21160,Ekart,Packed,2
+2532,22419,Ekart,Out for Delivery,2
+2533,25553,Delhivery,Shipped,6
+2534,25396,DTDC,Out for Delivery,4
+2535,20770,DTDC,Processing,6
+2536,24749,DTDC,Processing,4
+2537,22989,DTDC,Shipped,7
+2538,23267,DTDC,Out for Delivery,4
+2539,22425,Delhivery,Delivered,5
+2540,25927,DTDC,Delivered,7
+2541,21922,BlueDart,Shipped,7
+2542,22180,Delhivery,Processing,5
+2543,25845,Ekart,Packed,2
+2544,22307,BlueDart,Out for Delivery,6
+2545,25838,Ekart,Packed,7
+2546,23760,BlueDart,Packed,2
+2547,20723,Delhivery,Shipped,2
+2548,25110,Delhivery,Out for Delivery,1
+2549,22965,Ekart,Out for Delivery,6
+2550,21993,DTDC,Processing,7
+2551,20935,Ekart,Out for Delivery,7
+2552,25248,Delhivery,Processing,3
+2553,20305,Delhivery,Processing,1
+2554,23252,BlueDart,Out for Delivery,1
+2555,20252,Delhivery,Packed,4
+2556,22857,BlueDart,Shipped,7
+2557,23840,Ekart,Delivered,4
+2558,24558,BlueDart,Packed,3
+2559,22368,BlueDart,Shipped,4
+2560,20732,BlueDart,Processing,3
+2561,24674,DTDC,Out for Delivery,5
+2562,20748,Ekart,Out for Delivery,2
+2563,25824,DTDC,Out for Delivery,7
+2564,22324,BlueDart,Packed,1
+2565,21702,Delhivery,Out for Delivery,6
+2566,21137,DTDC,Out for Delivery,3
+2567,21199,BlueDart,Shipped,4
+2568,24414,Ekart,Shipped,7
+2569,24852,BlueDart,Out for Delivery,6
+2570,21053,Ekart,Processing,1
+2571,20282,BlueDart,Processing,5
+2572,23205,Delhivery,Processing,3
+2573,25461,DTDC,Processing,3
+2574,20705,Delhivery,Delivered,7
+2575,22769,Ekart,Packed,7
+2576,21174,DTDC,Processing,4
+2577,25339,BlueDart,Processing,6
+2578,25703,BlueDart,Packed,3
+2579,23448,BlueDart,Out for Delivery,5
+2580,25839,BlueDart,Processing,1
+2581,20477,Delhivery,Processing,5
+2582,20430,BlueDart,Processing,5
+2583,23633,Delhivery,Processing,7
+2584,22538,Delhivery,Packed,5
+2585,25274,BlueDart,Shipped,6
+2586,22283,Delhivery,Shipped,5
+2587,24917,BlueDart,Delivered,6
+2588,20415,BlueDart,Processing,3
+2589,25786,BlueDart,Out for Delivery,4
+2590,23480,Delhivery,Packed,7
+2591,23421,DTDC,Packed,5
+2592,25265,Delhivery,Delivered,7
+2593,20675,BlueDart,Packed,6
+2594,25204,DTDC,Delivered,1
+2595,22858,Ekart,Out for Delivery,6
+2596,22101,DTDC,Processing,7
+2597,22847,BlueDart,Processing,7
+2598,20724,Delhivery,Shipped,6
+2599,24494,BlueDart,Packed,1
+2600,25021,DTDC,Out for Delivery,2
+2601,24954,DTDC,Delivered,5
+2602,22378,BlueDart,Processing,5
+2603,24789,Delhivery,Shipped,2
+2604,25467,DTDC,Delivered,2
+2605,23887,DTDC,Shipped,6
+2606,20236,Delhivery,Out for Delivery,7
+2607,23980,DTDC,Out for Delivery,6
+2608,20806,DTDC,Out for Delivery,4
+2609,21027,BlueDart,Out for Delivery,2
+2610,23543,Ekart,Processing,1
+2611,25970,DTDC,Packed,4
+2612,23290,BlueDart,Delivered,2
+2613,21508,DTDC,Out for Delivery,4
+2614,23637,Delhivery,Delivered,6
+2615,25635,BlueDart,Out for Delivery,6
+2616,23253,Delhivery,Out for Delivery,7
+2617,22662,BlueDart,Packed,5
+2618,25250,Delhivery,Out for Delivery,3
+2619,24758,BlueDart,Shipped,5
+2620,24387,Delhivery,Packed,3
+2621,22797,DTDC,Out for Delivery,4
+2622,21248,DTDC,Shipped,5
+2623,24064,DTDC,Shipped,1
+2624,24498,BlueDart,Delivered,3
+2625,24360,Delhivery,Shipped,1
+2626,20594,Ekart,Processing,7
+2627,23612,Delhivery,Out for Delivery,3
+2628,23956,BlueDart,Delivered,1
+2629,21140,Ekart,Out for Delivery,3
+2630,20761,DTDC,Processing,6
+2631,20936,Ekart,Delivered,4
+2632,20323,Delhivery,Shipped,7
+2633,20358,Delhivery,Delivered,2
+2634,22146,Ekart,Delivered,6
+2635,25232,BlueDart,Delivered,4
+2636,24598,DTDC,Shipped,6
+2637,23794,Delhivery,Packed,6
+2638,20137,BlueDart,Delivered,2
+2639,20148,Delhivery,Processing,6
+2640,21229,Ekart,Processing,1
+2641,25274,DTDC,Processing,4
+2642,22255,BlueDart,Delivered,7
+2643,20189,DTDC,Delivered,3
+2644,21223,BlueDart,Packed,2
+2645,21549,DTDC,Delivered,2
+2646,20976,Delhivery,Out for Delivery,2
+2647,20343,Delhivery,Out for Delivery,6
+2648,21603,Delhivery,Packed,7
+2649,22144,BlueDart,Out for Delivery,6
+2650,25822,DTDC,Packed,3
+2651,25749,DTDC,Shipped,2
+2652,23847,Ekart,Processing,6
+2653,22676,DTDC,Processing,7
+2654,25260,Ekart,Shipped,4
+2655,25435,Ekart,Out for Delivery,6
+2656,24064,Ekart,Processing,6
+2657,23117,DTDC,Packed,3
+2658,25292,Ekart,Shipped,3
+2659,21793,Ekart,Shipped,6
+2660,20538,Ekart,Out for Delivery,6
+2661,23516,DTDC,Shipped,7
+2662,24212,BlueDart,Shipped,5
+2663,21625,Ekart,Delivered,6
+2664,21874,Ekart,Delivered,4
+2665,25161,BlueDart,Out for Delivery,7
+2666,24052,BlueDart,Out for Delivery,4
+2667,22456,Ekart,Packed,2
+2668,20241,DTDC,Out for Delivery,3
+2669,24297,DTDC,Processing,5
+2670,24989,Ekart,Packed,2
+2671,25329,DTDC,Delivered,5
+2672,21790,Ekart,Shipped,2
+2673,25971,DTDC,Delivered,6
+2674,22763,Delhivery,Shipped,1
+2675,25932,Ekart,Shipped,7
+2676,20489,Ekart,Processing,5
+2677,21433,Ekart,Out for Delivery,4
+2678,21354,Delhivery,Processing,4
+2679,21615,Ekart,Packed,7
+2680,24944,BlueDart,Delivered,1
+2681,25710,DTDC,Out for Delivery,2
+2682,24015,BlueDart,Delivered,3
+2683,22209,Ekart,Processing,2
+2684,24606,Delhivery,Processing,4
+2685,21129,Ekart,Delivered,3
+2686,20901,Ekart,Processing,6
+2687,21087,Delhivery,Shipped,3
+2688,20190,BlueDart,Delivered,1
+2689,22554,BlueDart,Shipped,2
+2690,20531,BlueDart,Out for Delivery,5
+2691,22170,BlueDart,Packed,7
+2692,24027,Ekart,Packed,1
+2693,25911,Delhivery,Processing,2
+2694,21958,Ekart,Delivered,1
+2695,22251,BlueDart,Out for Delivery,3
+2696,21513,DTDC,Shipped,2
+2697,24517,DTDC,Out for Delivery,2
+2698,25471,Ekart,Processing,6
+2699,20419,Ekart,Out for Delivery,2
+2700,24330,BlueDart,Delivered,6
+2701,25546,Ekart,Shipped,3
+2702,22804,Delhivery,Shipped,6
+2703,23534,Delhivery,Delivered,7
+2704,25127,Delhivery,Delivered,2
+2705,22656,Delhivery,Processing,4
+2706,25453,Ekart,Shipped,7
+2707,22929,Ekart,Packed,6
+2708,23718,Delhivery,Out for Delivery,2
+2709,23883,BlueDart,Delivered,7
+2710,20882,DTDC,Out for Delivery,2
+2711,22028,DTDC,Shipped,4
+2712,20783,BlueDart,Processing,6
+2713,22601,DTDC,Shipped,4
+2714,25892,BlueDart,Out for Delivery,3
+2715,20832,BlueDart,Out for Delivery,1
+2716,24209,Ekart,Delivered,1
+2717,24188,DTDC,Out for Delivery,2
+2718,20116,Delhivery,Out for Delivery,5
+2719,21918,Delhivery,Delivered,7
+2720,23535,BlueDart,Processing,7
+2721,21925,Ekart,Processing,4
+2722,24048,Delhivery,Shipped,3
+2723,20267,Ekart,Delivered,7
+2724,24835,BlueDart,Packed,6
+2725,25767,DTDC,Out for Delivery,2
+2726,25544,Delhivery,Packed,7
+2727,21764,Ekart,Packed,7
+2728,24351,Delhivery,Shipped,5
+2729,22820,Delhivery,Shipped,6
+2730,21248,Delhivery,Packed,3
+2731,24980,BlueDart,Out for Delivery,3
+2732,23001,Delhivery,Packed,5
+2733,21440,BlueDart,Processing,2
+2734,22092,BlueDart,Out for Delivery,3
+2735,23040,DTDC,Out for Delivery,4
+2736,21514,Delhivery,Processing,6
+2737,22714,Ekart,Delivered,1
+2738,22337,Ekart,Packed,1
+2739,24271,BlueDart,Shipped,2
+2740,23571,Ekart,Packed,7
+2741,20693,Delhivery,Packed,6
+2742,24795,DTDC,Out for Delivery,1
+2743,25556,Delhivery,Shipped,1
+2744,23343,BlueDart,Delivered,1
+2745,25515,DTDC,Delivered,2
+2746,23194,Ekart,Processing,4
+2747,21751,BlueDart,Delivered,1
+2748,23501,BlueDart,Delivered,1
+2749,20439,DTDC,Packed,7
+2750,25068,BlueDart,Packed,1
+2751,24864,BlueDart,Out for Delivery,5
+2752,20619,Ekart,Out for Delivery,2
+2753,25566,DTDC,Out for Delivery,7
+2754,23966,Delhivery,Processing,3
+2755,21122,DTDC,Out for Delivery,1
+2756,23622,Ekart,Shipped,7
+2757,24874,Delhivery,Shipped,7
+2758,21610,Delhivery,Shipped,3
+2759,22604,Delhivery,Processing,7
+2760,21455,Delhivery,Packed,7
+2761,25294,DTDC,Delivered,2
+2762,24592,DTDC,Delivered,5
+2763,20281,BlueDart,Shipped,6
+2764,22837,Delhivery,Packed,5
+2765,22591,DTDC,Out for Delivery,7
+2766,23249,Delhivery,Packed,6
+2767,20390,Ekart,Processing,5
+2768,25889,BlueDart,Shipped,4
+2769,25611,DTDC,Shipped,3
+2770,25124,Delhivery,Delivered,6
+2771,25928,BlueDart,Packed,7
+2772,23474,Delhivery,Processing,1
+2773,21996,BlueDart,Out for Delivery,2
+2774,20588,Delhivery,Shipped,1
+2775,21997,BlueDart,Shipped,4
+2776,20493,Delhivery,Delivered,3
+2777,21309,BlueDart,Processing,1
+2778,21926,BlueDart,Shipped,7
+2779,21934,BlueDart,Processing,7
+2780,24508,BlueDart,Processing,7
+2781,25506,DTDC,Delivered,1
+2782,25929,DTDC,Packed,4
+2783,20075,BlueDart,Delivered,5
+2784,25544,Delhivery,Out for Delivery,2
+2785,23117,Delhivery,Out for Delivery,6
+2786,24181,Ekart,Out for Delivery,4
+2787,23950,BlueDart,Processing,1
+2788,20190,Ekart,Packed,1
+2789,22106,Delhivery,Processing,4
+2790,20073,DTDC,Processing,4
+2791,21978,Ekart,Delivered,3
+2792,20226,Ekart,Processing,2
+2793,21776,DTDC,Processing,5
+2794,23042,Delhivery,Processing,7
+2795,24786,Delhivery,Delivered,3
+2796,25265,Ekart,Shipped,3
+2797,22977,DTDC,Delivered,4
+2798,21162,DTDC,Shipped,3
+2799,23191,Delhivery,Delivered,2
+2800,23716,DTDC,Out for Delivery,1
+2801,21936,DTDC,Out for Delivery,6
+2802,25607,Delhivery,Delivered,5
+2803,23402,BlueDart,Out for Delivery,2
+2804,24790,Ekart,Out for Delivery,1
+2805,21102,DTDC,Out for Delivery,7
+2806,23610,BlueDart,Processing,3
+2807,22978,DTDC,Packed,4
+2808,20807,BlueDart,Delivered,7
+2809,24299,DTDC,Shipped,7
+2810,20382,BlueDart,Packed,2
+2811,25632,Ekart,Out for Delivery,1
+2812,22474,Ekart,Out for Delivery,4
+2813,21442,DTDC,Out for Delivery,2
+2814,25960,BlueDart,Processing,3
+2815,25571,Delhivery,Processing,7
+2816,23745,DTDC,Processing,6
+2817,22443,BlueDart,Processing,3
+2818,21521,Ekart,Delivered,2
+2819,20924,DTDC,Delivered,6
+2820,23453,BlueDart,Out for Delivery,3
+2821,23926,Delhivery,Shipped,4
+2822,22566,DTDC,Delivered,5
+2823,23175,DTDC,Processing,2
+2824,23092,BlueDart,Processing,1
+2825,22280,BlueDart,Out for Delivery,6
+2826,24943,BlueDart,Out for Delivery,6
+2827,21860,Delhivery,Shipped,5
+2828,21484,BlueDart,Delivered,1
+2829,25418,BlueDart,Out for Delivery,1
+2830,23141,Ekart,Delivered,2
+2831,22296,Delhivery,Processing,3
+2832,20409,DTDC,Packed,5
+2833,20772,Delhivery,Delivered,4
+2834,21396,BlueDart,Delivered,2
+2835,22301,DTDC,Processing,5
+2836,21578,Delhivery,Processing,5
+2837,20936,DTDC,Delivered,7
+2838,23281,Delhivery,Out for Delivery,3
+2839,25548,DTDC,Delivered,5
+2840,25973,Ekart,Delivered,4
+2841,22334,DTDC,Delivered,5
+2842,20466,Ekart,Packed,7
+2843,21105,Delhivery,Out for Delivery,1
+2844,20905,Ekart,Delivered,7
+2845,23353,Ekart,Out for Delivery,3
+2846,24234,Delhivery,Delivered,5
+2847,24379,Delhivery,Processing,4
+2848,20631,DTDC,Packed,6
+2849,25610,Ekart,Out for Delivery,7
+2850,21993,Delhivery,Out for Delivery,2
+2851,20772,BlueDart,Delivered,4
+2852,23003,Ekart,Out for Delivery,7
+2853,21459,DTDC,Processing,4
+2854,24889,Ekart,Delivered,4
+2855,21786,DTDC,Delivered,5
+2856,20582,Delhivery,Delivered,7
+2857,21731,Delhivery,Out for Delivery,5
+2858,21366,Delhivery,Processing,7
+2859,21698,Delhivery,Out for Delivery,1
+2860,23490,DTDC,Shipped,2
+2861,25598,BlueDart,Processing,4
+2862,21818,BlueDart,Out for Delivery,1
+2863,21984,Delhivery,Out for Delivery,5
+2864,24317,Ekart,Shipped,5
+2865,20301,Delhivery,Shipped,6
+2866,24933,Delhivery,Packed,4
+2867,25510,BlueDart,Delivered,3
+2868,22424,Ekart,Delivered,7
+2869,22728,BlueDart,Shipped,6
+2870,23450,BlueDart,Delivered,5
+2871,24491,Delhivery,Packed,4
+2872,22282,BlueDart,Delivered,6
+2873,21263,BlueDart,Shipped,7
+2874,22802,Delhivery,Out for Delivery,7
+2875,22231,Delhivery,Delivered,6
+2876,21510,Ekart,Delivered,1
+2877,25156,Ekart,Out for Delivery,7
+2878,23449,BlueDart,Processing,7
+2879,25761,BlueDart,Packed,4
+2880,20306,Delhivery,Delivered,4
+2881,21911,Ekart,Shipped,3
+2882,20801,BlueDart,Delivered,3
+2883,22608,BlueDart,Processing,3
+2884,23192,BlueDart,Processing,5
+2885,21986,Delhivery,Out for Delivery,5
+2886,23277,Ekart,Delivered,1
+2887,25330,DTDC,Shipped,3
+2888,24746,DTDC,Packed,6
+2889,22274,Delhivery,Delivered,6
+2890,25008,BlueDart,Processing,4
+2891,23961,BlueDart,Shipped,6
+2892,20762,DTDC,Out for Delivery,5
+2893,20528,Delhivery,Packed,2
+2894,25093,DTDC,Packed,4
+2895,23710,Delhivery,Out for Delivery,6
+2896,21115,Delhivery,Out for Delivery,6
+2897,21855,Ekart,Processing,6
+2898,21477,Ekart,Packed,6
+2899,21407,BlueDart,Shipped,1
+2900,25639,BlueDart,Processing,4
+2901,25520,BlueDart,Packed,6
+2902,21923,DTDC,Shipped,3
+2903,20119,Delhivery,Delivered,1
+2904,25316,Ekart,Shipped,3
+2905,21378,Ekart,Delivered,7
+2906,22218,BlueDart,Processing,2
+2907,25679,Ekart,Packed,7
+2908,23014,Delhivery,Delivered,3
+2909,23599,DTDC,Shipped,6
+2910,20745,Delhivery,Delivered,4
+2911,25386,Delhivery,Shipped,4
+2912,22245,Delhivery,Delivered,7
+2913,24719,Ekart,Processing,3
+2914,24055,Ekart,Packed,5
+2915,24417,Delhivery,Packed,4
+2916,20319,Ekart,Shipped,7
+2917,25213,BlueDart,Shipped,7
+2918,22661,Delhivery,Delivered,1
+2919,24167,BlueDart,Out for Delivery,7
+2920,20624,Delhivery,Processing,6
+2921,21636,Ekart,Out for Delivery,3
+2922,25051,Ekart,Packed,6
+2923,24735,BlueDart,Processing,6
+2924,21430,BlueDart,Out for Delivery,4
+2925,25826,DTDC,Out for Delivery,5
+2926,25440,DTDC,Delivered,2
+2927,21376,Ekart,Packed,2
+2928,24402,DTDC,Processing,5
+2929,22049,Delhivery,Processing,6
+2930,24439,BlueDart,Delivered,6
+2931,20134,BlueDart,Shipped,2
+2932,22298,BlueDart,Shipped,1
+2933,23102,DTDC,Packed,5
+2934,21539,Ekart,Out for Delivery,2
+2935,21652,Ekart,Delivered,5
+2936,24953,BlueDart,Packed,3
+2937,21710,DTDC,Shipped,1
+2938,24316,DTDC,Out for Delivery,5
+2939,22085,Delhivery,Delivered,4
+2940,22966,Ekart,Packed,3
+2941,22041,BlueDart,Out for Delivery,5
+2942,21095,Ekart,Shipped,1
+2943,23685,Ekart,Packed,3
+2944,20178,Ekart,Packed,7
+2945,24583,Ekart,Delivered,3
+2946,23929,Delhivery,Packed,5
+2947,23498,DTDC,Shipped,3
+2948,21717,Ekart,Delivered,1
+2949,23853,DTDC,Shipped,1
+2950,22119,DTDC,Processing,7
+2951,24502,BlueDart,Processing,1
+2952,24849,Ekart,Shipped,2
+2953,24510,DTDC,Packed,3
+2954,22334,DTDC,Out for Delivery,5
+2955,23553,DTDC,Out for Delivery,5
+2956,24415,Ekart,Out for Delivery,1
+2957,23348,Delhivery,Out for Delivery,6
+2958,25264,Delhivery,Out for Delivery,5
+2959,20422,Delhivery,Shipped,5
+2960,23608,Delhivery,Processing,1
+2961,21761,Ekart,Out for Delivery,1
+2962,22759,DTDC,Out for Delivery,7
+2963,22937,DTDC,Out for Delivery,6
+2964,22669,Delhivery,Shipped,1
+2965,24447,DTDC,Processing,6
+2966,20786,DTDC,Out for Delivery,6
+2967,22397,Ekart,Delivered,6
+2968,25596,BlueDart,Packed,3
+2969,25688,BlueDart,Shipped,5
+2970,25241,DTDC,Delivered,5
+2971,22685,Delhivery,Shipped,3
+2972,20137,Ekart,Out for Delivery,4
+2973,25796,BlueDart,Out for Delivery,3
+2974,22547,Delhivery,Packed,7
+2975,25833,Ekart,Packed,7
+2976,24596,DTDC,Processing,4
+2977,25760,BlueDart,Shipped,7
+2978,23652,Delhivery,Shipped,1
+2979,21066,Ekart,Processing,7
+2980,25591,BlueDart,Delivered,3
+2981,25782,DTDC,Out for Delivery,6
+2982,21413,DTDC,Shipped,5
+2983,20585,DTDC,Packed,5
+2984,25299,Ekart,Delivered,2
+2985,23336,Delhivery,Out for Delivery,2
+2986,22647,Ekart,Packed,1
+2987,25899,Delhivery,Processing,7
+2988,20651,BlueDart,Out for Delivery,5
+2989,24736,DTDC,Delivered,3
+2990,20689,BlueDart,Processing,7
+2991,22409,Ekart,Packed,7
+2992,25801,DTDC,Out for Delivery,3
+2993,24295,DTDC,Out for Delivery,1
+2994,21772,DTDC,Shipped,4
+2995,21202,Delhivery,Packed,6
+2996,23461,BlueDart,Shipped,3
+2997,25571,Ekart,Packed,6
+2998,24876,Ekart,Out for Delivery,5
+2999,24897,DTDC,Packed,2
+3000,20860,Delhivery,Packed,2
+3001,21822,Ekart,Out for Delivery,6
+3002,23455,Delhivery,Out for Delivery,6
+3003,20392,DTDC,Packed,7
+3004,21017,DTDC,Shipped,3
+3005,22928,DTDC,Out for Delivery,4
+3006,21418,DTDC,Packed,4
+3007,22008,DTDC,Out for Delivery,5
+3008,22566,Delhivery,Delivered,5
+3009,24541,DTDC,Out for Delivery,3
+3010,24062,Ekart,Delivered,3
+3011,25605,Ekart,Packed,3
+3012,24116,Ekart,Packed,5
+3013,22902,BlueDart,Out for Delivery,6
+3014,23766,Ekart,Processing,7
+3015,21967,DTDC,Out for Delivery,4
+3016,23440,DTDC,Shipped,1
+3017,22173,BlueDart,Processing,7
+3018,23933,DTDC,Out for Delivery,3
+3019,20660,Ekart,Delivered,4
+3020,22874,BlueDart,Shipped,1
+3021,20623,Ekart,Out for Delivery,7
+3022,21702,BlueDart,Processing,5
+3023,24820,Delhivery,Processing,6
+3024,25879,Delhivery,Delivered,7
+3025,22276,Delhivery,Out for Delivery,3
+3026,23264,Ekart,Delivered,2
+3027,21984,Ekart,Shipped,3
+3028,22001,Ekart,Out for Delivery,3
+3029,22016,Ekart,Packed,2
+3030,25545,BlueDart,Out for Delivery,4
+3031,20262,Delhivery,Processing,3
+3032,23821,Delhivery,Delivered,6
+3033,20645,Delhivery,Processing,6
+3034,22012,Ekart,Delivered,7
+3035,25454,Ekart,Out for Delivery,1
+3036,20645,DTDC,Shipped,1
+3037,20711,Delhivery,Shipped,5
+3038,21762,DTDC,Shipped,4
+3039,23493,Delhivery,Shipped,6
+3040,22511,DTDC,Out for Delivery,4
+3041,20762,DTDC,Delivered,4
+3042,25480,Delhivery,Shipped,6
+3043,23782,DTDC,Out for Delivery,6
+3044,25333,DTDC,Delivered,2
+3045,25802,Delhivery,Shipped,6
+3046,21091,Ekart,Out for Delivery,3
+3047,24919,Ekart,Processing,5
+3048,25259,Delhivery,Shipped,6
+3049,21345,BlueDart,Packed,1
+3050,25981,BlueDart,Delivered,6
+3051,21524,DTDC,Out for Delivery,3
+3052,20143,Ekart,Shipped,7
+3053,23942,BlueDart,Delivered,5
+3054,23460,BlueDart,Packed,1
+3055,22076,Delhivery,Shipped,1
+3056,21772,Delhivery,Delivered,4
+3057,23081,Delhivery,Shipped,4
+3058,22520,DTDC,Packed,2
+3059,24521,Delhivery,Shipped,4
+3060,24099,Ekart,Packed,3
+3061,23730,Ekart,Shipped,7
+3062,21051,Delhivery,Packed,3
+3063,24962,Ekart,Shipped,1
+3064,20137,BlueDart,Packed,7
+3065,24134,DTDC,Packed,7
+3066,22928,Delhivery,Delivered,6
+3067,25587,DTDC,Out for Delivery,3
+3068,24071,DTDC,Shipped,1
+3069,21670,Delhivery,Packed,3
+3070,20626,BlueDart,Processing,2
+3071,22911,Ekart,Packed,3
+3072,23428,Ekart,Delivered,7
+3073,20644,Ekart,Packed,5
+3074,24320,Ekart,Packed,6
+3075,20975,DTDC,Delivered,5
+3076,22686,Ekart,Delivered,7
+3077,25079,Delhivery,Delivered,5
+3078,22487,Delhivery,Packed,5
+3079,23073,Ekart,Shipped,7
+3080,24251,Delhivery,Out for Delivery,4
+3081,22828,BlueDart,Packed,5
+3082,21684,Delhivery,Delivered,2
+3083,22549,Delhivery,Delivered,6
+3084,20337,Delhivery,Packed,5
+3085,20533,Ekart,Out for Delivery,2
+3086,22123,BlueDart,Delivered,7
+3087,21418,Ekart,Packed,1
+3088,25646,Ekart,Delivered,4
+3089,21984,Delhivery,Delivered,6
+3090,20833,BlueDart,Processing,5
+3091,22576,BlueDart,Out for Delivery,2
+3092,22419,Delhivery,Processing,3
+3093,25929,DTDC,Processing,2
+3094,22044,Delhivery,Shipped,6
+3095,22920,Ekart,Packed,7
+3096,20443,Delhivery,Shipped,2
+3097,20320,BlueDart,Processing,7
+3098,22518,Ekart,Processing,4
+3099,23613,Delhivery,Processing,1
+3100,25052,DTDC,Shipped,5
+3101,24498,Ekart,Shipped,3
+3102,23741,DTDC,Out for Delivery,2
+3103,22503,Ekart,Shipped,1
+3104,24575,BlueDart,Delivered,5
+3105,20806,BlueDart,Out for Delivery,5
+3106,24899,Ekart,Shipped,2
+3107,20452,DTDC,Shipped,6
+3108,20673,Delhivery,Processing,4
+3109,20858,DTDC,Out for Delivery,6
+3110,25046,Delhivery,Processing,1
+3111,25754,BlueDart,Packed,6
+3112,22049,BlueDart,Processing,4
+3113,24388,BlueDart,Out for Delivery,7
+3114,24125,BlueDart,Packed,6
+3115,20686,DTDC,Shipped,6
+3116,23295,BlueDart,Out for Delivery,7
+3117,25065,DTDC,Packed,1
+3118,24335,BlueDart,Shipped,4
+3119,24694,Delhivery,Processing,1
+3120,22829,BlueDart,Packed,6
+3121,25195,Ekart,Out for Delivery,2
+3122,21087,DTDC,Processing,6
+3123,21649,BlueDart,Packed,1
+3124,20382,DTDC,Shipped,5
+3125,22783,DTDC,Packed,3
+3126,21568,DTDC,Processing,2
+3127,24998,Ekart,Processing,3
+3128,22742,BlueDart,Processing,3
+3129,25546,Delhivery,Packed,6
+3130,24228,DTDC,Processing,7
+3131,23114,Delhivery,Shipped,5
+3132,20235,BlueDart,Packed,3
+3133,20105,DTDC,Shipped,7
+3134,22462,DTDC,Shipped,4
+3135,23270,Ekart,Processing,6
+3136,24748,Delhivery,Shipped,7
+3137,20684,Ekart,Out for Delivery,4
+3138,25635,Ekart,Packed,1
+3139,20769,DTDC,Shipped,6
+3140,22904,DTDC,Packed,2
+3141,24218,DTDC,Delivered,5
+3142,24182,DTDC,Out for Delivery,3
+3143,23487,BlueDart,Processing,2
+3144,23190,Delhivery,Out for Delivery,6
+3145,21049,BlueDart,Delivered,1
+3146,20723,Delhivery,Packed,5
+3147,23131,Delhivery,Shipped,4
+3148,24827,Ekart,Out for Delivery,1
+3149,24731,Delhivery,Packed,5
+3150,20137,BlueDart,Shipped,1
+3151,25907,Ekart,Delivered,5
+3152,22644,BlueDart,Delivered,2
+3153,25884,Ekart,Shipped,1
+3154,24827,Delhivery,Shipped,4
+3155,24616,Delhivery,Shipped,2
+3156,22521,DTDC,Packed,5
+3157,21961,Ekart,Processing,6
+3158,23350,DTDC,Packed,6
+3159,20462,Ekart,Packed,2
+3160,25387,DTDC,Out for Delivery,1
+3161,24560,Ekart,Delivered,7
+3162,24236,DTDC,Delivered,6
+3163,23391,Ekart,Out for Delivery,6
+3164,25414,BlueDart,Delivered,2
+3165,23012,BlueDart,Packed,5
+3166,21350,Delhivery,Processing,5
+3167,21789,BlueDart,Packed,3
+3168,21718,Delhivery,Out for Delivery,5
+3169,24213,Ekart,Out for Delivery,5
+3170,25960,Ekart,Out for Delivery,4
+3171,23355,DTDC,Delivered,1
+3172,25004,DTDC,Shipped,3
+3173,24520,BlueDart,Out for Delivery,3
+3174,22300,Ekart,Delivered,4
+3175,22743,BlueDart,Processing,2
+3176,22928,BlueDart,Processing,4
+3177,22641,Ekart,Shipped,5
+3178,25149,BlueDart,Delivered,6
+3179,25101,DTDC,Shipped,5
+3180,25805,DTDC,Shipped,1
+3181,25619,Delhivery,Shipped,5
+3182,23161,BlueDart,Out for Delivery,4
+3183,22648,Delhivery,Processing,7
+3184,25056,DTDC,Out for Delivery,3
+3185,22742,BlueDart,Shipped,5
+3186,23329,Ekart,Shipped,1
+3187,22935,DTDC,Shipped,1
+3188,25009,DTDC,Out for Delivery,5
+3189,24906,DTDC,Packed,6
+3190,20066,Delhivery,Delivered,2
+3191,22876,BlueDart,Processing,7
+3192,20904,DTDC,Packed,7
+3193,20309,Delhivery,Shipped,5
+3194,23895,BlueDart,Packed,3
+3195,21185,BlueDart,Delivered,3
+3196,24436,BlueDart,Shipped,7
+3197,25430,BlueDart,Out for Delivery,4
+3198,23361,Delhivery,Delivered,6
+3199,24260,Ekart,Out for Delivery,6
+3200,25687,Delhivery,Processing,7
+3201,25192,Delhivery,Shipped,1
+3202,21672,BlueDart,Shipped,5
+3203,20042,Delhivery,Shipped,7
+3204,21796,DTDC,Packed,3
+3205,24318,DTDC,Out for Delivery,6
+3206,23982,Delhivery,Shipped,3
+3207,22140,Ekart,Out for Delivery,1
+3208,22827,BlueDart,Delivered,2
+3209,23220,Delhivery,Delivered,4
+3210,23970,Ekart,Out for Delivery,6
+3211,25739,BlueDart,Out for Delivery,2
+3212,20394,Ekart,Packed,4
+3213,25708,Ekart,Delivered,5
+3214,20516,Delhivery,Delivered,6
+3215,21255,Ekart,Out for Delivery,4
+3216,25133,BlueDart,Delivered,3
+3217,20349,BlueDart,Processing,3
+3218,22630,BlueDart,Delivered,2
+3219,20161,DTDC,Out for Delivery,3
+3220,22622,BlueDart,Processing,2
+3221,23165,BlueDart,Out for Delivery,3
+3222,21783,Ekart,Out for Delivery,4
+3223,25254,Ekart,Shipped,6
+3224,23240,Delhivery,Out for Delivery,5
+3225,24994,Delhivery,Out for Delivery,7
+3226,22814,Delhivery,Delivered,6
+3227,24666,Delhivery,Delivered,5
+3228,20530,DTDC,Out for Delivery,3
+3229,23034,Delhivery,Packed,5
+3230,25551,Ekart,Shipped,1
+3231,22514,BlueDart,Shipped,2
+3232,25507,Delhivery,Out for Delivery,3
+3233,25079,BlueDart,Delivered,7
+3234,25513,BlueDart,Delivered,7
+3235,25277,Ekart,Delivered,4
+3236,22230,DTDC,Out for Delivery,4
+3237,22872,DTDC,Shipped,5
+3238,20301,DTDC,Processing,3
+3239,22672,Ekart,Delivered,3
+3240,25314,BlueDart,Shipped,2
+3241,23539,DTDC,Out for Delivery,1
+3242,22755,DTDC,Delivered,2
+3243,21154,Delhivery,Delivered,3
+3244,25018,Delhivery,Out for Delivery,4
+3245,25685,BlueDart,Shipped,7
+3246,20923,Ekart,Packed,3
+3247,24864,DTDC,Out for Delivery,1
+3248,20418,Delhivery,Processing,1
+3249,22729,Ekart,Out for Delivery,4
+3250,21874,Ekart,Delivered,3
+3251,21970,Delhivery,Shipped,6
+3252,24396,DTDC,Packed,2
+3253,22887,Ekart,Out for Delivery,5
+3254,22759,DTDC,Shipped,1
+3255,21829,Ekart,Shipped,6
+3256,25991,DTDC,Shipped,1
+3257,23224,Ekart,Shipped,4
+3258,21754,Ekart,Packed,2
+3259,21185,Ekart,Shipped,3
+3260,24528,Delhivery,Delivered,7
+3261,22819,DTDC,Delivered,3
+3262,23997,Ekart,Delivered,1
+3263,25355,DTDC,Out for Delivery,1
+3264,21273,Ekart,Processing,7
+3265,21585,DTDC,Packed,2
+3266,21749,Ekart,Out for Delivery,1
+3267,22463,Delhivery,Out for Delivery,1
+3268,22062,DTDC,Delivered,4
+3269,25191,Delhivery,Shipped,6
+3270,24037,DTDC,Packed,3
+3271,21020,Ekart,Shipped,5
+3272,22786,Delhivery,Delivered,6
+3273,21776,DTDC,Shipped,3
+3274,25849,DTDC,Processing,1
+3275,23781,Delhivery,Packed,5
+3276,23181,Delhivery,Processing,1
+3277,23770,Ekart,Delivered,6
+3278,20256,Delhivery,Processing,4
+3279,20289,DTDC,Out for Delivery,5
+3280,25294,Ekart,Delivered,1
+3281,24005,DTDC,Delivered,2
+3282,24334,Ekart,Shipped,6
+3283,20802,DTDC,Packed,1
+3284,22992,BlueDart,Delivered,7
+3285,24796,DTDC,Out for Delivery,4
+3286,25545,BlueDart,Shipped,2
+3287,23510,DTDC,Packed,3
+3288,25520,Ekart,Delivered,5
+3289,23339,Delhivery,Out for Delivery,1
+3290,23723,BlueDart,Packed,5
+3291,24411,BlueDart,Shipped,7
+3292,20700,BlueDart,Packed,7
+3293,22830,Delhivery,Packed,5
+3294,20060,Delhivery,Shipped,2
+3295,20387,DTDC,Shipped,2
+3296,24035,Ekart,Delivered,2
+3297,23541,DTDC,Packed,3
+3298,23931,DTDC,Out for Delivery,7
+3299,20513,Ekart,Delivered,1
+3300,21606,Delhivery,Processing,4
+3301,25518,BlueDart,Shipped,7
+3302,25152,DTDC,Shipped,5
+3303,21257,DTDC,Processing,5
+3304,21427,Ekart,Packed,6
+3305,23401,BlueDart,Out for Delivery,7
+3306,24844,Ekart,Processing,2
+3307,24150,DTDC,Out for Delivery,5
+3308,20850,Delhivery,Packed,6
+3309,21053,BlueDart,Packed,1
+3310,22162,BlueDart,Shipped,7
+3311,21304,DTDC,Processing,1
+3312,24798,DTDC,Delivered,5
+3313,21203,Ekart,Delivered,7
+3314,22508,DTDC,Shipped,4
+3315,22164,Ekart,Out for Delivery,3
+3316,25735,BlueDart,Packed,3
+3317,25624,Ekart,Shipped,3
+3318,20626,Delhivery,Delivered,1
+3319,25633,Ekart,Processing,2
+3320,23130,DTDC,Packed,5
+3321,20150,Ekart,Packed,1
+3322,21689,Delhivery,Delivered,2
+3323,23642,DTDC,Delivered,3
+3324,20817,Ekart,Out for Delivery,1
+3325,22132,DTDC,Packed,2
+3326,20229,Delhivery,Shipped,6
+3327,24279,BlueDart,Packed,2
+3328,22652,Ekart,Processing,1
+3329,20912,BlueDart,Out for Delivery,2
+3330,24438,BlueDart,Out for Delivery,1
+3331,21603,Delhivery,Delivered,4
+3332,23235,Ekart,Out for Delivery,4
+3333,20379,Delhivery,Out for Delivery,6
+3334,25448,DTDC,Out for Delivery,1
+3335,24453,BlueDart,Out for Delivery,4
+3336,21183,Ekart,Processing,4
+3337,23450,DTDC,Processing,6
+3338,23409,BlueDart,Processing,4
+3339,21207,Delhivery,Shipped,5
+3340,24289,DTDC,Delivered,1
+3341,25381,Ekart,Processing,5
+3342,23195,BlueDart,Processing,2
+3343,25500,BlueDart,Out for Delivery,7
+3344,22437,Ekart,Out for Delivery,3
+3345,25037,DTDC,Out for Delivery,3
+3346,20895,Delhivery,Out for Delivery,1
+3347,22646,BlueDart,Delivered,6
+3348,20168,DTDC,Shipped,7
+3349,24663,Delhivery,Delivered,6
+3350,25814,DTDC,Processing,2
+3351,22445,BlueDart,Shipped,7
+3352,25424,Delhivery,Delivered,4
+3353,25593,Delhivery,Processing,5
+3354,20567,Ekart,Delivered,5
+3355,20818,BlueDart,Out for Delivery,5
+3356,21165,DTDC,Out for Delivery,1
+3357,23788,Ekart,Packed,1
+3358,22721,BlueDart,Processing,5
+3359,22040,DTDC,Packed,7
+3360,22793,BlueDart,Out for Delivery,7
+3361,20029,BlueDart,Packed,1
+3362,23469,Delhivery,Delivered,6
+3363,24179,DTDC,Shipped,7
+3364,22264,Delhivery,Packed,7
+3365,24944,BlueDart,Packed,7
+3366,23016,BlueDart,Delivered,7
+3367,22442,BlueDart,Delivered,6
+3368,20678,Delhivery,Out for Delivery,3
+3369,23676,BlueDart,Shipped,7
+3370,20692,DTDC,Shipped,3
+3371,22079,DTDC,Delivered,2
+3372,25655,Ekart,Processing,1
+3373,21335,Delhivery,Shipped,1
+3374,20725,BlueDart,Delivered,2
+3375,21552,Delhivery,Delivered,3
+3376,23012,DTDC,Delivered,5
+3377,20098,BlueDart,Shipped,7
+3378,24939,DTDC,Processing,4
+3379,24039,Delhivery,Out for Delivery,6
+3380,20220,BlueDart,Processing,3
+3381,23366,DTDC,Processing,5
+3382,22486,Delhivery,Packed,3
+3383,25724,DTDC,Processing,3
+3384,20764,DTDC,Shipped,5
+3385,21900,Ekart,Packed,2
+3386,23672,DTDC,Delivered,3
+3387,20945,DTDC,Out for Delivery,4
+3388,23808,DTDC,Processing,1
+3389,23177,Ekart,Packed,3
+3390,22660,DTDC,Packed,7
+3391,20656,DTDC,Packed,1
+3392,21865,BlueDart,Packed,3
+3393,24753,DTDC,Out for Delivery,3
+3394,24095,Ekart,Shipped,1
+3395,20003,Ekart,Delivered,3
+3396,24370,Delhivery,Delivered,3
+3397,25742,DTDC,Packed,7
+3398,20960,Delhivery,Shipped,4
+3399,20161,Ekart,Shipped,2
+3400,23963,Delhivery,Out for Delivery,5
+3401,24782,Ekart,Delivered,6
+3402,22449,DTDC,Out for Delivery,7
+3403,20962,Delhivery,Processing,1
+3404,23966,DTDC,Out for Delivery,3
+3405,23683,Ekart,Shipped,6
+3406,22877,DTDC,Shipped,4
+3407,21228,DTDC,Packed,2
+3408,23174,BlueDart,Shipped,5
+3409,22768,Ekart,Processing,7
+3410,21665,Delhivery,Delivered,5
+3411,22113,DTDC,Delivered,7
+3412,22858,DTDC,Processing,7
+3413,23555,DTDC,Delivered,6
+3414,24895,BlueDart,Out for Delivery,1
+3415,21790,BlueDart,Out for Delivery,7
+3416,24489,DTDC,Processing,5
+3417,23628,DTDC,Out for Delivery,4
+3418,24884,Ekart,Out for Delivery,1
+3419,25360,BlueDart,Delivered,5
+3420,23329,BlueDart,Out for Delivery,2
+3421,24072,DTDC,Delivered,2
+3422,23638,Delhivery,Processing,1
+3423,23587,BlueDart,Shipped,1
+3424,21066,DTDC,Packed,2
+3425,25413,Delhivery,Out for Delivery,5
+3426,25351,BlueDart,Shipped,2
+3427,21344,BlueDart,Packed,6
+3428,21982,Delhivery,Packed,2
+3429,25053,BlueDart,Shipped,3
+3430,23106,Delhivery,Out for Delivery,7
+3431,25803,Delhivery,Out for Delivery,5
+3432,22119,BlueDart,Processing,4
+3433,25014,Ekart,Packed,2
+3434,22794,DTDC,Delivered,4
+3435,22647,BlueDart,Delivered,3
+3436,20741,BlueDart,Delivered,3
+3437,21987,DTDC,Processing,1
+3438,23134,Ekart,Shipped,5
+3439,24553,Ekart,Shipped,5
+3440,23923,Ekart,Packed,1
+3441,20954,Delhivery,Shipped,2
+3442,22967,Ekart,Shipped,2
+3443,24337,Delhivery,Shipped,2
+3444,23638,DTDC,Shipped,2
+3445,22992,Ekart,Processing,4
+3446,24565,DTDC,Delivered,5
+3447,25223,DTDC,Delivered,4
+3448,20225,BlueDart,Processing,2
+3449,25916,BlueDart,Packed,1
+3450,22041,Delhivery,Out for Delivery,1
+3451,20763,Ekart,Delivered,4
+3452,23398,BlueDart,Delivered,7
+3453,24725,BlueDart,Delivered,7
+3454,23867,DTDC,Packed,5
+3455,24072,BlueDart,Processing,3
+3456,21291,Ekart,Delivered,3
+3457,23349,BlueDart,Delivered,7
+3458,20927,DTDC,Delivered,4
+3459,22538,Ekart,Processing,4
+3460,20069,BlueDart,Packed,7
+3461,21498,Delhivery,Out for Delivery,1
+3462,20159,Ekart,Processing,6
+3463,20339,BlueDart,Delivered,4
+3464,22558,Ekart,Processing,2
+3465,20174,BlueDart,Packed,6
+3466,25762,Delhivery,Processing,6
+3467,24007,Ekart,Shipped,3
+3468,22225,Delhivery,Out for Delivery,3
+3469,24341,DTDC,Delivered,2
+3470,25395,Delhivery,Processing,7
+3471,22205,DTDC,Out for Delivery,2
+3472,23822,Ekart,Processing,7
+3473,20801,Ekart,Packed,4
+3474,25579,DTDC,Shipped,3
+3475,21400,Delhivery,Packed,7
+3476,25909,DTDC,Processing,4
+3477,24380,Ekart,Shipped,6
+3478,24448,BlueDart,Packed,1
+3479,24693,Ekart,Delivered,4
+3480,21162,BlueDart,Delivered,2
+3481,23260,Delhivery,Out for Delivery,1
+3482,20721,Ekart,Shipped,4
+3483,24870,BlueDart,Packed,2
+3484,23288,DTDC,Processing,3
+3485,25437,Ekart,Delivered,6
+3486,20817,DTDC,Processing,1
+3487,22990,Delhivery,Processing,5
+3488,23542,DTDC,Delivered,7
+3489,23960,BlueDart,Processing,5
+3490,21058,Ekart,Processing,5
+3491,21071,Delhivery,Processing,7
+3492,24607,BlueDart,Delivered,6
+3493,25906,Ekart,Packed,2
+3494,21859,BlueDart,Delivered,4
+3495,20031,Ekart,Delivered,6
+3496,21620,DTDC,Delivered,3
+3497,24142,BlueDart,Delivered,1
+3498,22816,Ekart,Shipped,7
+3499,21024,Delhivery,Out for Delivery,7
+3500,21729,DTDC,Processing,3
+3501,24928,BlueDart,Processing,7
+3502,23823,Ekart,Out for Delivery,3
+3503,25702,Delhivery,Shipped,2
+3504,22450,DTDC,Packed,5
+3505,23376,BlueDart,Out for Delivery,2
+3506,22834,Delhivery,Delivered,5
+3507,21948,Delhivery,Packed,3
+3508,25351,DTDC,Out for Delivery,2
+3509,25291,DTDC,Out for Delivery,4
+3510,21408,Ekart,Shipped,2
+3511,25205,Ekart,Packed,6
+3512,22807,Ekart,Delivered,4
+3513,24251,DTDC,Packed,5
+3514,23084,Ekart,Out for Delivery,1
+3515,22766,DTDC,Shipped,2
+3516,24248,Delhivery,Packed,5
+3517,24681,Delhivery,Packed,3
+3518,24375,Delhivery,Shipped,2
+3519,22401,DTDC,Delivered,7
+3520,23431,Delhivery,Processing,6
+3521,20409,Ekart,Processing,5
+3522,20540,DTDC,Shipped,4
+3523,21869,DTDC,Out for Delivery,2
+3524,22360,BlueDart,Out for Delivery,4
+3525,25690,BlueDart,Packed,3
+3526,22144,BlueDart,Processing,2
+3527,23380,BlueDart,Processing,5
+3528,20693,Ekart,Processing,1
+3529,25561,Ekart,Packed,4
+3530,21981,Delhivery,Processing,7
+3531,23770,BlueDart,Packed,4
+3532,22546,Delhivery,Shipped,4
+3533,22690,DTDC,Delivered,7
+3534,20105,Delhivery,Processing,5
+3535,22179,BlueDart,Delivered,7
+3536,21825,BlueDart,Shipped,5
+3537,24322,Ekart,Out for Delivery,7
+3538,22509,BlueDart,Packed,5
+3539,24414,BlueDart,Shipped,5
+3540,23419,DTDC,Out for Delivery,7
+3541,23905,Delhivery,Shipped,2
+3542,24876,Delhivery,Packed,2
+3543,23534,BlueDart,Shipped,4
+3544,25969,BlueDart,Out for Delivery,3
+3545,20087,Delhivery,Packed,2
+3546,24958,Delhivery,Delivered,1
+3547,25761,Delhivery,Out for Delivery,3
+3548,23714,DTDC,Processing,7
+3549,25284,Ekart,Shipped,2
+3550,23700,DTDC,Packed,7
+3551,25781,Ekart,Shipped,3
+3552,25396,Delhivery,Shipped,2
+3553,25254,BlueDart,Processing,4
+3554,25073,DTDC,Delivered,2
+3555,25932,Delhivery,Out for Delivery,4
+3556,22980,Ekart,Delivered,2
+3557,25096,BlueDart,Shipped,2
+3558,25603,DTDC,Delivered,1
+3559,22271,Ekart,Packed,6
+3560,25504,BlueDart,Shipped,2
+3561,24206,DTDC,Delivered,6
+3562,21823,Ekart,Out for Delivery,2
+3563,22033,Delhivery,Packed,2
+3564,20162,DTDC,Packed,3
+3565,22789,BlueDart,Packed,1
+3566,21482,BlueDart,Out for Delivery,3
+3567,20832,BlueDart,Packed,3
+3568,23897,Ekart,Processing,6
+3569,24670,Ekart,Packed,6
+3570,23758,BlueDart,Processing,2
+3571,21886,Ekart,Processing,3
+3572,20595,DTDC,Processing,2
+3573,22037,BlueDart,Shipped,1
+3574,20233,DTDC,Processing,3
+3575,22921,Ekart,Delivered,7
+3576,24085,Delhivery,Delivered,3
+3577,25195,Delhivery,Shipped,2
+3578,21248,Ekart,Shipped,4
+3579,22504,Delhivery,Processing,5
+3580,25085,BlueDart,Shipped,7
+3581,23050,Delhivery,Packed,3
+3582,21906,Delhivery,Out for Delivery,7
+3583,24235,Delhivery,Delivered,1
+3584,22044,Ekart,Processing,3
+3585,25862,BlueDart,Shipped,5
+3586,22081,Delhivery,Delivered,6
+3587,23854,Delhivery,Shipped,6
+3588,24074,Ekart,Shipped,4
+3589,20994,DTDC,Out for Delivery,7
+3590,21890,BlueDart,Delivered,6
+3591,25322,BlueDart,Shipped,4
+3592,22016,Delhivery,Out for Delivery,1
+3593,23363,BlueDart,Processing,6
+3594,25486,Ekart,Out for Delivery,2
+3595,22589,BlueDart,Processing,7
+3596,20007,DTDC,Out for Delivery,1
+3597,22562,Delhivery,Shipped,2
+3598,20449,Ekart,Delivered,5
+3599,25403,DTDC,Delivered,7
+3600,22937,DTDC,Delivered,4
+3601,23774,Delhivery,Shipped,2
+3602,25619,BlueDart,Out for Delivery,1
+3603,24139,Delhivery,Delivered,1
+3604,20896,Delhivery,Processing,3
+3605,23421,Delhivery,Processing,6
+3606,21774,BlueDart,Out for Delivery,7
+3607,24207,Delhivery,Delivered,5
+3608,21697,Delhivery,Shipped,7
+3609,23201,Delhivery,Out for Delivery,2
+3610,24546,Delhivery,Out for Delivery,5
+3611,23876,Ekart,Processing,5
+3612,25612,Ekart,Out for Delivery,5
+3613,20375,Ekart,Processing,6
+3614,24844,DTDC,Shipped,4
+3615,24562,BlueDart,Out for Delivery,4
+3616,21443,Delhivery,Processing,4
+3617,21279,DTDC,Packed,7
+3618,20015,Delhivery,Shipped,4
+3619,21265,BlueDart,Out for Delivery,2
+3620,22882,DTDC,Shipped,1
+3621,23819,BlueDart,Processing,5
+3622,21819,Delhivery,Out for Delivery,5
+3623,23633,Ekart,Processing,6
+3624,22092,Ekart,Shipped,5
+3625,24495,BlueDart,Out for Delivery,4
+3626,20651,Ekart,Out for Delivery,4
+3627,22159,Delhivery,Out for Delivery,4
+3628,24316,DTDC,Out for Delivery,3
+3629,20561,Ekart,Out for Delivery,1
+3630,20689,DTDC,Shipped,3
+3631,23532,Delhivery,Shipped,6
+3632,24978,Ekart,Out for Delivery,2
+3633,22488,BlueDart,Processing,5
+3634,20400,DTDC,Packed,5
+3635,21201,Delhivery,Processing,2
+3636,22864,Ekart,Out for Delivery,3
+3637,21753,BlueDart,Out for Delivery,6
+3638,23907,DTDC,Packed,1
+3639,25547,BlueDart,Processing,4
+3640,24057,DTDC,Processing,5
+3641,21318,DTDC,Processing,3
+3642,22320,DTDC,Packed,1
+3643,20848,BlueDart,Shipped,6
+3644,20472,BlueDart,Shipped,7
+3645,22377,Ekart,Shipped,1
+3646,25392,Delhivery,Shipped,3
+3647,24833,Delhivery,Delivered,6
+3648,25898,Delhivery,Delivered,5
+3649,24511,BlueDart,Delivered,7
+3650,24064,DTDC,Out for Delivery,2
+3651,24264,DTDC,Packed,3
+3652,23093,Delhivery,Out for Delivery,2
+3653,20109,BlueDart,Shipped,2
+3654,24311,BlueDart,Processing,1
+3655,20246,Delhivery,Shipped,2
+3656,22564,BlueDart,Delivered,3
+3657,25067,BlueDart,Processing,4
+3658,25666,Ekart,Processing,4
+3659,24655,DTDC,Shipped,3
+3660,23386,DTDC,Packed,5
+3661,25073,DTDC,Packed,3
+3662,20818,DTDC,Packed,2
+3663,22760,BlueDart,Out for Delivery,7
+3664,22682,DTDC,Processing,1
+3665,21360,BlueDart,Packed,1
+3666,21063,BlueDart,Shipped,1
+3667,23050,DTDC,Out for Delivery,4
+3668,20837,BlueDart,Shipped,1
+3669,25401,Ekart,Delivered,5
+3670,20357,Ekart,Processing,5
+3671,25154,BlueDart,Delivered,1
+3672,22760,Delhivery,Out for Delivery,4
+3673,23534,Delhivery,Delivered,7
+3674,20941,BlueDart,Packed,5
+3675,21042,DTDC,Delivered,5
+3676,22408,Ekart,Out for Delivery,6
+3677,25032,Delhivery,Delivered,5
+3678,23127,BlueDart,Out for Delivery,1
+3679,22674,BlueDart,Out for Delivery,4
+3680,25010,Ekart,Delivered,7
+3681,22309,Ekart,Shipped,2
+3682,20122,BlueDart,Packed,7
+3683,22127,BlueDart,Shipped,5
+3684,24459,DTDC,Packed,6
+3685,20578,BlueDart,Out for Delivery,2
+3686,23785,Delhivery,Shipped,3
+3687,20341,BlueDart,Processing,7
+3688,20901,Delhivery,Packed,4
+3689,25563,DTDC,Delivered,7
+3690,20998,Ekart,Processing,5
+3691,22037,DTDC,Processing,4
+3692,20699,Delhivery,Shipped,4
+3693,20758,Delhivery,Processing,7
+3694,24753,BlueDart,Shipped,7
+3695,23100,BlueDart,Shipped,6
+3696,23983,DTDC,Delivered,5
+3697,25482,BlueDart,Shipped,1
+3698,20371,BlueDart,Shipped,1
+3699,22302,Delhivery,Packed,7
+3700,20572,Delhivery,Processing,7
+3701,24607,Delhivery,Shipped,1
+3702,22801,Delhivery,Packed,2
+3703,22580,Delhivery,Out for Delivery,7
+3704,24811,Delhivery,Shipped,3
+3705,23690,Delhivery,Delivered,3
+3706,23393,Delhivery,Delivered,6
+3707,22252,Delhivery,Out for Delivery,4
+3708,20820,Ekart,Delivered,4
+3709,24314,BlueDart,Processing,1
+3710,21622,Delhivery,Shipped,7
+3711,22898,DTDC,Shipped,3
+3712,23882,BlueDart,Packed,4
+3713,22688,DTDC,Delivered,3
+3714,20448,DTDC,Shipped,1
+3715,21823,BlueDart,Out for Delivery,3
+3716,22116,DTDC,Processing,5
+3717,21882,BlueDart,Delivered,1
+3718,25801,BlueDart,Out for Delivery,6
+3719,25038,Ekart,Processing,2
+3720,25162,DTDC,Shipped,1
+3721,20036,DTDC,Processing,2
+3722,21375,DTDC,Out for Delivery,3
+3723,21915,Delhivery,Delivered,1
+3724,22849,DTDC,Out for Delivery,2
+3725,20718,Delhivery,Processing,1
+3726,24374,DTDC,Shipped,3
+3727,23335,Delhivery,Packed,3
+3728,21851,DTDC,Processing,4
+3729,22365,Delhivery,Processing,3
+3730,23612,Ekart,Delivered,4
+3731,23801,Ekart,Delivered,4
+3732,25207,Ekart,Delivered,3
+3733,24234,Delhivery,Out for Delivery,1
+3734,25322,BlueDart,Out for Delivery,7
+3735,20873,Delhivery,Processing,4
+3736,23839,Delhivery,Processing,4
+3737,23984,BlueDart,Out for Delivery,3
+3738,24704,Ekart,Delivered,2
+3739,21655,Delhivery,Out for Delivery,5
+3740,20846,Delhivery,Processing,4
+3741,20874,DTDC,Processing,1
+3742,22278,Delhivery,Packed,1
+3743,22196,Ekart,Shipped,1
+3744,22922,Ekart,Delivered,4
+3745,23668,Ekart,Packed,2
+3746,21912,Ekart,Delivered,6
+3747,23336,Ekart,Shipped,2
+3748,21875,Delhivery,Out for Delivery,7
+3749,25569,Delhivery,Packed,6
+3750,21919,Ekart,Packed,1
+3751,20454,Ekart,Delivered,6
+3752,24798,BlueDart,Out for Delivery,6
+3753,23312,Ekart,Packed,6
+3754,23162,Delhivery,Delivered,4
+3755,25306,DTDC,Packed,1
+3756,23723,BlueDart,Delivered,7
+3757,22486,DTDC,Packed,3
+3758,24150,DTDC,Packed,2
+3759,24589,Ekart,Delivered,4
+3760,22700,BlueDart,Delivered,2
+3761,23926,DTDC,Delivered,4
+3762,25438,Delhivery,Shipped,6
+3763,20641,BlueDart,Shipped,5
+3764,21645,Delhivery,Out for Delivery,5
+3765,23200,DTDC,Processing,4
+3766,20049,Ekart,Shipped,5
+3767,25252,Delhivery,Out for Delivery,7
+3768,21876,Ekart,Out for Delivery,5
+3769,21027,Delhivery,Processing,4
+3770,21117,Ekart,Processing,4
+3771,25714,BlueDart,Shipped,7
+3772,22155,DTDC,Shipped,4
+3773,21710,DTDC,Processing,1
+3774,22425,Ekart,Shipped,4
+3775,20041,BlueDart,Delivered,6
+3776,21945,Ekart,Packed,4
+3777,25699,Delhivery,Delivered,4
+3778,23257,BlueDart,Shipped,3
+3779,21034,Delhivery,Shipped,1
+3780,25089,BlueDart,Out for Delivery,1
+3781,20059,Delhivery,Processing,7
+3782,20911,Delhivery,Processing,7
+3783,22677,DTDC,Processing,4
+3784,20577,DTDC,Packed,5
+3785,22113,Ekart,Delivered,6
+3786,24213,Delhivery,Packed,1
+3787,21893,Delhivery,Processing,6
+3788,24556,BlueDart,Packed,5
+3789,22482,DTDC,Delivered,5
+3790,20420,DTDC,Out for Delivery,2
+3791,21611,BlueDart,Processing,1
+3792,22161,Ekart,Delivered,1
+3793,24046,DTDC,Packed,6
+3794,23381,Ekart,Shipped,6
+3795,23433,Delhivery,Delivered,2
+3796,21036,Delhivery,Delivered,5
+3797,21116,BlueDart,Processing,4
+3798,21748,Delhivery,Delivered,6
+3799,23258,Ekart,Processing,4
+3800,23150,Delhivery,Packed,7
+3801,20239,BlueDart,Packed,4
+3802,22145,Delhivery,Out for Delivery,5
+3803,21956,DTDC,Delivered,2
+3804,22596,Delhivery,Out for Delivery,7
+3805,23789,DTDC,Shipped,1
+3806,21998,BlueDart,Packed,7
+3807,24731,Delhivery,Delivered,6
+3808,21869,BlueDart,Shipped,2
+3809,24372,BlueDart,Out for Delivery,7
+3810,23721,Delhivery,Packed,4
+3811,24936,BlueDart,Out for Delivery,5
+3812,22131,Ekart,Packed,2
+3813,22565,BlueDart,Delivered,4
+3814,22108,Ekart,Shipped,6
+3815,24262,Ekart,Packed,7
+3816,25160,DTDC,Delivered,4
+3817,24156,Delhivery,Processing,1
+3818,22533,BlueDart,Packed,1
+3819,23491,Ekart,Processing,5
+3820,25797,Delhivery,Shipped,5
+3821,24094,DTDC,Processing,7
+3822,22736,Ekart,Shipped,5
+3823,25529,Delhivery,Out for Delivery,6
+3824,21368,DTDC,Delivered,4
+3825,24996,Delhivery,Packed,3
+3826,24728,Delhivery,Packed,1
+3827,25843,Ekart,Out for Delivery,2
+3828,23834,BlueDart,Processing,4
+3829,21463,DTDC,Out for Delivery,6
+3830,20185,BlueDart,Packed,2
+3831,22655,Ekart,Processing,5
+3832,20055,BlueDart,Delivered,3
+3833,22824,DTDC,Out for Delivery,7
+3834,21863,DTDC,Delivered,2
+3835,24929,Ekart,Out for Delivery,7
+3836,24743,Ekart,Shipped,1
+3837,24623,BlueDart,Shipped,6
+3838,23699,Ekart,Processing,1
+3839,20528,DTDC,Packed,4
+3840,23736,Delhivery,Packed,6
+3841,24323,DTDC,Packed,3
+3842,23220,DTDC,Out for Delivery,1
+3843,20848,BlueDart,Shipped,5
+3844,22390,BlueDart,Packed,2
+3845,20251,Delhivery,Delivered,1
+3846,22962,DTDC,Packed,1
+3847,24163,BlueDart,Delivered,2
+3848,25147,Ekart,Delivered,2
+3849,24189,DTDC,Packed,7
+3850,21404,Delhivery,Processing,4
+3851,25595,BlueDart,Processing,2
+3852,25216,DTDC,Packed,6
+3853,23497,Ekart,Shipped,5
+3854,22859,BlueDart,Packed,1
+3855,23867,BlueDart,Processing,1
+3856,25056,DTDC,Processing,5
+3857,22417,BlueDart,Delivered,4
+3858,22076,Delhivery,Out for Delivery,6
+3859,25870,BlueDart,Out for Delivery,5
+3860,25720,DTDC,Packed,6
+3861,23241,Ekart,Processing,2
+3862,25118,Ekart,Shipped,3
+3863,20749,Delhivery,Processing,3
+3864,20662,Delhivery,Delivered,1
+3865,25067,Ekart,Delivered,7
+3866,22097,BlueDart,Packed,4
+3867,21417,BlueDart,Processing,1
+3868,21719,DTDC,Processing,4
+3869,21103,BlueDart,Packed,3
+3870,20314,BlueDart,Delivered,2
+3871,20024,BlueDart,Shipped,6
+3872,21167,Ekart,Packed,4
+3873,22711,BlueDart,Delivered,1
+3874,23562,BlueDart,Delivered,1
+3875,24966,Delhivery,Out for Delivery,6
+3876,23248,BlueDart,Processing,4
+3877,23493,DTDC,Delivered,4
+3878,25955,Ekart,Processing,2
+3879,21691,Delhivery,Shipped,3
+3880,22282,Ekart,Processing,1
+3881,23192,Delhivery,Out for Delivery,4
+3882,22162,DTDC,Processing,1
+3883,25618,Ekart,Shipped,7
+3884,22714,Delhivery,Processing,3
+3885,25971,Delhivery,Out for Delivery,4
+3886,22453,BlueDart,Delivered,4
+3887,25680,BlueDart,Delivered,1
+3888,24804,BlueDart,Shipped,1
+3889,20975,Ekart,Processing,3
+3890,20149,DTDC,Delivered,5
+3891,25777,DTDC,Processing,6
+3892,25889,BlueDart,Processing,3
+3893,21331,Ekart,Shipped,2
+3894,25720,BlueDart,Packed,2
+3895,25413,Delhivery,Shipped,5
+3896,24492,BlueDart,Out for Delivery,6
+3897,23646,Ekart,Packed,3
+3898,22221,Delhivery,Shipped,4
+3899,23315,BlueDart,Shipped,6
+3900,25541,BlueDart,Delivered,3
+3901,20383,Delhivery,Processing,1
+3902,22701,BlueDart,Shipped,3
+3903,24150,DTDC,Packed,4
+3904,23649,BlueDart,Out for Delivery,1
+3905,21811,Delhivery,Out for Delivery,3
+3906,24355,Delhivery,Packed,1
+3907,22087,Ekart,Delivered,7
+3908,24158,Delhivery,Delivered,4
+3909,20965,DTDC,Processing,7
+3910,22536,BlueDart,Packed,5
+3911,21804,Ekart,Shipped,6
+3912,22417,Ekart,Delivered,2
+3913,20371,Ekart,Shipped,5
+3914,23333,DTDC,Shipped,4
+3915,24063,Delhivery,Processing,6
+3916,21544,DTDC,Delivered,7
+3917,24492,BlueDart,Processing,6
+3918,22503,Ekart,Out for Delivery,4
+3919,21170,DTDC,Shipped,3
+3920,25594,Delhivery,Processing,4
+3921,20005,Ekart,Delivered,5
+3922,23808,Delhivery,Processing,3
+3923,25401,BlueDart,Packed,1
+3924,21681,BlueDart,Out for Delivery,6
+3925,24274,DTDC,Processing,1
+3926,24211,BlueDart,Shipped,4
+3927,23545,Delhivery,Packed,6
+3928,24159,BlueDart,Processing,6
+3929,24062,Ekart,Out for Delivery,1
+3930,20958,BlueDart,Delivered,5
+3931,25236,DTDC,Delivered,7
+3932,24870,BlueDart,Out for Delivery,1
+3933,25189,Ekart,Out for Delivery,1
+3934,21805,BlueDart,Delivered,6
+3935,23980,Ekart,Packed,5
+3936,22995,DTDC,Delivered,6
+3937,20860,Ekart,Packed,5
+3938,23830,DTDC,Packed,1
+3939,25831,Delhivery,Processing,4
+3940,21944,DTDC,Delivered,3
+3941,25042,Ekart,Shipped,3
+3942,23790,Ekart,Shipped,3
+3943,20904,Delhivery,Out for Delivery,4
+3944,24764,BlueDart,Out for Delivery,2
+3945,23159,Ekart,Shipped,6
+3946,21903,Ekart,Out for Delivery,7
+3947,22906,Delhivery,Out for Delivery,1
+3948,22123,BlueDart,Shipped,5
+3949,25344,BlueDart,Delivered,5
+3950,22699,Delhivery,Out for Delivery,7
+3951,24965,DTDC,Shipped,5
+3952,22575,DTDC,Delivered,7
+3953,21827,DTDC,Shipped,4
+3954,25456,Delhivery,Out for Delivery,4
+3955,24312,Ekart,Packed,3
+3956,25548,Delhivery,Out for Delivery,7
+3957,25681,BlueDart,Processing,4
+3958,25343,Delhivery,Out for Delivery,4
+3959,23178,Delhivery,Packed,3
+3960,25387,Delhivery,Processing,4
+3961,24161,BlueDart,Out for Delivery,5
+3962,21284,BlueDart,Packed,2
+3963,25862,Ekart,Shipped,1
+3964,21936,BlueDart,Out for Delivery,5
+3965,24816,Ekart,Packed,5
+3966,22729,Delhivery,Packed,2
+3967,20713,BlueDart,Out for Delivery,3
+3968,21603,BlueDart,Out for Delivery,2
+3969,22569,Ekart,Processing,3
+3970,25105,DTDC,Packed,3
+3971,24868,Delhivery,Packed,2
+3972,21049,BlueDart,Shipped,4
+3973,23992,Delhivery,Shipped,4
+3974,25017,Ekart,Processing,5
+3975,21991,Ekart,Shipped,3
+3976,22824,DTDC,Processing,2
+3977,20302,Delhivery,Out for Delivery,1
+3978,23853,Ekart,Processing,2
+3979,23426,Ekart,Shipped,7
+3980,22953,Ekart,Out for Delivery,7
+3981,23209,Delhivery,Packed,1
+3982,24514,BlueDart,Delivered,1
+3983,25201,BlueDart,Out for Delivery,6
+3984,26000,Delhivery,Out for Delivery,3
+3985,20244,DTDC,Out for Delivery,1
+3986,21261,BlueDart,Packed,5
+3987,25318,BlueDart,Processing,3
+3988,23164,Ekart,Shipped,4
+3989,24567,Ekart,Packed,6
+3990,20036,Ekart,Shipped,3
+3991,22653,Ekart,Delivered,3
+3992,20419,BlueDart,Out for Delivery,2
+3993,25782,Ekart,Out for Delivery,1
+3994,24094,DTDC,Out for Delivery,7
+3995,24415,Ekart,Packed,2
+3996,25294,BlueDart,Out for Delivery,4
+3997,21571,Delhivery,Shipped,6
+3998,23368,Delhivery,Processing,5
+3999,21458,BlueDart,Out for Delivery,5
+4000,23089,BlueDart,Out for Delivery,5
+4001,20143,BlueDart,Packed,2
+4002,20509,DTDC,Shipped,3
+4003,25543,Delhivery,Out for Delivery,1
+4004,23752,Delhivery,Out for Delivery,6
+4005,23787,Delhivery,Processing,3
+4006,25556,Delhivery,Packed,1
+4007,20458,BlueDart,Delivered,7
+4008,21711,Ekart,Shipped,5
+4009,20272,DTDC,Out for Delivery,5
+4010,23897,BlueDart,Processing,4
+4011,21494,Delhivery,Delivered,6
+4012,21587,BlueDart,Packed,5
+4013,25204,Delhivery,Delivered,2
+4014,24735,DTDC,Delivered,2
+4015,20922,Delhivery,Shipped,2
+4016,20204,DTDC,Processing,2
+4017,21420,DTDC,Processing,7
+4018,20456,BlueDart,Packed,5
+4019,21911,DTDC,Out for Delivery,6
+4020,22292,BlueDart,Out for Delivery,7
+4021,20444,Ekart,Shipped,5
+4022,24585,Ekart,Out for Delivery,6
+4023,24436,DTDC,Packed,5
+4024,21191,Delhivery,Out for Delivery,2
+4025,21235,BlueDart,Delivered,7
+4026,25683,Delhivery,Processing,2
+4027,23453,Delhivery,Shipped,3
+4028,23408,DTDC,Shipped,5
+4029,24749,Ekart,Packed,6
+4030,22218,DTDC,Out for Delivery,1
+4031,24652,DTDC,Processing,6
+4032,23495,Ekart,Out for Delivery,2
+4033,25692,Ekart,Shipped,2
+4034,22964,DTDC,Packed,4
+4035,24507,DTDC,Shipped,4
+4036,24054,Ekart,Processing,4
+4037,20030,Ekart,Out for Delivery,3
+4038,23921,DTDC,Out for Delivery,7
+4039,20434,DTDC,Processing,2
+4040,25037,DTDC,Packed,5
+4041,22510,BlueDart,Out for Delivery,5
+4042,20503,BlueDart,Delivered,7
+4043,21202,DTDC,Processing,6
+4044,25275,DTDC,Shipped,1
+4045,23585,Delhivery,Processing,3
+4046,21605,DTDC,Processing,6
+4047,24227,DTDC,Processing,3
+4048,23172,DTDC,Delivered,5
+4049,20087,BlueDart,Processing,6
+4050,25254,DTDC,Out for Delivery,3
+4051,23867,Ekart,Processing,2
+4052,23820,BlueDart,Processing,2
+4053,22151,BlueDart,Delivered,6
+4054,22958,BlueDart,Shipped,6
+4055,25618,Ekart,Processing,7
+4056,23268,Delhivery,Processing,5
+4057,24948,Delhivery,Delivered,5
+4058,25579,Ekart,Delivered,1
+4059,24279,DTDC,Processing,6
+4060,20971,DTDC,Processing,6
+4061,24215,DTDC,Out for Delivery,7
+4062,20842,Ekart,Packed,1
+4063,23929,DTDC,Processing,6
+4064,20450,DTDC,Shipped,1
+4065,22335,BlueDart,Packed,4
+4066,24489,Ekart,Out for Delivery,5
+4067,23108,DTDC,Packed,6
+4068,22406,DTDC,Processing,6
+4069,20440,Ekart,Processing,1
+4070,20287,Delhivery,Processing,6
+4071,23842,Delhivery,Processing,4
+4072,24549,Ekart,Processing,6
+4073,21447,Delhivery,Shipped,1
+4074,21218,Ekart,Shipped,5
+4075,23880,BlueDart,Packed,6
+4076,25593,BlueDart,Processing,1
+4077,20098,BlueDart,Delivered,4
+4078,22986,DTDC,Shipped,6
+4079,23775,Ekart,Packed,7
+4080,24909,DTDC,Shipped,5
+4081,23698,Ekart,Shipped,7
+4082,21369,Ekart,Packed,4
+4083,25433,Ekart,Packed,1
+4084,22305,Delhivery,Out for Delivery,3
+4085,20926,Ekart,Packed,4
+4086,22390,Delhivery,Shipped,1
+4087,21538,BlueDart,Out for Delivery,7
+4088,25019,BlueDart,Out for Delivery,7
+4089,23472,DTDC,Delivered,7
+4090,25626,DTDC,Out for Delivery,5
+4091,20944,DTDC,Processing,7
+4092,24344,Ekart,Shipped,4
+4093,20725,DTDC,Shipped,5
+4094,25385,Delhivery,Shipped,5
+4095,22444,DTDC,Delivered,5
+4096,20646,Ekart,Shipped,5
+4097,25016,Delhivery,Delivered,1
+4098,21733,Ekart,Delivered,4
+4099,21401,Ekart,Processing,6
+4100,22913,DTDC,Shipped,3
+4101,22710,Delhivery,Delivered,5
+4102,24732,DTDC,Packed,2
+4103,22118,Ekart,Packed,3
+4104,21191,DTDC,Delivered,1
+4105,20797,Delhivery,Processing,6
+4106,20465,Ekart,Processing,5
+4107,22051,DTDC,Out for Delivery,5
+4108,24995,Ekart,Delivered,2
+4109,21360,Delhivery,Packed,3
+4110,24726,DTDC,Processing,5
+4111,25456,BlueDart,Processing,7
+4112,25400,DTDC,Packed,6
+4113,22253,Delhivery,Processing,2
+4114,21211,DTDC,Shipped,2
+4115,22836,DTDC,Packed,1
+4116,22744,Ekart,Shipped,5
+4117,21344,DTDC,Delivered,7
+4118,20836,BlueDart,Processing,7
+4119,22310,DTDC,Shipped,5
+4120,25971,Ekart,Out for Delivery,3
+4121,23167,Delhivery,Shipped,2
+4122,24784,BlueDart,Out for Delivery,1
+4123,23947,Ekart,Out for Delivery,7
+4124,21477,Delhivery,Shipped,4
+4125,20644,DTDC,Packed,4
+4126,22753,Delhivery,Shipped,3
+4127,21181,BlueDart,Out for Delivery,4
+4128,23506,DTDC,Delivered,5
+4129,24299,DTDC,Out for Delivery,3
+4130,22402,Ekart,Shipped,5
+4131,22114,DTDC,Shipped,1
+4132,21931,Ekart,Processing,1
+4133,25001,BlueDart,Delivered,6
+4134,21746,DTDC,Processing,6
+4135,22690,DTDC,Packed,6
+4136,23717,Ekart,Processing,6
+4137,24764,BlueDart,Shipped,4
+4138,22042,Delhivery,Processing,2
+4139,22284,Ekart,Shipped,4
+4140,24949,BlueDart,Out for Delivery,6
+4141,25482,Ekart,Out for Delivery,1
+4142,20573,Ekart,Out for Delivery,5
+4143,23294,BlueDart,Packed,6
+4144,21967,Delhivery,Out for Delivery,1
+4145,25385,DTDC,Shipped,5
+4146,22068,Delhivery,Shipped,2
+4147,20837,DTDC,Processing,2
+4148,25789,BlueDart,Out for Delivery,6
+4149,22454,BlueDart,Packed,1
+4150,21747,DTDC,Packed,7
+4151,25330,DTDC,Processing,5
+4152,23391,BlueDart,Shipped,3
+4153,23741,Ekart,Out for Delivery,2
+4154,20514,Delhivery,Packed,6
+4155,20627,BlueDart,Delivered,6
+4156,20118,DTDC,Delivered,7
+4157,21524,DTDC,Delivered,7
+4158,20390,DTDC,Out for Delivery,1
+4159,22613,Ekart,Shipped,5
+4160,24184,Ekart,Delivered,4
+4161,23086,BlueDart,Shipped,4
+4162,22672,Ekart,Processing,5
+4163,20236,BlueDart,Delivered,6
+4164,24279,BlueDart,Shipped,2
+4165,20623,BlueDart,Delivered,6
+4166,24427,DTDC,Out for Delivery,5
+4167,20340,Ekart,Delivered,3
+4168,23196,Ekart,Packed,5
+4169,24109,BlueDart,Delivered,3
+4170,23679,Delhivery,Shipped,2
+4171,20365,BlueDart,Processing,6
+4172,21805,BlueDart,Delivered,5
+4173,24551,DTDC,Processing,7
+4174,21373,BlueDart,Packed,1
+4175,21704,DTDC,Out for Delivery,5
+4176,23576,Ekart,Packed,7
+4177,23626,DTDC,Delivered,4
+4178,21116,DTDC,Delivered,6
+4179,25435,Ekart,Packed,4
+4180,21180,DTDC,Out for Delivery,1
+4181,25918,BlueDart,Packed,1
+4182,24144,DTDC,Out for Delivery,5
+4183,21856,Ekart,Out for Delivery,1
+4184,20060,DTDC,Packed,6
+4185,24399,BlueDart,Packed,3
+4186,25225,Ekart,Shipped,4
+4187,21989,Ekart,Out for Delivery,2
+4188,21581,BlueDart,Out for Delivery,4
+4189,25279,Delhivery,Processing,3
+4190,22709,BlueDart,Shipped,5
+4191,22921,DTDC,Packed,1
+4192,21031,DTDC,Packed,6
+4193,25211,BlueDart,Packed,5
+4194,22822,DTDC,Processing,3
+4195,25810,BlueDart,Shipped,1
+4196,25955,BlueDart,Shipped,3
+4197,22767,Ekart,Out for Delivery,5
+4198,24945,BlueDart,Delivered,7
+4199,23686,DTDC,Processing,3
+4200,20855,Delhivery,Out for Delivery,4
+4201,24571,Delhivery,Shipped,7
+4202,24783,DTDC,Shipped,4
+4203,25284,DTDC,Packed,5
+4204,23203,Ekart,Out for Delivery,5
+4205,20084,Ekart,Shipped,5
+4206,25499,Ekart,Out for Delivery,4
+4207,21870,BlueDart,Packed,6
+4208,21461,Delhivery,Packed,3
+4209,24460,Ekart,Shipped,5
+4210,23812,DTDC,Processing,1
+4211,25401,DTDC,Packed,2
+4212,25550,Ekart,Shipped,5
+4213,24857,Ekart,Packed,4
+4214,22250,Delhivery,Out for Delivery,4
+4215,20197,Ekart,Packed,1
+4216,20698,BlueDart,Processing,2
+4217,22007,Delhivery,Processing,2
+4218,25910,DTDC,Processing,7
+4219,23080,BlueDart,Delivered,2
+4220,22030,Ekart,Out for Delivery,5
+4221,25117,Delhivery,Shipped,5
+4222,20621,Delhivery,Delivered,6
+4223,20139,Delhivery,Shipped,7
+4224,21790,BlueDart,Out for Delivery,3
+4225,21620,Ekart,Out for Delivery,4
+4226,20174,BlueDart,Out for Delivery,4
+4227,21358,DTDC,Processing,3
+4228,23121,Ekart,Delivered,4
+4229,25408,Ekart,Out for Delivery,6
+4230,24763,Ekart,Shipped,4
+4231,22791,Ekart,Delivered,5
+4232,23039,Ekart,Processing,3
+4233,22656,BlueDart,Out for Delivery,2
+4234,24614,Delhivery,Out for Delivery,1
+4235,22461,Ekart,Shipped,1
+4236,24581,BlueDart,Delivered,3
+4237,21315,Ekart,Packed,6
+4238,25430,Ekart,Packed,7
+4239,20506,DTDC,Delivered,6
+4240,24102,BlueDart,Processing,4
+4241,25326,Ekart,Processing,7
+4242,20550,BlueDart,Processing,3
+4243,23066,DTDC,Shipped,6
+4244,22424,Ekart,Packed,1
+4245,21676,Delhivery,Packed,4
+4246,25167,DTDC,Delivered,3
+4247,23795,BlueDart,Processing,5
+4248,25986,BlueDart,Shipped,1
+4249,21545,Ekart,Packed,2
+4250,25927,Delhivery,Packed,6
+4251,22331,Ekart,Processing,6
+4252,25753,BlueDart,Delivered,2
+4253,23576,BlueDart,Shipped,6
+4254,20181,Ekart,Processing,2
+4255,25870,Delhivery,Delivered,1
+4256,22964,BlueDart,Shipped,4
+4257,24684,Ekart,Delivered,5
+4258,20501,Delhivery,Shipped,7
+4259,23920,Ekart,Processing,2
+4260,25370,BlueDart,Packed,3
+4261,22478,DTDC,Processing,1
+4262,24536,Delhivery,Processing,2
+4263,22479,BlueDart,Shipped,7
+4264,24116,Ekart,Out for Delivery,1
+4265,21656,BlueDart,Delivered,7
+4266,25617,DTDC,Packed,4
+4267,23503,DTDC,Processing,2
+4268,24044,BlueDart,Shipped,7
+4269,21053,Delhivery,Processing,2
+4270,20213,BlueDart,Delivered,1
+4271,25701,BlueDart,Delivered,1
+4272,21834,Delhivery,Processing,3
+4273,24851,Ekart,Delivered,1
+4274,21334,Delhivery,Delivered,5
+4275,25282,Delhivery,Delivered,4
+4276,25550,DTDC,Shipped,7
+4277,22953,BlueDart,Packed,1
+4278,24689,Delhivery,Delivered,7
+4279,24835,Delhivery,Delivered,2
+4280,20575,BlueDart,Packed,3
+4281,23216,BlueDart,Processing,4
+4282,21242,BlueDart,Out for Delivery,7
+4283,25129,DTDC,Out for Delivery,1
+4284,22461,Delhivery,Out for Delivery,1
+4285,20093,BlueDart,Delivered,5
+4286,20756,Delhivery,Delivered,7
+4287,23926,Ekart,Processing,3
+4288,20248,Delhivery,Packed,6
+4289,21688,BlueDart,Processing,7
+4290,22040,Ekart,Shipped,5
+4291,23014,DTDC,Processing,4
+4292,20628,Ekart,Delivered,4
+4293,23202,Ekart,Processing,7
+4294,25862,DTDC,Out for Delivery,3
+4295,25762,BlueDart,Shipped,6
+4296,25350,DTDC,Packed,2
+4297,20617,DTDC,Packed,1
+4298,23231,Delhivery,Packed,6
+4299,24076,Delhivery,Processing,6
+4300,25504,Delhivery,Shipped,7
+4301,25653,DTDC,Processing,2
+4302,24697,DTDC,Packed,1
+4303,23478,DTDC,Out for Delivery,1
+4304,20112,Ekart,Delivered,5
+4305,22302,DTDC,Delivered,7
+4306,23252,DTDC,Delivered,2
+4307,25864,BlueDart,Packed,2
+4308,25653,DTDC,Processing,1
+4309,24040,Delhivery,Shipped,5
+4310,20073,Delhivery,Delivered,4
+4311,20539,Ekart,Processing,5
+4312,23448,BlueDart,Packed,2
+4313,21772,Ekart,Packed,7
+4314,20251,DTDC,Shipped,5
+4315,24022,Ekart,Shipped,6
+4316,24438,BlueDart,Delivered,6
+4317,21402,BlueDart,Out for Delivery,3
+4318,24914,Delhivery,Delivered,4
+4319,21528,BlueDart,Delivered,7
+4320,22663,BlueDart,Shipped,5
+4321,22767,Ekart,Shipped,3
+4322,20923,BlueDart,Delivered,7
+4323,20937,DTDC,Processing,2
+4324,22547,BlueDart,Packed,4
+4325,24061,BlueDart,Delivered,6
+4326,24007,BlueDart,Out for Delivery,5
+4327,25202,BlueDart,Packed,2
+4328,24358,Delhivery,Processing,3
+4329,25693,BlueDart,Out for Delivery,3
+4330,23597,Ekart,Delivered,3
+4331,23386,DTDC,Shipped,5
+4332,23529,DTDC,Shipped,1
+4333,23219,BlueDart,Out for Delivery,7
+4334,20724,BlueDart,Processing,4
+4335,21868,Delhivery,Out for Delivery,3
+4336,22828,BlueDart,Delivered,4
+4337,23939,DTDC,Processing,1
+4338,22132,Ekart,Delivered,3
+4339,20040,Delhivery,Processing,6
+4340,22207,Ekart,Processing,3
+4341,23600,BlueDart,Delivered,1
+4342,25790,Ekart,Packed,6
+4343,23107,Delhivery,Processing,4
+4344,24416,DTDC,Processing,1
+4345,22515,DTDC,Processing,7
+4346,21625,DTDC,Processing,1
+4347,24231,BlueDart,Out for Delivery,6
+4348,20182,Ekart,Shipped,3
+4349,25811,Ekart,Out for Delivery,3
+4350,22116,BlueDart,Out for Delivery,5
+4351,22022,DTDC,Delivered,7
+4352,22093,BlueDart,Out for Delivery,4
+4353,20734,Ekart,Processing,2
+4354,22377,Ekart,Shipped,3
+4355,22769,Ekart,Out for Delivery,7
+4356,23474,Delhivery,Processing,2
+4357,20057,Delhivery,Processing,5
+4358,23389,BlueDart,Packed,4
+4359,21228,BlueDart,Delivered,4
+4360,24810,DTDC,Shipped,6
+4361,21030,Delhivery,Out for Delivery,6
+4362,21702,DTDC,Delivered,2
+4363,24384,Ekart,Processing,5
+4364,22662,DTDC,Processing,7
+4365,24797,BlueDart,Shipped,1
+4366,25867,Delhivery,Out for Delivery,6
+4367,22955,Delhivery,Delivered,1
+4368,20571,BlueDart,Out for Delivery,7
+4369,25679,Ekart,Processing,2
+4370,22254,Ekart,Delivered,3
+4371,21547,DTDC,Out for Delivery,1
+4372,20128,DTDC,Packed,7
+4373,23990,Ekart,Delivered,3
+4374,25815,Delhivery,Shipped,7
+4375,21485,Ekart,Shipped,3
+4376,25023,DTDC,Out for Delivery,5
+4377,22698,Ekart,Packed,7
+4378,20693,DTDC,Shipped,7
+4379,23565,BlueDart,Out for Delivery,3
+4380,21381,Delhivery,Processing,1
+4381,23399,Delhivery,Out for Delivery,2
+4382,22220,Ekart,Out for Delivery,5
+4383,25426,Ekart,Shipped,5
+4384,21509,BlueDart,Shipped,6
+4385,20963,DTDC,Packed,5
+4386,21868,BlueDart,Out for Delivery,3
+4387,25999,DTDC,Processing,6
+4388,25600,Delhivery,Processing,1
+4389,23646,Delhivery,Out for Delivery,5
+4390,20848,BlueDart,Delivered,3
+4391,25213,Ekart,Out for Delivery,4
+4392,20614,BlueDart,Processing,7
+4393,22217,Ekart,Delivered,3
+4394,20737,Ekart,Packed,6
+4395,25781,BlueDart,Shipped,6
+4396,22873,BlueDart,Delivered,2
+4397,25243,BlueDart,Out for Delivery,2
+4398,25526,DTDC,Shipped,7
+4399,23321,DTDC,Delivered,5
+4400,21022,BlueDart,Processing,2
+4401,23397,Ekart,Out for Delivery,3
+4402,25221,DTDC,Out for Delivery,1
+4403,20679,Ekart,Delivered,5
+4404,21065,Delhivery,Delivered,7
+4405,23840,Delhivery,Delivered,7
+4406,24871,Ekart,Processing,6
+4407,20017,DTDC,Delivered,1
+4408,20951,DTDC,Processing,1
+4409,22464,DTDC,Shipped,3
+4410,23128,Delhivery,Processing,5
+4411,24136,BlueDart,Processing,7
+4412,24724,DTDC,Shipped,7
+4413,22486,BlueDart,Shipped,7
+4414,24010,BlueDart,Delivered,5
+4415,25338,Ekart,Packed,2
+4416,24072,DTDC,Shipped,5
+4417,25528,DTDC,Out for Delivery,1
+4418,20463,DTDC,Delivered,5
+4419,20992,BlueDart,Shipped,2
+4420,21414,Ekart,Processing,2
+4421,20709,Delhivery,Delivered,2
+4422,21360,DTDC,Out for Delivery,5
+4423,24797,Delhivery,Delivered,4
+4424,25455,DTDC,Out for Delivery,6
+4425,20160,BlueDart,Delivered,4
+4426,22954,BlueDart,Delivered,2
+4427,24679,Ekart,Out for Delivery,1
+4428,23358,Ekart,Out for Delivery,7
+4429,25478,BlueDart,Processing,7
+4430,25876,Delhivery,Processing,2
+4431,25595,DTDC,Processing,7
+4432,24864,Delhivery,Out for Delivery,1
+4433,22015,DTDC,Delivered,7
+4434,20498,DTDC,Out for Delivery,7
+4435,24752,BlueDart,Packed,1
+4436,24086,Delhivery,Delivered,5
+4437,21922,Ekart,Delivered,3
+4438,24865,BlueDart,Out for Delivery,4
+4439,25920,Ekart,Delivered,4
+4440,23354,BlueDart,Delivered,4
+4441,22848,Delhivery,Out for Delivery,7
+4442,22347,Ekart,Shipped,4
+4443,22595,DTDC,Packed,4
+4444,23858,DTDC,Shipped,6
+4445,22263,Delhivery,Delivered,5
+4446,21313,Delhivery,Out for Delivery,5
+4447,22224,DTDC,Out for Delivery,5
+4448,22868,Delhivery,Processing,2
+4449,22518,Ekart,Packed,7
+4450,21222,Delhivery,Packed,4
+4451,21471,DTDC,Delivered,2
+4452,20478,BlueDart,Packed,7
+4453,23187,Ekart,Shipped,2
+4454,23042,DTDC,Packed,2
+4455,20083,Delhivery,Out for Delivery,7
+4456,22113,Delhivery,Out for Delivery,2
+4457,22745,Delhivery,Out for Delivery,5
+4458,22809,BlueDart,Packed,3
+4459,23810,DTDC,Out for Delivery,3
+4460,21001,BlueDart,Shipped,6
+4461,24571,BlueDart,Out for Delivery,7
+4462,25185,Delhivery,Processing,6
+4463,22935,BlueDart,Out for Delivery,6
+4464,23344,BlueDart,Packed,2
+4465,24036,DTDC,Packed,2
+4466,22113,BlueDart,Packed,5
+4467,22908,DTDC,Packed,7
+4468,24257,BlueDart,Out for Delivery,2
+4469,21795,DTDC,Packed,2
+4470,22761,BlueDart,Processing,1
+4471,21910,BlueDart,Out for Delivery,7
+4472,25726,Delhivery,Processing,5
+4473,25677,Ekart,Packed,6
+4474,21701,Ekart,Processing,2
+4475,23652,Delhivery,Shipped,2
+4476,21566,BlueDart,Packed,6
+4477,21015,BlueDart,Delivered,3
+4478,23008,DTDC,Processing,2
+4479,22950,DTDC,Delivered,6
+4480,20104,Ekart,Out for Delivery,2
+4481,23604,Delhivery,Delivered,5
+4482,25824,Ekart,Processing,4
+4483,23449,DTDC,Delivered,1
+4484,25346,DTDC,Shipped,3
+4485,25784,Ekart,Shipped,3
+4486,25964,BlueDart,Processing,3
+4487,24010,BlueDart,Out for Delivery,5
+4488,25479,BlueDart,Out for Delivery,3
+4489,20247,Ekart,Packed,6
+4490,21192,DTDC,Packed,6
+4491,24936,DTDC,Delivered,5
+4492,22971,BlueDart,Shipped,6
+4493,21088,BlueDart,Delivered,1
+4494,21811,DTDC,Delivered,5
+4495,23840,BlueDart,Packed,1
+4496,25681,Ekart,Processing,2
+4497,21352,Delhivery,Delivered,5
+4498,23065,DTDC,Shipped,7
+4499,22973,Delhivery,Processing,2
+4500,22717,Delhivery,Out for Delivery,4
+4501,23559,DTDC,Processing,4
+4502,25294,DTDC,Packed,3
+4503,24049,DTDC,Out for Delivery,1
+4504,22440,DTDC,Packed,2
+4505,24584,Ekart,Delivered,1
+4506,25987,Delhivery,Packed,5
+4507,22744,BlueDart,Shipped,2
+4508,23848,DTDC,Packed,2
+4509,20846,Ekart,Shipped,5
+4510,23281,BlueDart,Out for Delivery,3
+4511,21687,DTDC,Packed,5
+4512,24946,Ekart,Delivered,3
+4513,24887,Ekart,Processing,2
+4514,24558,Ekart,Shipped,7
+4515,22343,DTDC,Shipped,4
+4516,25428,Ekart,Packed,1
+4517,23850,Delhivery,Delivered,4
+4518,21780,Delhivery,Processing,2
+4519,20746,Delhivery,Packed,6
+4520,23832,BlueDart,Out for Delivery,6
+4521,23081,BlueDart,Packed,3
+4522,23200,DTDC,Packed,6
+4523,25772,BlueDart,Packed,6
+4524,21676,Ekart,Delivered,4
+4525,22195,BlueDart,Delivered,1
+4526,23491,DTDC,Processing,7
+4527,20787,Delhivery,Processing,5
+4528,20086,Ekart,Delivered,5
+4529,23530,DTDC,Processing,6
+4530,23624,BlueDart,Packed,4
+4531,22536,Ekart,Out for Delivery,7
+4532,24569,BlueDart,Out for Delivery,5
+4533,22928,Ekart,Shipped,1
+4534,23968,DTDC,Processing,7
+4535,25050,Delhivery,Delivered,2
+4536,24061,Delhivery,Out for Delivery,3
+4537,25794,Ekart,Delivered,1
+4538,20119,Ekart,Shipped,7
+4539,24021,BlueDart,Shipped,4
+4540,23567,Ekart,Shipped,4
+4541,21749,BlueDart,Delivered,4
+4542,24499,Delhivery,Shipped,2
+4543,24106,Delhivery,Shipped,4
+4544,23578,Ekart,Processing,5
+4545,21568,DTDC,Delivered,7
+4546,22482,DTDC,Out for Delivery,1
+4547,24862,BlueDart,Out for Delivery,3
+4548,22012,Ekart,Shipped,1
+4549,24967,DTDC,Delivered,3
+4550,25071,BlueDart,Delivered,1
+4551,23237,BlueDart,Shipped,1
+4552,21228,BlueDart,Processing,5
+4553,24675,DTDC,Shipped,4
+4554,24983,BlueDart,Shipped,2
+4555,22443,BlueDart,Shipped,3
+4556,24329,DTDC,Delivered,3
+4557,21449,Delhivery,Packed,7
+4558,20837,Ekart,Out for Delivery,1
+4559,21927,DTDC,Processing,1
+4560,24269,Delhivery,Packed,3
+4561,22543,DTDC,Delivered,3
+4562,23128,DTDC,Processing,3
+4563,24813,Delhivery,Packed,4
+4564,23297,Ekart,Out for Delivery,3
+4565,23765,DTDC,Delivered,1
+4566,25383,Delhivery,Out for Delivery,1
+4567,21526,BlueDart,Processing,7
+4568,22770,Delhivery,Packed,6
+4569,24707,DTDC,Shipped,3
+4570,24516,DTDC,Delivered,6
+4571,25751,Delhivery,Delivered,6
+4572,20364,Delhivery,Shipped,1
+4573,22572,BlueDart,Packed,2
+4574,23055,BlueDart,Delivered,4
+4575,25855,DTDC,Processing,1
+4576,21831,Ekart,Shipped,6
+4577,20003,Delhivery,Packed,5
+4578,22775,DTDC,Packed,7
+4579,24249,Delhivery,Processing,1
+4580,20562,BlueDart,Shipped,7
+4581,22899,DTDC,Processing,5
+4582,20759,Ekart,Delivered,1
+4583,23153,Delhivery,Delivered,3
+4584,24978,Delhivery,Packed,4
+4585,25124,Ekart,Processing,3
+4586,22753,Delhivery,Delivered,1
+4587,25504,BlueDart,Delivered,4
+4588,24361,DTDC,Processing,5
+4589,23548,DTDC,Processing,4
+4590,20064,Delhivery,Shipped,5
+4591,21210,BlueDart,Packed,7
+4592,24576,Ekart,Processing,4
+4593,25751,Delhivery,Delivered,4
+4594,20686,BlueDart,Delivered,2
+4595,21701,BlueDart,Processing,7
+4596,21596,Ekart,Delivered,3
+4597,21337,BlueDart,Processing,5
+4598,22173,Delhivery,Processing,7
+4599,21747,DTDC,Processing,4
+4600,24064,Ekart,Delivered,5
+4601,22858,DTDC,Packed,6
+4602,23678,Ekart,Delivered,1
+4603,23184,DTDC,Processing,1
+4604,25657,BlueDart,Out for Delivery,7
+4605,21076,Delhivery,Packed,1
+4606,23182,Ekart,Processing,4
+4607,22606,DTDC,Processing,2
+4608,20903,Delhivery,Delivered,4
+4609,20394,Delhivery,Delivered,1
+4610,20995,BlueDart,Packed,7
+4611,25567,BlueDart,Packed,1
+4612,21492,Ekart,Shipped,5
+4613,24162,DTDC,Delivered,6
+4614,21112,Delhivery,Out for Delivery,7
+4615,21235,BlueDart,Processing,7
+4616,22331,Ekart,Delivered,4
+4617,24547,Delhivery,Processing,5
+4618,25767,DTDC,Processing,5
+4619,23315,Delhivery,Shipped,3
+4620,20253,Ekart,Packed,1
+4621,20534,BlueDart,Processing,7
+4622,21779,DTDC,Processing,5
+4623,21004,DTDC,Shipped,7
+4624,20846,Delhivery,Shipped,3
+4625,23335,Delhivery,Delivered,6
+4626,20618,DTDC,Processing,3
+4627,20313,BlueDart,Shipped,4
+4628,24620,Ekart,Shipped,3
+4629,24637,Ekart,Processing,7
+4630,23310,Delhivery,Delivered,6
+4631,22724,Delhivery,Out for Delivery,7
+4632,21079,DTDC,Shipped,3
+4633,23264,DTDC,Delivered,5
+4634,21806,Ekart,Delivered,6
+4635,20333,DTDC,Shipped,2
+4636,24984,Ekart,Processing,3
+4637,21173,Delhivery,Shipped,5
+4638,22942,DTDC,Out for Delivery,4
+4639,21468,Ekart,Packed,6
+4640,25138,Ekart,Out for Delivery,4
+4641,23200,Delhivery,Delivered,7
+4642,22830,BlueDart,Processing,1
+4643,23201,Ekart,Out for Delivery,2
+4644,24297,DTDC,Processing,4
+4645,22405,DTDC,Delivered,3
+4646,24772,Delhivery,Packed,7
+4647,25623,DTDC,Packed,5
+4648,23654,DTDC,Processing,1
+4649,23197,DTDC,Packed,7
+4650,25892,DTDC,Out for Delivery,1
+4651,21554,Ekart,Delivered,5
+4652,21045,Ekart,Out for Delivery,5
+4653,24871,DTDC,Out for Delivery,6
+4654,20377,Delhivery,Out for Delivery,3
+4655,23101,BlueDart,Out for Delivery,6
+4656,24023,Ekart,Processing,2
+4657,20516,Ekart,Out for Delivery,2
+4658,21690,Delhivery,Packed,3
+4659,21213,Ekart,Packed,2
+4660,22787,BlueDart,Shipped,7
+4661,23198,Delhivery,Processing,5
+4662,22630,Ekart,Delivered,4
+4663,20513,DTDC,Packed,1
+4664,22966,Delhivery,Shipped,7
+4665,21231,Delhivery,Shipped,6
+4666,21866,Ekart,Packed,7
+4667,20719,BlueDart,Processing,5
+4668,22230,Ekart,Out for Delivery,1
+4669,22699,BlueDart,Shipped,6
+4670,21224,BlueDart,Packed,2
+4671,25945,Delhivery,Processing,5
+4672,20698,BlueDart,Delivered,3
+4673,22115,BlueDart,Processing,7
+4674,22271,Delhivery,Shipped,7
+4675,20254,DTDC,Delivered,2
+4676,22173,BlueDart,Out for Delivery,7
+4677,23947,BlueDart,Shipped,1
+4678,21218,Delhivery,Processing,4
+4679,24350,BlueDart,Packed,1
+4680,21778,DTDC,Delivered,5
+4681,25583,Delhivery,Delivered,1
+4682,25351,Delhivery,Processing,7
+4683,25580,DTDC,Packed,7
+4684,22546,BlueDart,Out for Delivery,3
+4685,23795,DTDC,Packed,6
+4686,22724,Ekart,Delivered,4
+4687,23700,Ekart,Shipped,7
+4688,21045,DTDC,Packed,7
+4689,25754,Ekart,Delivered,5
+4690,24368,BlueDart,Packed,6
+4691,24047,BlueDart,Shipped,3
+4692,22421,BlueDart,Packed,6
+4693,22638,BlueDart,Shipped,1
+4694,20554,DTDC,Delivered,6
+4695,24564,BlueDart,Delivered,1
+4696,22713,Delhivery,Packed,3
+4697,22756,Ekart,Packed,5
+4698,24320,BlueDart,Delivered,4
+4699,21302,Delhivery,Shipped,4
+4700,23250,DTDC,Out for Delivery,4
+4701,23104,Delhivery,Delivered,2
+4702,24427,DTDC,Shipped,3
+4703,25790,DTDC,Processing,6
+4704,25449,BlueDart,Processing,6
+4705,23872,Ekart,Packed,1
+4706,25604,BlueDart,Out for Delivery,5
+4707,22949,BlueDart,Processing,3
+4708,25811,BlueDart,Out for Delivery,2
+4709,20781,Delhivery,Out for Delivery,7
+4710,22422,Delhivery,Shipped,7
+4711,22158,BlueDart,Processing,6
+4712,20998,Delhivery,Out for Delivery,1
+4713,22273,Ekart,Shipped,2
+4714,24841,DTDC,Shipped,3
+4715,25799,DTDC,Shipped,3
+4716,21678,BlueDart,Processing,5
+4717,25017,DTDC,Processing,7
+4718,21004,Ekart,Packed,2
+4719,21991,Ekart,Delivered,4
+4720,21349,DTDC,Delivered,4
+4721,20234,Delhivery,Processing,7
+4722,20375,BlueDart,Shipped,2
+4723,22413,Ekart,Delivered,5
+4724,24066,Ekart,Delivered,6
+4725,22916,DTDC,Processing,6
+4726,24348,Delhivery,Out for Delivery,5
+4727,23306,Delhivery,Packed,1
+4728,23002,BlueDart,Out for Delivery,5
+4729,22091,BlueDart,Out for Delivery,4
+4730,21799,BlueDart,Out for Delivery,3
+4731,24779,Delhivery,Packed,2
+4732,20963,BlueDart,Packed,2
+4733,21877,Ekart,Shipped,5
+4734,20336,DTDC,Processing,3
+4735,23691,BlueDart,Processing,3
+4736,25996,BlueDart,Out for Delivery,5
+4737,23796,Ekart,Out for Delivery,4
+4738,25924,DTDC,Shipped,1
+4739,23761,Delhivery,Packed,4
+4740,23154,DTDC,Shipped,4
+4741,20103,Delhivery,Out for Delivery,4
+4742,25875,BlueDart,Packed,7
+4743,24503,BlueDart,Processing,7
+4744,21483,BlueDart,Processing,5
+4745,21742,DTDC,Delivered,2
+4746,23939,Ekart,Out for Delivery,2
+4747,23496,Ekart,Packed,5
+4748,21688,BlueDart,Processing,3
+4749,25914,Ekart,Delivered,7
+4750,23530,BlueDart,Processing,4
+4751,23285,DTDC,Processing,3
+4752,24449,Ekart,Packed,1
+4753,21489,BlueDart,Shipped,6
+4754,22168,BlueDart,Shipped,5
+4755,25956,Ekart,Delivered,5
+4756,20751,Delhivery,Delivered,6
+4757,22534,DTDC,Shipped,1
+4758,21262,Ekart,Packed,1
+4759,20239,DTDC,Packed,4
+4760,24566,Delhivery,Out for Delivery,7
+4761,25797,Delhivery,Shipped,5
+4762,25819,BlueDart,Out for Delivery,3
+4763,25128,Delhivery,Processing,6
+4764,23366,Ekart,Delivered,3
+4765,22961,Ekart,Delivered,3
+4766,21368,Delhivery,Delivered,2
+4767,24094,BlueDart,Processing,2
+4768,23360,BlueDart,Out for Delivery,3
+4769,24721,DTDC,Packed,4
+4770,23275,DTDC,Out for Delivery,5
+4771,24034,DTDC,Out for Delivery,3
+4772,24653,BlueDart,Shipped,7
+4773,24580,DTDC,Processing,2
+4774,22529,Delhivery,Out for Delivery,3
+4775,24880,Delhivery,Delivered,3
+4776,21803,Delhivery,Delivered,6
+4777,24460,Ekart,Packed,4
+4778,24026,BlueDart,Packed,2
+4779,24980,Delhivery,Out for Delivery,7
+4780,23327,Delhivery,Shipped,7
+4781,20226,Delhivery,Processing,1
+4782,20672,BlueDart,Delivered,1
+4783,22739,Ekart,Delivered,1
+4784,22522,Ekart,Packed,6
+4785,21629,DTDC,Shipped,4
+4786,25067,BlueDart,Processing,3
+4787,24793,Delhivery,Processing,1
+4788,25949,DTDC,Processing,7
+4789,23150,Ekart,Out for Delivery,6
+4790,24962,Delhivery,Shipped,7
+4791,25152,Delhivery,Shipped,4
+4792,21837,Delhivery,Out for Delivery,4
+4793,25023,DTDC,Out for Delivery,6
+4794,21894,DTDC,Out for Delivery,2
+4795,20300,DTDC,Processing,1
+4796,21485,BlueDart,Out for Delivery,2
+4797,23542,Ekart,Packed,6
+4798,21421,Delhivery,Shipped,5
+4799,23170,DTDC,Packed,3
+4800,22975,DTDC,Processing,6
+4801,25289,Ekart,Shipped,6
+4802,23637,BlueDart,Packed,7
+4803,24006,DTDC,Processing,1
+4804,20948,Ekart,Shipped,6
+4805,25068,Delhivery,Out for Delivery,6
+4806,24089,BlueDart,Packed,6
+4807,23390,Delhivery,Delivered,4
+4808,24162,Ekart,Out for Delivery,5
+4809,24521,DTDC,Processing,1
+4810,24291,Ekart,Delivered,4
+4811,21643,Ekart,Delivered,4
+4812,23923,Ekart,Packed,6
+4813,21594,DTDC,Shipped,3
+4814,24065,Delhivery,Packed,4
+4815,21645,BlueDart,Out for Delivery,4
+4816,24037,DTDC,Shipped,5
+4817,23226,Ekart,Shipped,5
+4818,23641,DTDC,Out for Delivery,5
+4819,22125,Ekart,Out for Delivery,6
+4820,20642,Ekart,Shipped,7
+4821,25148,BlueDart,Shipped,7
+4822,23632,Ekart,Shipped,6
+4823,20296,BlueDart,Shipped,1
+4824,22987,BlueDart,Out for Delivery,4
+4825,21390,Delhivery,Delivered,6
+4826,22236,DTDC,Shipped,2
+4827,25257,Ekart,Shipped,1
+4828,21942,DTDC,Shipped,3
+4829,24539,Delhivery,Out for Delivery,5
+4830,20060,Ekart,Packed,5
+4831,21769,BlueDart,Delivered,3
+4832,23301,BlueDart,Packed,6
+4833,24974,Delhivery,Packed,4
+4834,24923,DTDC,Shipped,6
+4835,24300,Delhivery,Shipped,7
+4836,20240,DTDC,Packed,4
+4837,21713,Delhivery,Shipped,1
+4838,22882,Delhivery,Out for Delivery,2
+4839,21448,Ekart,Processing,3
+4840,20847,Delhivery,Packed,4
+4841,22958,BlueDart,Delivered,4
+4842,25175,DTDC,Packed,2
+4843,22387,DTDC,Out for Delivery,3
+4844,25307,DTDC,Shipped,6
+4845,23229,DTDC,Processing,2
+4846,21790,BlueDart,Out for Delivery,2
+4847,24673,DTDC,Shipped,1
+4848,22750,BlueDart,Processing,6
+4849,24716,Ekart,Processing,1
+4850,20728,Delhivery,Packed,6
+4851,24008,DTDC,Processing,4
+4852,24369,Delhivery,Delivered,3
+4853,20942,DTDC,Shipped,5
+4854,22150,DTDC,Out for Delivery,5
+4855,25193,DTDC,Packed,5
+4856,21609,BlueDart,Processing,4
+4857,20715,Ekart,Shipped,2
+4858,22634,DTDC,Shipped,3
+4859,25783,DTDC,Delivered,5
+4860,21724,Ekart,Processing,7
+4861,22818,BlueDart,Out for Delivery,1
+4862,21522,DTDC,Processing,6
+4863,23306,DTDC,Shipped,4
+4864,23854,Delhivery,Out for Delivery,1
+4865,25215,Delhivery,Packed,5
+4866,21494,BlueDart,Out for Delivery,1
+4867,21790,Delhivery,Packed,2
+4868,24031,DTDC,Shipped,3
+4869,24901,Ekart,Processing,6
+4870,21697,BlueDart,Out for Delivery,4
+4871,24101,DTDC,Processing,3
+4872,25681,Delhivery,Out for Delivery,5
+4873,20542,Delhivery,Out for Delivery,7
+4874,25253,Ekart,Processing,1
+4875,23501,Ekart,Processing,4
+4876,20294,DTDC,Delivered,2
+4877,24407,Ekart,Out for Delivery,5
+4878,25987,Ekart,Delivered,2
+4879,20088,BlueDart,Shipped,5
+4880,22878,DTDC,Packed,4
+4881,22692,Ekart,Processing,7
+4882,22385,Ekart,Delivered,2
+4883,23926,BlueDart,Delivered,1
+4884,25033,Delhivery,Packed,1
+4885,23701,BlueDart,Out for Delivery,7
+4886,22100,BlueDart,Processing,4
+4887,24035,Ekart,Delivered,5
+4888,22188,Ekart,Shipped,1
+4889,24513,Ekart,Delivered,2
+4890,20197,BlueDart,Packed,6
+4891,20276,DTDC,Shipped,4
+4892,20042,Ekart,Packed,4
+4893,25074,Delhivery,Processing,6
+4894,22963,BlueDart,Packed,7
+4895,25317,Delhivery,Packed,5
+4896,24900,DTDC,Out for Delivery,2
+4897,21794,Delhivery,Delivered,7
+4898,21353,BlueDart,Shipped,7
+4899,23274,Ekart,Shipped,1
+4900,22006,Delhivery,Out for Delivery,5
+4901,25265,Delhivery,Shipped,3
+4902,20493,BlueDart,Out for Delivery,2
+4903,21339,Delhivery,Processing,2
+4904,25145,Ekart,Packed,1
+4905,24575,Ekart,Processing,1
+4906,22394,BlueDart,Packed,1
+4907,25442,BlueDart,Processing,7
+4908,25676,DTDC,Delivered,2
+4909,20455,Ekart,Delivered,7
+4910,21020,Delhivery,Delivered,2
+4911,20459,Ekart,Shipped,5
+4912,22359,DTDC,Packed,5
+4913,22941,DTDC,Out for Delivery,5
+4914,23663,BlueDart,Delivered,7
+4915,24305,BlueDart,Shipped,7
+4916,25872,Ekart,Shipped,2
+4917,24312,Delhivery,Shipped,7
+4918,20694,BlueDart,Out for Delivery,2
+4919,25559,BlueDart,Delivered,7
+4920,21132,DTDC,Shipped,7
+4921,21078,Ekart,Processing,5
+4922,22813,BlueDart,Shipped,3
+4923,25297,DTDC,Out for Delivery,7
+4924,24325,Delhivery,Shipped,3
+4925,24848,Delhivery,Packed,1
+4926,24205,Delhivery,Delivered,4
+4927,25964,Ekart,Shipped,3
+4928,24111,DTDC,Out for Delivery,1
+4929,25532,Ekart,Processing,7
+4930,25805,Ekart,Delivered,5
+4931,22308,Delhivery,Shipped,6
+4932,20250,BlueDart,Shipped,3
+4933,23336,Ekart,Processing,2
+4934,22724,Delhivery,Out for Delivery,7
+4935,23384,Ekart,Shipped,7
+4936,22887,BlueDart,Shipped,7
+4937,22725,Delhivery,Processing,5
+4938,25832,BlueDart,Packed,4
+4939,23594,Ekart,Shipped,4
+4940,23703,DTDC,Out for Delivery,3
+4941,23049,BlueDart,Shipped,3
+4942,25801,Delhivery,Packed,2
+4943,24214,DTDC,Packed,7
+4944,22364,BlueDart,Out for Delivery,5
+4945,23850,Delhivery,Processing,4
+4946,20509,Ekart,Shipped,3
+4947,24914,Ekart,Delivered,7
+4948,22544,DTDC,Out for Delivery,3
+4949,25896,Delhivery,Out for Delivery,4
+4950,21087,BlueDart,Delivered,3
+4951,23456,DTDC,Processing,2
+4952,22703,Ekart,Delivered,2
+4953,22815,Delhivery,Packed,7
+4954,23690,DTDC,Out for Delivery,3
+4955,25113,Delhivery,Out for Delivery,3
+4956,21016,BlueDart,Packed,4
+4957,21209,DTDC,Out for Delivery,3
+4958,21617,Delhivery,Shipped,7
+4959,23014,Delhivery,Packed,3
+4960,20846,DTDC,Processing,1
+4961,22777,Ekart,Shipped,3
+4962,24553,BlueDart,Shipped,3
+4963,22914,Ekart,Shipped,4
+4964,21535,Delhivery,Out for Delivery,5
+4965,25436,BlueDart,Packed,3
+4966,25391,DTDC,Out for Delivery,4
+4967,24170,Delhivery,Delivered,7
+4968,25020,Ekart,Processing,3
+4969,24756,Delhivery,Processing,5
+4970,23420,Delhivery,Shipped,2
+4971,20651,DTDC,Processing,3
+4972,22701,DTDC,Delivered,3
+4973,21300,Delhivery,Delivered,4
+4974,24777,BlueDart,Packed,4
+4975,24555,DTDC,Processing,7
+4976,25047,BlueDart,Processing,6
+4977,25571,DTDC,Processing,5
+4978,24717,Ekart,Processing,1
+4979,20274,Ekart,Shipped,7
+4980,24521,BlueDart,Delivered,1
+4981,20761,Delhivery,Shipped,7
+4982,21677,BlueDart,Processing,2
+4983,23326,Ekart,Processing,1
+4984,25007,BlueDart,Packed,6
+4985,21779,DTDC,Packed,4
+4986,24813,Delhivery,Packed,1
+4987,25454,BlueDart,Delivered,5
+4988,25213,DTDC,Delivered,2
+4989,25365,Delhivery,Delivered,5
+4990,25038,BlueDart,Delivered,3
+4991,22322,DTDC,Delivered,1
+4992,23377,DTDC,Out for Delivery,4
+4993,22036,Ekart,Packed,6
+4994,20065,BlueDart,Shipped,5
+4995,25730,Delhivery,Packed,3
+4996,21527,DTDC,Out for Delivery,3
+4997,23939,Ekart,Packed,6
+4998,23384,Ekart,Shipped,7
+4999,20246,Ekart,Out for Delivery,6
+5000,24578,BlueDart,Packed,7
+5001,24055,DTDC,Out for Delivery,2
+5002,23624,Ekart,Delivered,1
+5003,25596,DTDC,Out for Delivery,7
+5004,22477,Ekart,Delivered,5
+5005,21383,Ekart,Out for Delivery,5
+5006,23653,Delhivery,Shipped,3
+5007,23146,BlueDart,Delivered,5
+5008,25761,Ekart,Packed,1
+5009,22680,Ekart,Out for Delivery,4
+5010,22548,BlueDart,Packed,5
+5011,22287,Delhivery,Packed,6
+5012,23104,Delhivery,Delivered,5
+5013,23073,Ekart,Delivered,4
+5014,23199,DTDC,Delivered,1
+5015,20998,BlueDart,Packed,5
+5016,21196,BlueDart,Packed,3
+5017,23144,DTDC,Packed,2
+5018,20430,BlueDart,Out for Delivery,2
+5019,21888,DTDC,Delivered,7
+5020,22211,Delhivery,Out for Delivery,6
+5021,25836,Delhivery,Packed,5
+5022,23389,DTDC,Shipped,6
+5023,24267,Ekart,Out for Delivery,5
+5024,22004,Delhivery,Shipped,7
+5025,22701,Ekart,Delivered,4
+5026,25624,Ekart,Out for Delivery,6
+5027,23272,Ekart,Out for Delivery,5
+5028,23157,Delhivery,Processing,3
+5029,22764,Delhivery,Packed,4
+5030,25220,DTDC,Out for Delivery,3
+5031,25236,Ekart,Delivered,3
+5032,21760,DTDC,Packed,2
+5033,23825,Delhivery,Shipped,4
+5034,20880,Ekart,Out for Delivery,3
+5035,21581,Ekart,Shipped,2
+5036,20347,Delhivery,Shipped,2
+5037,20720,DTDC,Out for Delivery,3
+5038,23735,Delhivery,Shipped,2
+5039,20416,BlueDart,Shipped,1
+5040,25174,Delhivery,Delivered,5
+5041,22848,Delhivery,Shipped,4
+5042,23065,Delhivery,Packed,2
+5043,22594,Ekart,Processing,5
+5044,20718,Ekart,Packed,2
+5045,21523,DTDC,Out for Delivery,4
+5046,25819,BlueDart,Packed,7
+5047,24014,Delhivery,Shipped,2
+5048,21698,BlueDart,Delivered,1
+5049,20013,DTDC,Processing,6
+5050,24141,Delhivery,Out for Delivery,1
+5051,20313,Ekart,Packed,2
+5052,24941,Delhivery,Delivered,3
+5053,22864,DTDC,Shipped,5
+5054,23330,Ekart,Delivered,5
+5055,20172,Ekart,Packed,4
+5056,20156,BlueDart,Shipped,5
+5057,25083,DTDC,Processing,1
+5058,22376,BlueDart,Shipped,5
+5059,21588,Delhivery,Shipped,7
+5060,20052,DTDC,Out for Delivery,6
+5061,25895,Ekart,Processing,2
+5062,20329,DTDC,Processing,1
+5063,24878,BlueDart,Packed,1
+5064,23289,DTDC,Shipped,3
+5065,21648,DTDC,Processing,3
+5066,23662,BlueDart,Packed,1
+5067,22322,BlueDart,Processing,5
+5068,21035,DTDC,Shipped,2
+5069,20713,BlueDart,Out for Delivery,4
+5070,23369,Ekart,Out for Delivery,7
+5071,20355,BlueDart,Packed,2
+5072,23291,Delhivery,Out for Delivery,3
+5073,22784,Delhivery,Out for Delivery,7
+5074,21193,Ekart,Out for Delivery,3
+5075,22718,Ekart,Packed,4
+5076,23743,BlueDart,Processing,6
+5077,21983,DTDC,Out for Delivery,6
+5078,20471,BlueDart,Out for Delivery,6
+5079,22573,Delhivery,Processing,1
+5080,22919,DTDC,Delivered,4
+5081,20342,DTDC,Delivered,1
+5082,22615,DTDC,Processing,7
+5083,20582,BlueDart,Processing,6
+5084,24281,Delhivery,Out for Delivery,4
+5085,25638,BlueDart,Packed,2
+5086,22990,BlueDart,Delivered,7
+5087,21882,BlueDart,Processing,6
+5088,23036,Ekart,Delivered,3
+5089,24774,Ekart,Processing,7
+5090,23430,Ekart,Out for Delivery,7
+5091,20460,DTDC,Delivered,3
+5092,21543,BlueDart,Processing,6
+5093,24326,BlueDart,Processing,2
+5094,22224,BlueDart,Out for Delivery,6
+5095,22172,DTDC,Delivered,7
+5096,22739,Ekart,Processing,5
+5097,20202,BlueDart,Processing,3
+5098,20564,Delhivery,Shipped,6
+5099,22497,Delhivery,Shipped,1
+5100,20409,BlueDart,Packed,3
+5101,23206,Ekart,Packed,2
+5102,23414,BlueDart,Packed,1
+5103,22587,DTDC,Shipped,6
+5104,22480,BlueDart,Out for Delivery,6
+5105,20434,Delhivery,Delivered,7
+5106,24426,Ekart,Processing,4
+5107,22159,BlueDart,Out for Delivery,4
+5108,20271,BlueDart,Processing,7
+5109,23789,Delhivery,Shipped,4
+5110,20504,Delhivery,Packed,3
+5111,25766,BlueDart,Delivered,6
+5112,21835,BlueDart,Delivered,6
+5113,23856,Delhivery,Out for Delivery,6
+5114,24417,Ekart,Out for Delivery,5
+5115,20889,DTDC,Out for Delivery,5
+5116,23641,Ekart,Processing,3
+5117,24951,Delhivery,Out for Delivery,6
+5118,21940,BlueDart,Processing,7
+5119,25747,Delhivery,Processing,6
+5120,22844,Ekart,Delivered,1
+5121,23101,BlueDart,Packed,6
+5122,25329,Delhivery,Out for Delivery,5
+5123,21736,DTDC,Shipped,6
+5124,24093,Delhivery,Delivered,5
+5125,25845,Ekart,Shipped,1
+5126,23160,Ekart,Shipped,7
+5127,22908,BlueDart,Shipped,5
+5128,21660,Ekart,Out for Delivery,1
+5129,25440,DTDC,Out for Delivery,7
+5130,23021,Delhivery,Delivered,3
+5131,23211,BlueDart,Processing,4
+5132,24408,Ekart,Out for Delivery,2
+5133,25346,BlueDart,Out for Delivery,1
+5134,24760,BlueDart,Out for Delivery,1
+5135,21055,DTDC,Processing,1
+5136,24597,DTDC,Delivered,7
+5137,20164,Delhivery,Processing,5
+5138,21805,DTDC,Processing,5
+5139,25320,Delhivery,Delivered,3
+5140,24684,Delhivery,Delivered,1
+5141,25355,DTDC,Processing,1
+5142,21609,BlueDart,Out for Delivery,6
+5143,23328,BlueDart,Delivered,1
+5144,22824,DTDC,Out for Delivery,7
+5145,24022,DTDC,Processing,1
+5146,22274,DTDC,Packed,6
+5147,23160,BlueDart,Processing,1
+5148,24614,Ekart,Out for Delivery,6
+5149,25375,DTDC,Shipped,4
+5150,20231,DTDC,Out for Delivery,2
+5151,25208,Ekart,Delivered,3
+5152,23198,Delhivery,Delivered,7
+5153,21371,BlueDart,Processing,3
+5154,20985,BlueDart,Shipped,4
+5155,21968,DTDC,Shipped,6
+5156,24348,BlueDart,Shipped,1
+5157,20400,DTDC,Shipped,1
+5158,23477,DTDC,Shipped,7
+5159,25919,DTDC,Out for Delivery,2
+5160,22975,Delhivery,Delivered,2
+5161,25987,Delhivery,Out for Delivery,6
+5162,24069,Ekart,Delivered,4
+5163,22312,DTDC,Out for Delivery,5
+5164,21956,Ekart,Delivered,5
+5165,25462,Ekart,Delivered,3
+5166,21771,BlueDart,Shipped,4
+5167,24952,DTDC,Processing,2
+5168,22873,BlueDart,Processing,7
+5169,20658,BlueDart,Processing,6
+5170,23113,Ekart,Out for Delivery,6
+5171,24735,Delhivery,Packed,4
+5172,24022,Delhivery,Delivered,1
+5173,24658,DTDC,Delivered,5
+5174,21550,BlueDart,Shipped,2
+5175,25557,Delhivery,Packed,6
+5176,20626,BlueDart,Delivered,4
+5177,24562,BlueDart,Processing,3
+5178,25255,DTDC,Delivered,2
+5179,24224,DTDC,Shipped,2
+5180,21929,Ekart,Shipped,2
+5181,23470,BlueDart,Processing,2
+5182,24901,Ekart,Delivered,4
+5183,22078,DTDC,Delivered,1
+5184,20932,BlueDart,Delivered,2
+5185,23304,BlueDart,Shipped,6
+5186,23018,Delhivery,Out for Delivery,2
+5187,24675,BlueDart,Packed,2
+5188,24744,BlueDart,Processing,4
+5189,25283,DTDC,Delivered,4
+5190,22750,Delhivery,Packed,5
+5191,25334,Ekart,Out for Delivery,3
+5192,25278,Delhivery,Shipped,3
+5193,23952,DTDC,Out for Delivery,7
+5194,24609,Delhivery,Out for Delivery,3
+5195,21670,Delhivery,Packed,6
+5196,22468,BlueDart,Shipped,6
+5197,22616,BlueDart,Shipped,2
+5198,24120,Delhivery,Processing,6
+5199,22707,DTDC,Shipped,1
+5200,24814,BlueDart,Out for Delivery,2
+5201,20411,Ekart,Delivered,1
+5202,21541,DTDC,Delivered,6
+5203,23057,DTDC,Shipped,4
+5204,21528,Ekart,Packed,2
+5205,24724,Delhivery,Out for Delivery,5
+5206,23094,DTDC,Processing,7
+5207,24267,Ekart,Shipped,1
+5208,23275,Ekart,Packed,7
+5209,24745,Ekart,Shipped,7
+5210,20870,Delhivery,Processing,1
+5211,22457,BlueDart,Out for Delivery,7
+5212,24858,DTDC,Shipped,5
+5213,21581,Ekart,Shipped,7
+5214,24789,BlueDart,Processing,1
+5215,20875,Delhivery,Delivered,5
+5216,25246,DTDC,Delivered,5
+5217,25256,Delhivery,Packed,2
+5218,25142,BlueDart,Shipped,4
+5219,22630,BlueDart,Delivered,3
+5220,24119,Delhivery,Processing,1
+5221,22662,DTDC,Processing,7
+5222,21546,Ekart,Out for Delivery,3
+5223,23241,Delhivery,Processing,7
+5224,23376,Ekart,Packed,4
+5225,21535,Ekart,Shipped,3
+5226,22326,DTDC,Packed,1
+5227,21458,Delhivery,Packed,3
+5228,25809,Ekart,Out for Delivery,5
+5229,25810,BlueDart,Packed,6
+5230,22048,Ekart,Processing,4
+5231,20683,DTDC,Packed,6
+5232,22418,BlueDart,Shipped,4
+5233,23138,Delhivery,Delivered,3
+5234,22124,DTDC,Processing,6
+5235,25424,Delhivery,Out for Delivery,1
+5236,22047,Delhivery,Processing,4
+5237,24736,Ekart,Processing,4
+5238,21556,Ekart,Packed,1
+5239,22128,Delhivery,Packed,1
+5240,21397,BlueDart,Shipped,6
+5241,20875,DTDC,Shipped,4
+5242,20552,DTDC,Delivered,1
+5243,24976,Ekart,Out for Delivery,3
+5244,25444,Delhivery,Delivered,6
+5245,22751,Ekart,Processing,2
+5246,21789,BlueDart,Out for Delivery,4
+5247,22947,Delhivery,Packed,5
+5248,22790,Delhivery,Shipped,4
+5249,25707,Ekart,Delivered,1
+5250,23599,Delhivery,Shipped,6
+5251,23879,BlueDart,Delivered,1
+5252,25767,Ekart,Packed,6
+5253,22491,BlueDart,Packed,1
+5254,24792,Delhivery,Processing,6
+5255,22320,BlueDart,Delivered,5
+5256,24978,Ekart,Delivered,1
+5257,22378,Delhivery,Shipped,1
+5258,20689,BlueDart,Delivered,3
+5259,25681,DTDC,Delivered,5
+5260,21553,Delhivery,Shipped,7
+5261,21380,DTDC,Shipped,2
+5262,20047,Delhivery,Packed,7
+5263,25822,Delhivery,Processing,4
+5264,22474,Delhivery,Packed,1
+5265,25074,Ekart,Shipped,4
+5266,25065,DTDC,Out for Delivery,3
+5267,25114,Ekart,Delivered,1
+5268,25661,BlueDart,Out for Delivery,2
+5269,24915,Delhivery,Packed,6
+5270,23159,DTDC,Shipped,5
+5271,20834,DTDC,Shipped,3
+5272,25685,Delhivery,Shipped,2
+5273,21225,Delhivery,Delivered,6
+5274,20209,Delhivery,Processing,2
+5275,20505,Ekart,Packed,2
+5276,20839,Ekart,Out for Delivery,7
+5277,24372,BlueDart,Packed,3
+5278,21500,Ekart,Processing,6
+5279,21028,BlueDart,Shipped,4
+5280,21427,DTDC,Out for Delivery,7
+5281,20670,BlueDart,Packed,1
+5282,21143,Ekart,Packed,7
+5283,22074,BlueDart,Packed,5
+5284,23473,DTDC,Processing,7
+5285,23672,DTDC,Out for Delivery,1
+5286,22548,BlueDart,Delivered,6
+5287,21622,DTDC,Out for Delivery,6
+5288,23237,DTDC,Shipped,1
+5289,24417,DTDC,Out for Delivery,7
+5290,21099,Delhivery,Processing,4
+5291,25328,Ekart,Packed,7
+5292,22393,Delhivery,Processing,2
+5293,21792,Delhivery,Shipped,7
+5294,20599,Delhivery,Delivered,6
+5295,24040,BlueDart,Shipped,7
+5296,23785,BlueDart,Shipped,3
+5297,21498,DTDC,Shipped,3
+5298,20531,DTDC,Delivered,5
+5299,25497,BlueDart,Delivered,2
+5300,23977,DTDC,Packed,5
+5301,24514,Ekart,Packed,2
+5302,24552,Delhivery,Delivered,2
+5303,24189,BlueDart,Out for Delivery,6
+5304,21571,BlueDart,Out for Delivery,5
+5305,25333,DTDC,Delivered,1
+5306,23917,Delhivery,Shipped,2
+5307,25331,BlueDart,Shipped,4
+5308,25329,BlueDart,Processing,5
+5309,25032,Ekart,Delivered,2
+5310,20580,Delhivery,Out for Delivery,6
+5311,24740,BlueDart,Processing,6
+5312,21567,Ekart,Packed,3
+5313,25793,DTDC,Processing,3
+5314,20057,DTDC,Processing,4
+5315,23928,Ekart,Processing,6
+5316,24576,Ekart,Delivered,3
+5317,25396,DTDC,Packed,7
+5318,22839,DTDC,Out for Delivery,5
+5319,23410,DTDC,Packed,7
+5320,20580,BlueDart,Delivered,1
+5321,22666,Ekart,Processing,5
+5322,22108,Ekart,Shipped,3
+5323,21404,BlueDart,Shipped,5
+5324,22727,Ekart,Processing,2
+5325,21548,Delhivery,Shipped,5
+5326,20552,Ekart,Shipped,1
+5327,24767,DTDC,Packed,6
+5328,25643,Ekart,Processing,6
+5329,25768,Delhivery,Processing,5
+5330,23365,DTDC,Shipped,3
+5331,20879,BlueDart,Out for Delivery,2
+5332,23293,Ekart,Delivered,1
+5333,22746,Delhivery,Shipped,1
+5334,24025,BlueDart,Out for Delivery,2
+5335,21153,BlueDart,Shipped,2
+5336,23440,DTDC,Delivered,7
+5337,23819,Delhivery,Packed,7
+5338,25558,BlueDart,Packed,6
+5339,24465,Delhivery,Packed,5
+5340,20657,DTDC,Processing,7
+5341,24312,BlueDart,Shipped,7
+5342,22517,DTDC,Shipped,2
+5343,20984,Delhivery,Packed,4
+5344,22599,DTDC,Packed,7
+5345,24080,BlueDart,Processing,1
+5346,22506,BlueDart,Packed,1
+5347,20133,DTDC,Packed,2
+5348,20442,DTDC,Shipped,7
+5349,24764,Ekart,Processing,1
+5350,21925,Delhivery,Delivered,7
+5351,20154,BlueDart,Out for Delivery,3
+5352,24483,Ekart,Processing,6
+5353,20307,Delhivery,Packed,1
+5354,24103,BlueDart,Shipped,1
+5355,25788,Ekart,Processing,5
+5356,20715,DTDC,Processing,2
+5357,24242,Ekart,Out for Delivery,1
+5358,23479,DTDC,Delivered,4
+5359,25256,BlueDart,Packed,7
+5360,20527,Ekart,Delivered,5
+5361,24702,DTDC,Processing,2
+5362,25446,BlueDart,Processing,3
+5363,21538,Ekart,Out for Delivery,3
+5364,21746,BlueDart,Shipped,3
+5365,21063,Delhivery,Processing,4
+5366,22960,Delhivery,Processing,7
+5367,20171,Ekart,Out for Delivery,1
+5368,20538,Delhivery,Shipped,1
+5369,21633,Delhivery,Packed,3
+5370,23002,Ekart,Out for Delivery,5
+5371,22486,BlueDart,Processing,6
+5372,23870,BlueDart,Packed,6
+5373,21901,Ekart,Out for Delivery,7
+5374,25673,DTDC,Packed,6
+5375,20698,DTDC,Out for Delivery,7
+5376,20629,DTDC,Delivered,7
+5377,23719,DTDC,Out for Delivery,4
+5378,23588,Ekart,Processing,2
+5379,24097,DTDC,Out for Delivery,6
+5380,20627,BlueDart,Packed,5
+5381,24400,Delhivery,Delivered,5
+5382,21829,DTDC,Packed,1
+5383,22276,DTDC,Packed,1
+5384,22253,Ekart,Processing,5
+5385,22072,Ekart,Shipped,6
+5386,24107,DTDC,Delivered,7
+5387,20693,DTDC,Packed,3
+5388,20930,Delhivery,Out for Delivery,5
+5389,25385,DTDC,Shipped,6
+5390,25549,Delhivery,Packed,6
+5391,25192,Delhivery,Shipped,4
+5392,22614,Ekart,Delivered,2
+5393,24660,Delhivery,Delivered,6
+5394,22665,BlueDart,Out for Delivery,6
+5395,21149,Delhivery,Shipped,3
+5396,22505,BlueDart,Packed,5
+5397,21497,DTDC,Processing,6
+5398,24617,Ekart,Shipped,1
+5399,23364,BlueDart,Delivered,3
+5400,23445,DTDC,Processing,2
+5401,20447,DTDC,Processing,7
+5402,22910,BlueDart,Out for Delivery,5
+5403,25380,Ekart,Packed,1
+5404,25627,Ekart,Shipped,6
+5405,25316,Ekart,Shipped,7
+5406,21795,Ekart,Shipped,3
+5407,20296,DTDC,Delivered,6
+5408,24862,DTDC,Out for Delivery,4
+5409,25723,BlueDart,Packed,7
+5410,20868,Delhivery,Processing,4
+5411,21146,Delhivery,Shipped,1
+5412,25068,Ekart,Out for Delivery,7
+5413,20558,Delhivery,Packed,3
+5414,23298,Delhivery,Out for Delivery,3
+5415,25478,DTDC,Delivered,6
+5416,20128,Ekart,Processing,1
+5417,25686,Ekart,Delivered,4
+5418,23350,DTDC,Processing,5
+5419,23428,Ekart,Shipped,2
+5420,23551,BlueDart,Shipped,3
+5421,24077,Delhivery,Shipped,5
+5422,24495,DTDC,Out for Delivery,1
+5423,20942,Delhivery,Processing,5
+5424,23795,DTDC,Processing,2
+5425,21985,BlueDart,Shipped,4
+5426,20386,Ekart,Shipped,2
+5427,20239,DTDC,Packed,2
+5428,22523,DTDC,Out for Delivery,7
+5429,24343,DTDC,Shipped,5
+5430,25565,Delhivery,Packed,6
+5431,20468,Ekart,Packed,5
+5432,20829,DTDC,Out for Delivery,5
+5433,24873,BlueDart,Shipped,4
+5434,24700,BlueDart,Shipped,4
+5435,20183,Ekart,Delivered,1
+5436,20863,BlueDart,Processing,1
+5437,24192,DTDC,Shipped,2
+5438,21114,BlueDart,Processing,7
+5439,22166,Ekart,Out for Delivery,7
+5440,23045,Delhivery,Delivered,7
+5441,21022,BlueDart,Out for Delivery,3
+5442,24872,Delhivery,Out for Delivery,1
+5443,20177,BlueDart,Shipped,2
+5444,23771,Ekart,Packed,6
+5445,21267,Ekart,Out for Delivery,7
+5446,25593,DTDC,Shipped,1
+5447,25643,Ekart,Packed,4
+5448,21132,Ekart,Processing,6
+5449,25504,BlueDart,Packed,1
+5450,20599,Ekart,Shipped,1
+5451,25219,Delhivery,Processing,5
+5452,20222,BlueDart,Processing,4
+5453,20095,DTDC,Processing,2
+5454,23294,BlueDart,Processing,7
+5455,20271,Ekart,Packed,2
+5456,20618,Ekart,Shipped,2
+5457,25299,DTDC,Out for Delivery,6
+5458,22002,Ekart,Packed,5
+5459,22176,BlueDart,Shipped,7
+5460,23477,Delhivery,Processing,7
+5461,23354,Delhivery,Shipped,6
+5462,25089,Ekart,Shipped,6
+5463,21161,DTDC,Processing,5
+5464,22255,Ekart,Shipped,2
+5465,23593,Ekart,Delivered,2
+5466,23289,BlueDart,Delivered,3
+5467,20492,Delhivery,Shipped,7
+5468,25014,Ekart,Processing,2
+5469,21569,BlueDart,Packed,3
+5470,24548,Ekart,Delivered,2
+5471,22850,Delhivery,Packed,6
+5472,25150,Ekart,Packed,5
+5473,24243,Delhivery,Shipped,1
+5474,24062,Ekart,Processing,7
+5475,24073,Delhivery,Delivered,6
+5476,25165,DTDC,Packed,3
+5477,22124,Ekart,Packed,3
+5478,21482,Ekart,Out for Delivery,4
+5479,24004,DTDC,Shipped,3
+5480,22241,DTDC,Shipped,7
+5481,24812,BlueDart,Processing,3
+5482,23500,Ekart,Processing,1
+5483,23562,Delhivery,Out for Delivery,5
+5484,24359,BlueDart,Out for Delivery,3
+5485,24476,DTDC,Packed,6
+5486,25502,DTDC,Shipped,7
+5487,22991,BlueDart,Out for Delivery,4
+5488,24864,BlueDart,Delivered,3
+5489,25338,Ekart,Out for Delivery,1
+5490,24775,Delhivery,Packed,1
+5491,20182,Ekart,Processing,4
+5492,21288,Ekart,Shipped,7
+5493,22902,BlueDart,Delivered,4
+5494,20357,Delhivery,Out for Delivery,1
+5495,24699,BlueDart,Packed,7
+5496,25180,Ekart,Out for Delivery,1
+5497,23608,BlueDart,Out for Delivery,2
+5498,22954,Delhivery,Out for Delivery,3
+5499,21649,Delhivery,Out for Delivery,7
+5500,20466,BlueDart,Packed,3
+5501,20482,BlueDart,Delivered,3
+5502,22020,Ekart,Shipped,2
+5503,23768,Ekart,Packed,6
+5504,21989,DTDC,Processing,7
+5505,24091,Ekart,Delivered,4
+5506,25947,Ekart,Shipped,7
+5507,22510,Ekart,Delivered,3
+5508,23739,Delhivery,Packed,4
+5509,25941,BlueDart,Processing,4
+5510,25814,Ekart,Packed,4
+5511,25975,Delhivery,Delivered,2
+5512,21088,BlueDart,Shipped,1
+5513,21323,BlueDart,Delivered,2
+5514,23229,BlueDart,Out for Delivery,4
+5515,20839,DTDC,Out for Delivery,7
+5516,22217,Delhivery,Shipped,1
+5517,22279,DTDC,Shipped,6
+5518,23004,Delhivery,Processing,2
+5519,24526,DTDC,Packed,5
+5520,20651,Delhivery,Processing,3
+5521,20054,BlueDart,Packed,5
+5522,25886,BlueDart,Processing,4
+5523,25324,Ekart,Shipped,5
+5524,22921,BlueDart,Delivered,6
+5525,21105,DTDC,Out for Delivery,4
+5526,23945,Ekart,Packed,2
+5527,25120,BlueDart,Shipped,6
+5528,22171,BlueDart,Packed,7
+5529,25233,DTDC,Packed,6
+5530,21092,DTDC,Delivered,2
+5531,24981,DTDC,Delivered,2
+5532,20654,Ekart,Processing,1
+5533,20098,BlueDart,Out for Delivery,1
+5534,24012,DTDC,Packed,1
+5535,22110,BlueDart,Shipped,6
+5536,24276,DTDC,Delivered,6
+5537,23135,Ekart,Packed,7
+5538,24070,Delhivery,Shipped,3
+5539,23903,BlueDart,Processing,1
+5540,22918,BlueDart,Processing,5
+5541,24652,BlueDart,Processing,5
+5542,23713,BlueDart,Processing,6
+5543,24656,Ekart,Processing,4
+5544,25102,BlueDart,Packed,4
+5545,23681,BlueDart,Processing,2
+5546,25016,DTDC,Packed,3
+5547,20702,Ekart,Delivered,3
+5548,20424,BlueDart,Out for Delivery,6
+5549,23057,Delhivery,Delivered,2
+5550,23375,Delhivery,Processing,5
+5551,20482,DTDC,Packed,2
+5552,20226,DTDC,Processing,7
+5553,21284,Delhivery,Delivered,5
+5554,22288,Ekart,Packed,2
+5555,24885,Ekart,Delivered,4
+5556,20310,BlueDart,Packed,2
+5557,20618,Ekart,Delivered,7
+5558,25111,DTDC,Shipped,1
+5559,23771,Ekart,Out for Delivery,7
+5560,25088,Delhivery,Packed,2
+5561,21611,Delhivery,Delivered,5
+5562,24411,Delhivery,Out for Delivery,7
+5563,20025,Ekart,Processing,4
+5564,22755,Delhivery,Packed,7
+5565,22292,Delhivery,Packed,1
+5566,20386,DTDC,Delivered,6
+5567,24475,DTDC,Out for Delivery,6
+5568,22864,DTDC,Shipped,3
+5569,25594,Ekart,Processing,5
+5570,22776,Delhivery,Shipped,3
+5571,20354,Ekart,Delivered,7
+5572,23586,BlueDart,Packed,4
+5573,23378,Ekart,Out for Delivery,2
+5574,23649,BlueDart,Delivered,4
+5575,22779,Delhivery,Delivered,1
+5576,22360,BlueDart,Processing,3
+5577,21852,Ekart,Shipped,1
+5578,25587,Ekart,Out for Delivery,2
+5579,20869,DTDC,Out for Delivery,3
+5580,25427,BlueDart,Shipped,5
+5581,21649,Ekart,Processing,4
+5582,25857,DTDC,Out for Delivery,3
+5583,20275,DTDC,Delivered,6
+5584,24586,DTDC,Delivered,5
+5585,25706,Ekart,Delivered,3
+5586,23658,Ekart,Delivered,1
+5587,20705,Delhivery,Out for Delivery,6
+5588,23578,DTDC,Packed,4
+5589,22374,Delhivery,Delivered,4
+5590,25119,BlueDart,Delivered,4
+5591,24408,Ekart,Packed,4
+5592,23873,Delhivery,Processing,2
+5593,22284,BlueDart,Processing,4
+5594,22179,Ekart,Delivered,5
+5595,21207,Ekart,Packed,4
+5596,24478,Delhivery,Shipped,4
+5597,20023,Ekart,Processing,4
+5598,25147,BlueDart,Out for Delivery,3
+5599,20560,DTDC,Shipped,4
+5600,24751,BlueDart,Out for Delivery,6
+5601,24830,BlueDart,Processing,7
+5602,21807,BlueDart,Out for Delivery,2
+5603,22805,DTDC,Processing,2
+5604,22984,DTDC,Out for Delivery,2
+5605,20593,BlueDart,Packed,1
+5606,20221,Ekart,Out for Delivery,6
+5607,24145,Ekart,Delivered,1
+5608,23010,BlueDart,Packed,6
+5609,22499,BlueDart,Shipped,7
+5610,23182,DTDC,Processing,1
+5611,24755,Delhivery,Shipped,4
+5612,24405,BlueDart,Out for Delivery,6
+5613,24963,Delhivery,Packed,1
+5614,21657,Ekart,Processing,7
+5615,22015,DTDC,Shipped,6
+5616,21549,BlueDart,Delivered,5
+5617,22648,DTDC,Delivered,3
+5618,25051,DTDC,Out for Delivery,7
+5619,20227,DTDC,Processing,4
+5620,20361,Delhivery,Out for Delivery,3
+5621,23092,Delhivery,Shipped,7
+5622,21963,BlueDart,Out for Delivery,1
+5623,20417,Ekart,Delivered,1
+5624,25977,DTDC,Shipped,3
+5625,21614,DTDC,Delivered,4
+5626,20676,DTDC,Packed,5
+5627,25756,DTDC,Out for Delivery,2
+5628,20650,Ekart,Out for Delivery,6
+5629,24013,Ekart,Processing,6
+5630,22663,Ekart,Shipped,7
+5631,24110,DTDC,Out for Delivery,1
+5632,24289,BlueDart,Shipped,7
+5633,24418,DTDC,Shipped,1
+5634,22246,BlueDart,Out for Delivery,5
+5635,22962,BlueDart,Processing,3
+5636,20892,DTDC,Packed,4
+5637,21698,Ekart,Delivered,2
+5638,20674,BlueDart,Packed,2
+5639,25848,BlueDart,Delivered,7
+5640,24795,BlueDart,Processing,3
+5641,24614,Delhivery,Processing,4
+5642,25724,Delhivery,Packed,7
+5643,21136,Delhivery,Shipped,6
+5644,22238,Ekart,Shipped,4
+5645,23715,DTDC,Processing,3
+5646,25463,Ekart,Processing,6
+5647,23807,DTDC,Out for Delivery,1
+5648,22431,Ekart,Out for Delivery,5
+5649,24826,BlueDart,Delivered,1
+5650,20809,DTDC,Shipped,3
+5651,23606,DTDC,Out for Delivery,7
+5652,25468,DTDC,Out for Delivery,3
+5653,23882,DTDC,Out for Delivery,4
+5654,22062,DTDC,Out for Delivery,1
+5655,24606,Ekart,Packed,1
+5656,24098,Ekart,Packed,5
+5657,23570,Ekart,Shipped,3
+5658,21516,Delhivery,Out for Delivery,3
+5659,20509,Ekart,Delivered,5
+5660,24402,DTDC,Delivered,2
+5661,24861,DTDC,Packed,4
+5662,22954,Ekart,Shipped,2
+5663,21365,Delhivery,Out for Delivery,1
+5664,25628,Ekart,Processing,4
+5665,24976,BlueDart,Delivered,7
+5666,24393,DTDC,Packed,6
+5667,24311,DTDC,Shipped,1
+5668,20506,DTDC,Out for Delivery,2
+5669,22501,DTDC,Out for Delivery,2
+5670,24786,Delhivery,Packed,2
+5671,20719,Ekart,Packed,1
+5672,21590,Delhivery,Delivered,6
+5673,21556,BlueDart,Packed,7
+5674,20163,Delhivery,Processing,1
+5675,24165,Ekart,Processing,4
+5676,22898,Ekart,Delivered,5
+5677,22650,Ekart,Delivered,4
+5678,22620,Ekart,Packed,6
+5679,22372,Ekart,Packed,5
+5680,23217,Delhivery,Shipped,1
+5681,22265,BlueDart,Out for Delivery,5
+5682,23748,Ekart,Shipped,4
+5683,25796,BlueDart,Shipped,1
+5684,23712,BlueDart,Delivered,4
+5685,25838,Delhivery,Packed,3
+5686,22860,DTDC,Out for Delivery,5
+5687,23540,BlueDart,Packed,7
+5688,24446,Ekart,Delivered,4
+5689,25442,Ekart,Processing,4
+5690,25353,BlueDart,Shipped,6
+5691,23171,Delhivery,Processing,5
+5692,25036,Delhivery,Out for Delivery,2
+5693,22161,DTDC,Delivered,3
+5694,25193,DTDC,Out for Delivery,6
+5695,21378,BlueDart,Out for Delivery,7
+5696,25604,Ekart,Packed,4
+5697,24303,Ekart,Processing,4
+5698,24833,DTDC,Packed,4
+5699,23944,Delhivery,Processing,7
+5700,20033,BlueDart,Out for Delivery,7
+5701,20632,Delhivery,Delivered,3
+5702,25901,BlueDart,Processing,2
+5703,24424,DTDC,Packed,1
+5704,21054,Delhivery,Shipped,6
+5705,20617,Delhivery,Shipped,3
+5706,25989,DTDC,Packed,7
+5707,22497,Ekart,Out for Delivery,6
+5708,21499,BlueDart,Processing,1
+5709,23201,Ekart,Out for Delivery,4
+5710,21779,BlueDart,Delivered,2
+5711,25556,Ekart,Processing,5
+5712,21276,Ekart,Packed,6
+5713,21078,DTDC,Packed,3
+5714,21971,Delhivery,Shipped,1
+5715,21926,Delhivery,Out for Delivery,3
+5716,22568,Ekart,Processing,6
+5717,22242,BlueDart,Processing,2
+5718,22320,Ekart,Packed,7
+5719,22839,Delhivery,Out for Delivery,3
+5720,23024,Delhivery,Delivered,2
+5721,22022,BlueDart,Delivered,1
+5722,24787,DTDC,Processing,2
+5723,22171,Ekart,Processing,3
+5724,21657,Delhivery,Processing,5
+5725,20099,DTDC,Out for Delivery,1
+5726,25483,BlueDart,Packed,6
+5727,22692,BlueDart,Packed,7
+5728,24006,DTDC,Packed,4
+5729,23574,Ekart,Shipped,3
+5730,23612,DTDC,Processing,4
+5731,21043,DTDC,Shipped,4
+5732,21846,Ekart,Shipped,3
+5733,24567,Delhivery,Shipped,4
+5734,20798,BlueDart,Out for Delivery,4
+5735,23507,Delhivery,Shipped,6
+5736,22024,BlueDart,Delivered,6
+5737,21045,Ekart,Packed,4
+5738,25799,Delhivery,Packed,1
+5739,22833,Delhivery,Processing,2
+5740,22087,BlueDart,Packed,5
+5741,20415,DTDC,Packed,4
+5742,25069,Ekart,Delivered,2
+5743,22360,DTDC,Out for Delivery,2
+5744,21764,Delhivery,Packed,5
+5745,24946,Delhivery,Packed,4
+5746,20917,Delhivery,Packed,4
+5747,22840,BlueDart,Delivered,6
+5748,22971,Ekart,Out for Delivery,6
+5749,20718,Ekart,Packed,1
+5750,20734,DTDC,Packed,2
+5751,20276,DTDC,Shipped,5
+5752,20728,Delhivery,Processing,6
+5753,22262,Ekart,Packed,4
+5754,22058,BlueDart,Out for Delivery,3
+5755,22377,Ekart,Packed,7
+5756,21314,DTDC,Delivered,1
+5757,22072,BlueDart,Packed,6
+5758,25797,Delhivery,Processing,4
+5759,25155,BlueDart,Packed,4
+5760,23261,BlueDart,Shipped,2
+5761,23784,Delhivery,Delivered,4
+5762,24468,Ekart,Out for Delivery,1
+5763,20462,BlueDart,Packed,5
+5764,23049,BlueDart,Processing,1
+5765,20358,Delhivery,Processing,6
+5766,23466,BlueDart,Packed,3
+5767,24215,DTDC,Out for Delivery,4
+5768,22710,Ekart,Out for Delivery,3
+5769,24519,DTDC,Processing,4
+5770,21358,Ekart,Out for Delivery,6
+5771,20228,BlueDart,Shipped,3
+5772,23451,BlueDart,Packed,2
+5773,25831,Ekart,Out for Delivery,3
+5774,25313,DTDC,Delivered,3
+5775,20533,Ekart,Shipped,6
+5776,23366,BlueDart,Shipped,1
+5777,23814,Ekart,Out for Delivery,2
+5778,22569,Delhivery,Delivered,3
+5779,20887,DTDC,Out for Delivery,5
+5780,25527,DTDC,Shipped,6
+5781,24640,Ekart,Delivered,4
+5782,22681,DTDC,Processing,1
+5783,25248,BlueDart,Packed,4
+5784,22579,BlueDart,Packed,5
+5785,23238,Ekart,Delivered,3
+5786,25222,BlueDart,Processing,1
+5787,24620,BlueDart,Packed,2
+5788,22672,Delhivery,Shipped,3
+5789,22893,DTDC,Delivered,6
+5790,23017,BlueDart,Out for Delivery,6
+5791,21069,BlueDart,Out for Delivery,4
+5792,23386,Delhivery,Shipped,1
+5793,22333,BlueDart,Out for Delivery,3
+5794,21754,Delhivery,Packed,5
+5795,23866,Delhivery,Delivered,1
+5796,21808,DTDC,Packed,2
+5797,24837,BlueDart,Processing,1
+5798,25079,BlueDart,Shipped,6
+5799,21218,Ekart,Packed,5
+5800,21252,BlueDart,Delivered,6
+5801,23026,Delhivery,Processing,6
+5802,25520,Ekart,Delivered,4
+5803,21091,Ekart,Processing,4
+5804,23544,Ekart,Packed,5
+5805,20446,DTDC,Delivered,2
+5806,25401,Ekart,Out for Delivery,4
+5807,23752,Delhivery,Processing,4
+5808,24144,BlueDart,Shipped,3
+5809,23271,DTDC,Out for Delivery,4
+5810,24978,Ekart,Delivered,2
+5811,23535,Delhivery,Delivered,6
+5812,22534,BlueDart,Delivered,4
+5813,24142,BlueDart,Shipped,6
+5814,20135,Ekart,Shipped,5
+5815,21481,Ekart,Out for Delivery,2
+5816,24677,DTDC,Packed,4
+5817,23116,BlueDart,Packed,7
+5818,21170,Ekart,Out for Delivery,6
+5819,21302,DTDC,Packed,6
+5820,22492,DTDC,Delivered,7
+5821,25879,BlueDart,Out for Delivery,1
+5822,25961,Ekart,Out for Delivery,2
+5823,21577,BlueDart,Shipped,6
+5824,22060,DTDC,Out for Delivery,4
+5825,20864,Delhivery,Shipped,1
+5826,22444,DTDC,Processing,5
+5827,20395,DTDC,Delivered,4
+5828,21383,DTDC,Delivered,6
+5829,24275,DTDC,Delivered,2
+5830,22227,Ekart,Delivered,3
+5831,20156,BlueDart,Delivered,3
+5832,20684,DTDC,Delivered,6
+5833,22655,DTDC,Processing,2
+5834,25466,Ekart,Shipped,1
+5835,24600,BlueDart,Packed,7
+5836,20832,BlueDart,Delivered,1
+5837,20994,DTDC,Delivered,6
+5838,21562,Ekart,Out for Delivery,4
+5839,24798,Delhivery,Packed,6
+5840,21667,DTDC,Out for Delivery,5
+5841,22030,Delhivery,Processing,7
+5842,25517,BlueDart,Packed,7
+5843,20228,Delhivery,Out for Delivery,2
+5844,20785,Ekart,Packed,1
+5845,20049,BlueDart,Packed,5
+5846,20815,Ekart,Packed,2
+5847,20600,BlueDart,Packed,7
+5848,23236,BlueDart,Processing,3
+5849,20040,BlueDart,Processing,2
+5850,23974,Delhivery,Packed,2
+5851,21002,DTDC,Out for Delivery,2
+5852,20287,Delhivery,Packed,5
+5853,22849,Delhivery,Packed,1
+5854,25433,DTDC,Out for Delivery,6
+5855,22624,DTDC,Delivered,6
+5856,25647,Delhivery,Processing,6
+5857,20047,Delhivery,Delivered,6
+5858,20649,DTDC,Out for Delivery,7
+5859,22808,BlueDart,Packed,3
+5860,22531,BlueDart,Shipped,2
+5861,24181,DTDC,Processing,3
+5862,20596,Ekart,Shipped,6
+5863,24038,Ekart,Out for Delivery,5
+5864,20945,Delhivery,Out for Delivery,6
+5865,20480,DTDC,Processing,2
+5866,23954,BlueDart,Delivered,2
+5867,20272,Ekart,Processing,1
+5868,25106,BlueDart,Delivered,1
+5869,24468,BlueDart,Shipped,6
+5870,25845,Delhivery,Packed,7
+5871,21679,BlueDart,Processing,4
+5872,25457,Delhivery,Processing,3
+5873,24918,BlueDart,Packed,3
+5874,25718,Delhivery,Delivered,2
+5875,21138,Ekart,Packed,6
+5876,23694,DTDC,Packed,3
+5877,21209,Delhivery,Packed,1
+5878,21805,Delhivery,Processing,4
+5879,23829,Ekart,Shipped,2
+5880,24335,BlueDart,Packed,4
+5881,24048,Delhivery,Processing,6
+5882,20684,DTDC,Out for Delivery,5
+5883,20908,Delhivery,Out for Delivery,4
+5884,24400,DTDC,Packed,5
+5885,20058,BlueDart,Shipped,1
+5886,22729,BlueDart,Delivered,4
+5887,22102,BlueDart,Out for Delivery,4
+5888,21916,Delhivery,Packed,2
+5889,20335,Ekart,Processing,4
+5890,25618,Ekart,Packed,6
+5891,20190,Ekart,Processing,3
+5892,21617,Delhivery,Delivered,5
+5893,22303,Delhivery,Processing,6
+5894,22808,Delhivery,Out for Delivery,3
+5895,22620,Delhivery,Delivered,3
+5896,24111,Ekart,Packed,5
+5897,22386,DTDC,Out for Delivery,4
+5898,20511,BlueDart,Out for Delivery,5
+5899,22053,DTDC,Out for Delivery,5
+5900,24032,Delhivery,Processing,5
+5901,25367,BlueDart,Processing,6
+5902,23683,DTDC,Shipped,6
+5903,22410,Delhivery,Shipped,5
+5904,21903,Ekart,Shipped,6
+5905,20064,Delhivery,Out for Delivery,2
+5906,23620,BlueDart,Out for Delivery,6
+5907,24874,DTDC,Packed,6
+5908,21127,BlueDart,Delivered,1
+5909,20966,BlueDart,Packed,1
+5910,22958,Delhivery,Processing,7
+5911,21292,Delhivery,Packed,3
+5912,20227,DTDC,Packed,7
+5913,23141,Delhivery,Processing,5
+5914,24887,Delhivery,Shipped,1
+5915,21465,Ekart,Processing,4
+5916,22579,Delhivery,Processing,6
+5917,23843,Ekart,Out for Delivery,7
+5918,20637,Delhivery,Out for Delivery,1
+5919,25475,DTDC,Shipped,5
+5920,22881,DTDC,Delivered,4
+5921,24180,DTDC,Packed,6
+5922,25386,Delhivery,Packed,7
+5923,22086,Delhivery,Out for Delivery,6
+5924,25409,Delhivery,Shipped,6
+5925,22440,Delhivery,Packed,5
+5926,25388,Delhivery,Delivered,1
+5927,21019,Delhivery,Shipped,7
+5928,22747,DTDC,Out for Delivery,7
+5929,25696,DTDC,Out for Delivery,4
+5930,23409,Delhivery,Delivered,7
+5931,22772,BlueDart,Shipped,5
+5932,23270,Delhivery,Processing,4
+5933,20320,BlueDart,Processing,4
+5934,23459,Ekart,Shipped,1
+5935,23959,DTDC,Processing,2
+5936,21250,BlueDart,Delivered,1
+5937,22061,Ekart,Packed,3
+5938,23704,BlueDart,Out for Delivery,4
+5939,25384,BlueDart,Shipped,7
+5940,21554,BlueDart,Processing,5
+5941,22895,BlueDart,Delivered,3
+5942,24294,DTDC,Packed,3
+5943,25807,DTDC,Packed,4
+5944,21405,BlueDart,Packed,6
+5945,25938,Ekart,Out for Delivery,6
+5946,25137,Delhivery,Packed,6
+5947,22089,Delhivery,Delivered,2
+5948,24714,DTDC,Out for Delivery,2
+5949,25849,Ekart,Out for Delivery,3
+5950,24373,Ekart,Shipped,2
+5951,25549,DTDC,Packed,5
+5952,24565,BlueDart,Shipped,6
+5953,23219,Ekart,Packed,6
+5954,21965,Delhivery,Delivered,6
+5955,24530,DTDC,Out for Delivery,4
+5956,21361,BlueDart,Out for Delivery,2
+5957,22732,BlueDart,Packed,7
+5958,22554,Delhivery,Out for Delivery,6
+5959,21295,Delhivery,Processing,4
+5960,23475,BlueDart,Packed,3
+5961,20485,Delhivery,Shipped,6
+5962,21092,Delhivery,Shipped,4
+5963,25651,BlueDart,Shipped,6
+5964,22813,BlueDart,Out for Delivery,2
+5965,23287,BlueDart,Delivered,5
+5966,23438,BlueDart,Packed,2
+5967,22986,DTDC,Processing,3
+5968,22261,Ekart,Shipped,3
+5969,25871,Delhivery,Shipped,2
+5970,22220,Ekart,Packed,1
+5971,20635,Delhivery,Out for Delivery,3
+5972,22173,Ekart,Shipped,5
+5973,22724,DTDC,Shipped,2
+5974,20664,Ekart,Packed,7
+5975,25124,Ekart,Out for Delivery,2
+5976,24143,Delhivery,Shipped,1
+5977,21323,Delhivery,Processing,4
+5978,22238,DTDC,Delivered,2
+5979,22062,DTDC,Shipped,2
+5980,24806,DTDC,Packed,3
+5981,23613,BlueDart,Shipped,2
+5982,25340,DTDC,Shipped,7
+5983,25286,Delhivery,Shipped,2
+5984,20018,Delhivery,Out for Delivery,3
+5985,20977,Ekart,Shipped,6
+5986,20617,BlueDart,Shipped,4
+5987,24660,BlueDart,Packed,1
+5988,22783,DTDC,Delivered,2
+5989,22131,Ekart,Packed,1
+5990,20211,Delhivery,Packed,3
+5991,23314,Ekart,Packed,6
+5992,23920,DTDC,Packed,3
+5993,21685,Delhivery,Processing,3
+5994,25177,DTDC,Processing,4
+5995,23447,DTDC,Processing,6
+5996,20217,DTDC,Delivered,6
+5997,23386,BlueDart,Out for Delivery,3
+5998,24974,Delhivery,Packed,7
+5999,20524,DTDC,Delivered,6
+6000,25152,Delhivery,Out for Delivery,3
